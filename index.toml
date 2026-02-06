@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "logo-text.png"
+hash = "ec9968da0be1da65f4d19c400a627b0714cbb932ee74b34568f1b4484c47cf8c"
