@@ -1,0 +1,13 @@
+name = "Broken Nametags"
+filename = "broken_nametags-forge-0.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4eLgBzx7/versions/xOtVh8XB/broken_nametags-forge-0.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b22ea6ddfaec2c6455f27b115e205fcb1e5bbd6f838e52bc229f42625d0290d225c6e5c8fce670fc9dbdcd6141098d1b88624ea7bd6558609cd91a3949d0108c"
+
+[update]
+[update.modrinth]
+mod-id = "4eLgBzx7"
+version = "xOtVh8XB"

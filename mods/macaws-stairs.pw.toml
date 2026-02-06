@@ -1,0 +1,13 @@
+name = "Macaw's Stairs"
+filename = "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/wL67k7Aj/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+hash-format = "sha512"
+hash = "cd96b04b86e026048971174b9c9588bd9ff65e8e4411a268032cbeffd646d7ae3f9ece5ac0a6bd95eb9b12de9d413003379c63916019e6befdc2f3da05690a14"
+
+[update]
+[update.modrinth]
+mod-id = "iP3wH1ha"
+version = "wL67k7Aj"

@@ -1,0 +1,13 @@
+name = "Immersive Paintings"
+filename = "immersive_paintings-0.6.10+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6txNkua3/versions/QHkdoCL0/immersive_paintings-0.6.10%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "df55a96155d23fa77ef3456dc64cace8935520644ea944eded487003b1cc3cf27120f8ae149988ff57caf709a7e5158357d478ca0755776b070d3d00d0862ef8"
+
+[update]
+[update.modrinth]
+mod-id = "6txNkua3"
+version = "QHkdoCL0"

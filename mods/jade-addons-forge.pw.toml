@@ -1,0 +1,13 @@
+name = "Jade Addons (Neo/Forge)"
+filename = "JadeAddons-1.20.1-Forge-5.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/AvIT9ADi/JadeAddons-1.20.1-Forge-5.5.0.jar"
+hash-format = "sha512"
+hash = "a11d4604453f7aa7cbeafcd2b399c7e39e66a5b38cccdbc7ad7dbce3f79f0a632568d28665ffb22a29676c78ad2089d9bf13793518fc453270a0bbbbbcfd91fd"
+
+[update]
+[update.modrinth]
+mod-id = "xuDOzCLy"
+version = "AvIT9ADi"

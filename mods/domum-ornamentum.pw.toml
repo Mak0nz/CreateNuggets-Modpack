@@ -1,0 +1,13 @@
+name = "Domum Ornamentum"
+filename = "domum_ornamentum-1.20.1-1.0.296-snapshot-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "101414694684b806ac6e25399627a833c0075b86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7541235
+project-id = 527361

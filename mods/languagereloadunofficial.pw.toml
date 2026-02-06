@@ -1,0 +1,13 @@
+name = "LanguageReloadUnofficial"
+filename = "languagereload-forge-1.20.1-1.0.1-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4zpN0syd/versions/TSfGFlMe/languagereload-forge-1.20.1-1.0.1-all.jar"
+hash-format = "sha512"
+hash = "97bf43092e4d305b54f8731901a2f061533bf1b8e01ad4a4f34c68a0555cac0543800d6f8f1efd87832a7d947228736d4940f2fe7cf60f06ed25ef9bc4abab71"
+
+[update]
+[update.modrinth]
+mod-id = "4zpN0syd"
+version = "TSfGFlMe"

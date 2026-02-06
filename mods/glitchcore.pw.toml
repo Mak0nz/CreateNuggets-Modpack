@@ -1,0 +1,13 @@
+name = "GlitchCore"
+filename = "GlitchCore-forge-1.20.1-0.0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash-format = "sha512"
+hash = "f4d9ec11b9604f59552cbecf4099600e7adef993cff37af0badac29505bd47aa9615acd140ee808b51754b048c2d61e2f942f656ff391df1e080cbffdfec5112"
+
+[update]
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "pYPZ5MNI"

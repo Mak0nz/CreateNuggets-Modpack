@@ -1,0 +1,13 @@
+name = "IAFCE - XaeroMap Support"
+filename = "IAFCE - XaeroMap Support V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ho14uxwD/versions/XAqm3Jqm/IAFCE%20-%20XaeroMap%20Support%20V1.zip"
+hash-format = "sha512"
+hash = "4aea97061c3e337e0857df99c342b5d8ecc0f4fa1efeb321d442cd0a35a84e8ee4622ba9dcd676496d1e46d1a1bff2eff5217ec24fad9c16551662868a392ba5"
+
+[update]
+[update.modrinth]
+mod-id = "ho14uxwD"
+version = "XAqm3Jqm"

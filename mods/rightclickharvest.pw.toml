@@ -1,0 +1,12 @@
+name = "RightClickHarvest"
+side = "both"
+filename = "rightclickharvest-forge-4.6.1+1.20.1.jar"
+
+[update.modrinth]
+mod-id = "Cnejf5xM"
+version = "NFxivT5s"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/NFxivT5s/rightclickharvest-forge-4.6.1%2B1.20.1.jar"
+hash = "4c547c9ab385b2ea3f942f61fd8febe1b683f06c4e8bfb0d17b8089e1d3377402a2feda5c9af1799b6e13c6e3db0925dc52b498f4cf3bc115b36a353ec68e168"

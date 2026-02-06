@@ -1,0 +1,13 @@
+name = "Colorwheel Patcher"
+filename = "colorwheel_patcher-forge-1.0.4+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KPsw5jDu/versions/1JZBSXYs/colorwheel_patcher-forge-1.0.4%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "d9979e73e4086e0ebd4143b4b639a30a077607d3462e35477f4c4ece433995542c6434f18f42dfc5c894151c833e5fa488bde4caea4aff843f970bafeade2afb"
+
+[update]
+[update.modrinth]
+mod-id = "KPsw5jDu"
+version = "1JZBSXYs"

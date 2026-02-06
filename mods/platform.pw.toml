@@ -1,0 +1,13 @@
+name = "Platform"
+filename = "Platform-forge-1.20.1-1.2.11.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/Tr7r96Or/Platform-forge-1.20.1-1.2.11.5.jar"
+hash-format = "sha512"
+hash = "19629db1ac3d01a0dde2db4826f8d645365dba256acc6299834453b99556d79682b04cf6227f6a19cbcd8875856b43fdf434bde64eb646be5011d58c9d2f8446"
+
+[update]
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "Tr7r96Or"

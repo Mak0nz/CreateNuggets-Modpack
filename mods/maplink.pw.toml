@@ -1,0 +1,13 @@
+name = "Map Link  (formerly Remote Player Waypoints for Xaero's Map)"
+side = "client"
+filename = "maplink-forge-4.1.2-1.20-1.20.1.jar"
+pin = true
+
+[update.modrinth]
+mod-id = "kiByZ6gx"
+version = "wRQ5pp3B"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/wRQ5pp3B/maplink-forge-4.1.2-1.20-1.20.1.jar"
+hash = "cb3297dbe7516e52008605f4f0dd68e01520195aeff951c74ea59925a283691f79d330736933d8f188e0d3df77025003240a4e0a92dd22ff221cf874d6608091"

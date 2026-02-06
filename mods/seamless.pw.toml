@@ -1,0 +1,13 @@
+name = "Seamless"
+filename = "seamless-2.2.2-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhyHyQke/versions/BcWF7G0E/seamless-2.2.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "a87365690360167966b43c963a11018b6d1edc969bf758d9c55b34d799a074b4f09282b44bc79f1e879493d91c6300b18bb83cc6137da2a52688bd857c781606"
+
+[update]
+[update.modrinth]
+mod-id = "rhyHyQke"
+version = "BcWF7G0E"

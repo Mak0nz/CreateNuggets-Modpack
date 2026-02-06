@@ -1,0 +1,49 @@
+{
+  "schema_version": "2",
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "default_packs": [
+    "mod_resources",
+    "fabric",
+    "builtin/towntalk",
+    "Moonlight Mods Dynamic Assets",
+    "default_seamless",
+    "create_aquatic_ambitions:harverstable_corals",
+    "create_aquatic_ambitions:silkless_corals",
+    "vanillabackport:vb_freshly_animated",
+    "file/Create Immersive Aircrafts Resource Pack 1.20.1 - 3.0.zip",
+    "file/IAFCE - XaeroMap Support V1.zip",
+    "file/CreateNuggetsPack.zip"
+  ],
+  "pack_overrides": {
+    "*": [
+      "vanilla",
+      "mod_resources",
+      "fabric",
+      "builtin/towntalk",
+      "Moonlight Mods Dynamic Assets",
+      "default_seamless",
+      "create_aquatic_ambitions:harverstable_corals",
+      "create_aquatic_ambitions:silkless_corals",
+      "vanillabackport:vb_freshly_animated",
+      "file/Create Immersive Aircrafts Resource Pack 1.20.1 - 3.0.zip",
+      "file/IAFCE - XaeroMap Support V1.zip",
+      "file/CreateNuggetsPack.zip"
+    ],
+    "hidden": [
+      "railways:green_signals",
+      "railways:legacy_palettes",
+      "railways:legacy_semaphore",
+      "supplementaries:darker_ropes",
+      "vinery:bushy_leaves"
+    ],
+    "$$*": {
+      "required": true,
+      "hidden": true
+    },
+    "$$hidden": {
+      "hidden": true
+    }
+  }
+}

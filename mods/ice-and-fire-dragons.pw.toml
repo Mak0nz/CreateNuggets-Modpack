@@ -1,0 +1,13 @@
+name = "Ice and Fire"
+filename = "iceandfire-2.1.13-1.20.1-beta-5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar"
+hash-format = "sha512"
+hash = "9e3559efccfb898a1f96c16910c07d26bafa730603a335db04df5a1ef511bd2e60b6bbb788c12aa80b12c8ffd8228e7eddf840f90f356577bfd0e439e24eb4f1"
+
+[update]
+[update.modrinth]
+mod-id = "LVnvHVBp"
+version = "EzN8KQYF"

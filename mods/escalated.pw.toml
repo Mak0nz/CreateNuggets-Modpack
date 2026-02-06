@@ -1,0 +1,13 @@
+name = "Create: Escalated"
+filename = "escalated-1.2.1+create.6.0.8-mc.1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/T9TPMmAy/escalated-1.2.1%2Bcreate.6.0.8-mc.1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "8099b730a540bab5f936c774f4b097226127a4f22fca144c0a785fb33d22cc9d0d76b36afc1a2c7d265cad7d603613f75abf2a8d92a00749b284fd0f465b7500"
+
+[update]
+[update.modrinth]
+mod-id = "LyOBYG8Q"
+version = "T9TPMmAy"

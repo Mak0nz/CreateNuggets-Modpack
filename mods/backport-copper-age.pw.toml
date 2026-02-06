@@ -1,0 +1,13 @@
+name = "Copper Age Backport"
+filename = "copperagebackport-forge-1.20.1-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a1llHwl4/versions/BeVdLB9R/copperagebackport-forge-1.20.1-0.1.4.jar"
+hash-format = "sha512"
+hash = "8acb6abf06d2ac7cee4b577c692fdd92bc8e2556f2ac13768908a328b3830f6abf35178855a260ca6ee645673f438f76e7c3f92a5add0735db54d4c27be198f0"
+
+[update]
+[update.modrinth]
+mod-id = "a1llHwl4"
+version = "BeVdLB9R"

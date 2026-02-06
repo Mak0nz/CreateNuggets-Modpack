@@ -1,0 +1,13 @@
+name = "AnimaticaReforged"
+filename = "AnimaticaReforged-1.20.1-0.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6ABF6Pv3/versions/LsNLjiD0/AnimaticaReforged-1.20.1-0.1.2.jar"
+hash-format = "sha512"
+hash = "f3a97610913ee8fbe3cd14073722de525a1672a05ecdd299f615d3f59a4211a950055439a97fb52b81969b0f28e8d7777cf502297ce3aad39f8929aca5e80a3b"
+
+[update]
+[update.modrinth]
+mod-id = "6ABF6Pv3"
+version = "LsNLjiD0"

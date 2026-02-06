@@ -1,0 +1,13 @@
+name = "Macaw's Biomes O' Plenty"
+filename = "mcwbiomesoplenty-1.20.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/SxYZ8pJ1/mcwbiomesoplenty-1.20.1-1.5.jar"
+hash-format = "sha512"
+hash = "bfd63cd704807746be193fc51029f2e8da9ad10d4333de56024a1b088adfaf01fd4f9f4783354924b9c745186d610f07454627dee81ff8771e79567adc2f7635"
+
+[update]
+[update.modrinth]
+mod-id = "Tanquv9C"
+version = "SxYZ8pJ1"

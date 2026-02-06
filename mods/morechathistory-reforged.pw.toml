@@ -1,0 +1,13 @@
+name = "MoreChatHistory Reforged"
+filename = "morechathistory-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wOIKNYYX/versions/iywAuBD2/morechathistory-1.0.0.jar"
+hash-format = "sha512"
+hash = "f582c69d23d71f31c8d042b546f808ae23e70596654aa6ca11e3fee52cc5d7d9027c549a987bd03372f016b131607de7d57dcdf627e4eff0532064a4921f2fed"
+
+[update]
+[update.modrinth]
+mod-id = "wOIKNYYX"
+version = "iywAuBD2"

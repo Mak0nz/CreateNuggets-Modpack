@@ -1,0 +1,13 @@
+name = "Item Highlighter"
+filename = "Highlighter-1.20.1-forge-1.1.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar"
+hash-format = "sha512"
+hash = "a8b9e114281c1390ecded38a6114516dc0b3ae0e4cb0f041162d54b6cabfacf077c7394075c43c1565a01362cdbf37e45c3bdeac2aa5b8dede93970bafd44c65"
+
+[update]
+[update.modrinth]
+mod-id = "cVNW5lr6"
+version = "rcQOLnyI"

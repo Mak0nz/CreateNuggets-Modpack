@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Mod"
+filename = "toms_storage-1.20-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/XELeoPjZ/toms_storage-1.20-1.7.1.jar"
+hash-format = "sha512"
+hash = "ac5a057a9fdafa851fca05be77ba68548082119e0b7ac19f2197e418da703bf60f341e65ec76ddc73003682b89159850f6b9dff65147df3c0c9b8e6f58460ce0"
+
+[update]
+[update.modrinth]
+mod-id = "XZNI4Cpy"
+version = "XELeoPjZ"

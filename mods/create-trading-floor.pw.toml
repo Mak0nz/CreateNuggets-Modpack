@@ -1,0 +1,13 @@
+name = "Create: Trading floor"
+filename = "trading_floor-forge-1.20.1-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WROfLLvn/versions/colmW8rh/trading_floor-forge-1.20.1-2.0.5.jar"
+hash-format = "sha512"
+hash = "39332926527a942f3546f07cd1629682d87999470138ae848c095980b7e5ac35edf559c15a352dec75f58621ef9380581b999b617842ef2a759e669e8dae674c"
+
+[update]
+[update.modrinth]
+mod-id = "WROfLLvn"
+version = "colmW8rh"

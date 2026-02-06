@@ -1,0 +1,13 @@
+name = "Every Compat (Wood Good)"
+filename = "everycomp-1.20-2.9.15-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/tkWAtsse/everycomp-1.20-2.9.15-forge.jar"
+hash-format = "sha512"
+hash = "1628b4518f6ade1709a8c5823d92fb9e4f728aac77a1c3e4e1e5ece02920652babf3851d902f1a6dd1dc617227bb37c965a894a803b78b6fa9896d23e1e7980a"
+
+[update]
+[update.modrinth]
+mod-id = "eiktJyw1"
+version = "tkWAtsse"
