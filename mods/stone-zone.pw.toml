@@ -1,13 +1,13 @@
 name = "Every Compat (Stone Zone)"
-filename = "stonezone-1.20-2.9.9.jar"
+filename = "stonezone-1.20-2.9.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/YriFHmfM/stonezone-1.20-2.9.9.jar"
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/m5I4GJ0w/stonezone-1.20-2.9.10.jar"
 hash-format = "sha512"
-hash = "5280be58b72f529334e58a03141e94817d26bfb38279bcc6a24ab791130b25dac8a7f40a6910610d314682bde4038533696ef2c11a219dc14709de0378173b46"
+hash = "d71a97a42475dc94cea11887bdfdc18b9e9447a4c1a7f7286b1922c5aec8ae652c5776018d5671aebaa6f6b59480da608b9ea361d5343ee4be8ff7423f51e68f"
 
 [update]
 [update.modrinth]
 mod-id = "uYwn8IP5"
-version = "YriFHmfM"
+version = "m5I4GJ0w"
