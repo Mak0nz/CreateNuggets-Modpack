@@ -21,6 +21,10 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "c5c3474096bb9b95aec63ee3e72fd17c4ff548cad7527e0918103c92d05401ca"
+
+[[files]]
 file = "config/fastsuite.cfg"
 hash = "44198ad591572d87a9f71b0b636229d91508a8c971f9dca907bed3c6d6754193"
 
@@ -38,7 +42,7 @@ hash = "b7a5abb2fe6657713e12c5be208eeab671421bf0084e60e0ba5dde9aa964cefc"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1179ed09af15d3b787b3f3e4370d1829665544bdf6565010dc068633daba0afc"
+hash = "7057719d3c8b52aab4dc7e88304386a7145033df1b094dbab1f1dec554803aaf"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
@@ -79,6 +83,11 @@ hash = "4ef873691396c99e99ba1e444bba7bf64a55cffe52a3b25850c5fa298ea8a950"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
+metafile = true
+
+[[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "3ca7d9d3e8a27d354ece2adc3bbaf41f7c22f9b3e3b85175ff996e1f58f095fb"
 metafile = true
 
 [[files]]
@@ -133,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "c1284726c60bfa550ccb64104dd8a293c831aca08228ebb0f5e27ce9bd7f9cac"
+hash = "c07ce5e6e78c29b64bffc698b9cea5641819c0d67477830b3698f6ae2c1d8101"
 metafile = true
 
 [[files]]
@@ -149,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "52b4f29eb4a4392ef085617292842dc9fc84d86c318da5ce470b24eab77f6bdc"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "f5eabbef8dbed2bc19e632718a720a6d77466eeb66b9b220930f7f66e8a9d032"
 metafile = true
 
 [[files]]
@@ -178,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "38387bbdfcd685324d94d2180739aa54f01cced2b4febaa146b2620f8ff7886e"
+hash = "2195b22648787aac875b1ea60c51cca57c1c0a4db4241ec52cd3ea2abfeaebf4"
 metafile = true
 
 [[files]]
@@ -263,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "4963478c21a69923c6a54097afdf8058746bddbe34e55779199a7a6bce6de78b"
+hash = "576413241e28627bf863636bc58fa9c6f3048ec29aba23895047f4fdfd40379d"
 metafile = true
 
 [[files]]
@@ -293,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "c287631064c1179bea1c515d8f6202f7c18595498242110bc882e8a1aed8382a"
+hash = "c2c1a3a370dcb7f12dca66cdafa479fd3f57c34ff8866e39317849d39a9d2316"
 metafile = true
 
 [[files]]
@@ -308,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "5c54e5306fa641958d698ca8fbb616d173a206e56eba625d7e109f0c8fa11231"
+hash = "65249750d5dcfa5d191aa000acc631a99e528d14c7bcee55232c5fff2f7b8078"
 metafile = true
 
 [[files]]
@@ -483,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
 metafile = true
 
 [[files]]
@@ -509,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
 metafile = true
 
 [[files]]
@@ -838,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "10a2c96ee7a1bcd34c6ed7569c73a3a1245d2e781a99fb0c8fefe4c27ed849f0"
+hash = "f02471327efabadbcc3de43b790c8dae7be4740a201a6df13ddcd3d04bc02484"
 metafile = true
 
 [[files]]
@@ -933,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "06b9288ab5a1faf30d233cdcaa8912705e45325ffcf1c26bcd41ecf8e0931835"
+hash = "0feebdb1bfd17f1f599f4fa99dcb87e942adddf218b683ebce6001bd543f49ca"
 metafile = true
 
 [[files]]
@@ -973,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "32aab2432d9c1b04d25e8e6e5d585e45b8f1c78446c5d894954932e9642e79b2"
+hash = "532895715dc47283ed1877d10ba26563b442d8fc551b09ba314e008d5fcbd02f"
 metafile = true
 
 [[files]]
@@ -1188,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/CreateNuggetsPack.zip"
-hash = "c0d6add441365ddac42cbfdf64fb32f62280738a583a565784e79478622366ee"
+hash = "dc8b713f759295679afb234aa44e53088a3ae6c64dc77ccc2372bfaffc2655e3"
 
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"

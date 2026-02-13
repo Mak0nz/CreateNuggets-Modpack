@@ -1,13 +1,13 @@
 name = "Rechiseled"
-filename = "rechiseled-1.2.2-forge-mc1.20.1.jar"
+filename = "rechiseled-1.2.3-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/tePFrBGu/rechiseled-1.2.2-forge-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/LkmLA8Wu/rechiseled-1.2.3-forge-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "3a89dd8cdb66f7250cc3bb2c2142ba24770d22bbcbb0f6fbaaa623e089a2b8805a13a1ce6440f931d99017acef041823a082330101ade4e685bda5721665e716"
+hash = "becb73bfa1dc27e5d748b042f0e5d333afa45f5878a7e8399324c93a89f738bf557b341217bdc2998a39b0e290b59ed5f1c3a5abbed4fe8cf92452e61cb88134"
 
 [update]
 [update.modrinth]
 mod-id = "B0g2vT6l"
-version = "tePFrBGu"
+version = "LkmLA8Wu"
