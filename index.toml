@@ -22,7 +22,11 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c5c3474096bb9b95aec63ee3e72fd17c4ff548cad7527e0918103c92d05401ca"
+hash = "39debfddd782a1d59332198369f549e3d4221a22b549a12bd360086eeb71b37e"
+
+[[files]]
+file = "config/estrogen/client.toml"
+hash = "c40ee196769614b0fba9a0e099841598a7a2f0754348fc39c1262c159e2fd2c8"
 
 [[files]]
 file = "config/fastsuite.cfg"
@@ -77,6 +81,10 @@ file = "config/simplemenu/logo/logo.png"
 hash = "4670a75edfb14cb4df8872f9211b2f333b27df515cffdd9671ad3de6f056c276"
 
 [[files]]
+file = "config/splashy.json"
+hash = "38a8d2e1842a20881be18a126621920b18a107c504b720f3c6da537c22c99704"
+
+[[files]]
 file = "icon.png"
 hash = "4ef873691396c99e99ba1e444bba7bf64a55cffe52a3b25850c5fa298ea8a950"
 
@@ -121,8 +129,8 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/armor-poser.pw.toml"
-hash = "ed27ab2a21513281ff8ef8ab7ac581944288f6b4f1245f41c0bcb735c35630f4"
+file = "mods/armor-statues.pw.toml"
+hash = "3d8be55f14760357d0676b6e551c3d6afa4494ffbc06629b874230a940a04e17"
 metafile = true
 
 [[files]]
@@ -162,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "f5eabbef8dbed2bc19e632718a720a6d77466eeb66b9b220930f7f66e8a9d032"
+hash = "ad8910aabbd4a7267036af9776f196c3fa45e6cdd3322e8a4056e6e76670a0f5"
 metafile = true
 
 [[files]]
@@ -203,11 +211,6 @@ metafile = true
 [[files]]
 file = "mods/broken-nametags.pw.toml"
 hash = "1661b0e184c80de63117906913c8877c68b13b2816a8c029690deb1bf117438c"
-metafile = true
-
-[[files]]
-file = "mods/calcmod.pw.toml"
-hash = "3814c25e243d7c5bd7f47e6f8870bdf264dcafd279ac4c84b0392bf00f4ac227"
 metafile = true
 
 [[files]]
@@ -297,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
+hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
 metafile = true
 
 [[files]]
@@ -328,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "1943f3f52f4d0f9b7d74302ee7b8c0557cdeb718900aa1c4c853576d28b0299f"
+metafile = true
+
+[[files]]
+file = "mods/create-additional-logistics.pw.toml"
+hash = "3f82dfe426c6c01e958d6e2e918c7b9a657c09826038397d06a1bedc4c86ac5f"
 metafile = true
 
 [[files]]
@@ -412,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "1d404869a8bd83107eda12a6fb6011c0d3a0941611c6e293fd291cedc3167ef8"
+hash = "7a3afd0e669b3f40d708ebc61f64f39c268d432f58f2a204f89a10d0db7872d9"
 metafile = true
 
 [[files]]
@@ -503,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/curious-armor-stands.pw.toml"
+hash = "63f3e9a619b9fddd97668d2ca115c6bc912722b3d47d6d2273da7c0a40da1091"
 metafile = true
 
 [[files]]
@@ -597,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
+hash = "7a180c0c68987482b2ba64c277a7735b9bd01adb910a1d91867134be8cbde29c"
 metafile = true
 
 [[files]]
@@ -807,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "ee387ba74c2c7e999d48071408abbd1ca322e70f36e79c590a150c9572d3a9cb"
+hash = "0261f8fb3b0880b572044ff084edceecd2c91f39ee71c477198313ac2a253f4d"
 metafile = true
 
 [[files]]
@@ -857,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f02471327efabadbcc3de43b790c8dae7be4740a201a6df13ddcd3d04bc02484"
+hash = "0c2fbd60b21ccfd109f8aa2e6946380966eaa56d0e0fba84c1b66652ba7313f2"
 metafile = true
 
 [[files]]
@@ -1091,6 +1104,11 @@ hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
 
 [[files]]
+file = "mods/splashy.pw.toml"
+hash = "321a23d5990955d79cbbe1f7f582852f67ebb9bf8c28698d22ee9861b3ae12ef"
+metafile = true
+
+[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "91b7a500cada02bc53045c4cc53f411b377d4198479fc4521134dd4a8df4aad0"
 metafile = true
@@ -1098,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
 metafile = true
 
 [[files]]
@@ -1207,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/CreateNuggetsPack.zip"
-hash = "dc8b713f759295679afb234aa44e53088a3ae6c64dc77ccc2372bfaffc2655e3"
+hash = "280e795f45ce21c1d33dfdf878aed4e571aeefa52cac8204c2c77aded41bb965"
 
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"

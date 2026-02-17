@@ -1,0 +1,13 @@
+name = "Splashy"
+filename = "Splashy-Forge-1.20.1-14.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f7b8GSGW/versions/AF3e231t/Splashy-Forge-1.20.1-14.0.5.jar"
+hash-format = "sha512"
+hash = "e20542b0971856b296be41c966b4c739bc9649a3365abf40a6bbfea66ee0d364dd597632c9f51e53160136451a070ba959824abb27669c034b407ed054bd929b"
+
+[update]
+[update.modrinth]
+mod-id = "f7b8GSGW"
+version = "AF3e231t"
