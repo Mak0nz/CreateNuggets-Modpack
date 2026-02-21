@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "39debfddd782a1d59332198369f549e3d4221a22b549a12bd360086eeb71b37e"
+hash = "fa65b348575895a5fa4e12a6136811d91d5dc915e3a358fbb95fa4a69e13acaa"
 
 [[files]]
 file = "config/estrogen/client.toml"
@@ -82,7 +82,7 @@ hash = "4670a75edfb14cb4df8872f9211b2f333b27df515cffdd9671ad3de6f056c276"
 
 [[files]]
 file = "config/splashy.json"
-hash = "38a8d2e1842a20881be18a126621920b18a107c504b720f3c6da537c22c99704"
+hash = "ee4204f0306d94b1b1cecd661b9b75dc151c4799496f5dfdbc92a9fd3a009a5d"
 
 [[files]]
 file = "icon.png"
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "345cbc7e5b4b2d14a1120720981248be696d28bc6a0bc23c54f1e11299d85594"
+hash = "11b63148016d37d853c9cc4de936a8fbd90d4d8ca1c27b6af18c213346fab9e2"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a15b5b07f9ff0ed1f653af17ce6a1aaf674a482c037c43266004e1b729d0c7a5"
+hash = "eb725027823ed037a051f59df6bf1b50bd12fb64752637a9819ade16207ef90f"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "90e226d5fc0df3ba13431c66dd5fe320ca320eafd386d8545a98d5f9b30609ee"
+hash = "e4f20190899231d50f06d3b5d2fc35f89ce7a3371c8d13fd3e90497de62e596f"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "29b8ec6b34a1c23b4a3ba3e4824373768250efa0c299a2ea26cf4cfa0b33944c"
+hash = "3f00fbae81c4740cb4966119ca5e6ae63a032518584942ae32ec9c13a3f80dfa"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "c6ff718b4a4f132813f269ddb46d5696036c6b07ccd680f7801569b7f81419d2"
+hash = "4905d86f34c58e9702877013ad2e7190091f6292581e95d490860fa7ba81a416"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1cfa08f9a882ee2d8dda5680909b9593fdd0467f1166ed1cd5c6413aa6ec93b5"
+hash = "88215c28ac2030dad83e4f9d3ecf3ed7540b9e4066174a13c6be314be1b3c5dc"
 metafile = true
 
 [[files]]
@@ -1006,6 +1006,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "532895715dc47283ed1877d10ba26563b442d8fc551b09ba314e008d5fcbd02f"
+metafile = true
+
+[[files]]
+file = "mods/redirected.pw.toml"
+hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
 metafile = true
 
 [[files]]
@@ -1191,6 +1196,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "9c33a58f971fdd8e8c83e59e5a2ee6d183901c08d09022c4309769a813d3e33b"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
 
 [[files]]
