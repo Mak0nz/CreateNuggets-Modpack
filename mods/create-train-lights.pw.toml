@@ -1,0 +1,13 @@
+name = "Create Train Lights"
+filename = "ctl-forge-1.1.0-C6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nRC3whhL/versions/yOlKWVwb/ctl-forge-1.1.0-C6.jar"
+hash-format = "sha512"
+hash = "3e72179ed77d802a50e055b0c4749e2d03537760645d7821d7aa140908073db23f8527d43986c45e7c9ad209083d09d7e8ae200f148a9c687269fe16f6529445"
+
+[update]
+[update.modrinth]
+mod-id = "nRC3whhL"
+version = "yOlKWVwb"

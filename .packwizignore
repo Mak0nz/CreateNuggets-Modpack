@@ -2,7 +2,7 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
-/README.md
+/*.md
 /LICENSE
 /CNAME
 .github/workflows/*
