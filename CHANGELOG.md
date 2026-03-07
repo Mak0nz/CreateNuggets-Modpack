@@ -1,3 +1,25 @@
+## 26.03.07
+- Updated Create: Steam 'n' Rails 1.7.1
+- Updated Create: LTAB 3.8.0
+- Updated Create: Estrogen 1.0.1
+- Updated Crash Assistant 1.11.0
+- Updated Minecolonies 1.1.1195
+- Updated Structurize 1.0.804
+- Added MineColonies: Transit Networks 0.2.0
+- Added SupplyLines 1.3.2 (Embed)
+- Added MmmMmmMmmMmm 2.0.9
+- Added Jurassic Saga 0.1.9
+- Added Travelers Lib 0.5.6
+- Added AzureLib 3.1.3 
+- Added Geckolib 4.8.3
+- Added Golem Overhaul 1.1.0
+- Added Resourceful Config 2.1.3
+- Added Alex's Mobs 1.22.9
+- Added Macaw's Doors 1.1.5
+- Added Ars Nouveau 4.12.7 
+- Added Ars Creo 4.3.0
+- Fix *create deco copper recipes being broken*
+
 ## 26.02.28
 - Updated CC:Tweaked 1.117.1
 - Updated Moonlight Lib 2.16.28

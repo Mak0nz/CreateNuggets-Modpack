@@ -1,0 +1,13 @@
+name = "Jurassic Saga"
+filename = "jurassicsaga-forge-1.20.1-0.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i4bpeN7J/versions/wbLsPVbx/jurassicsaga-forge-1.20.1-0.1.9.jar"
+hash-format = "sha512"
+hash = "8a30a43ae105e68fa2581b02403d7c90d34d7d417ead29856b8199bfe1f83c91eb566ea3b6d61eac7616ee9d9c68c7b2f37c9c05f7ba302b9a046509ef362dc2"
+
+[update]
+[update.modrinth]
+mod-id = "i4bpeN7J"
+version = "wbLsPVbx"

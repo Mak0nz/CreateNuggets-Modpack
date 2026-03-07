@@ -1,12 +1,12 @@
 name = "CreateNuggets"
 author = "Mak0nz"
-version = "26.02.28"
+version = "26.03.07"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "706d1e68c530ab2819c3a66b1167d01a2c728ac88bcc94fbf08ac69d7a32eb52"
+hash = "3904790be6d55f29beadff9b4b339e7e84cebe0f4a76f6aee90e22f4d3d7c543"
 
 [versions]
 forge = "47.4.10"

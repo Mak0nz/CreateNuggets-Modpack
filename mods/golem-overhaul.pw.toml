@@ -1,0 +1,13 @@
+name = "Golem Overhaul"
+filename = "golemoverhaul-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qEYs2G9A/versions/cYcN89gd/golemoverhaul-forge-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "ccbb43782906f5220ba825207840b66530a7f15b04c42b175677d532c432eeeac264a2dfaa884bc172f15a850be0a49a51c052f96e09923bfea57b5037d45622"
+
+[update]
+[update.modrinth]
+mod-id = "qEYs2G9A"
+version = "cYcN89gd"
