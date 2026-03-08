@@ -1,0 +1,13 @@
+name = "Mob Captains"
+filename = "MobCaptains-v3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tKn1fLd/versions/YcFz1tcf/MobCaptains-v3.1.2.jar"
+hash-format = "sha512"
+hash = "bf9a183e9ad1514783756fbad1ee65cce8b6c7c7e32cc5a41e1cc97365d9d08d9925664f99f05dbe8389280d7c760056160b8b892532a037df61543e0cbdd92c"
+
+[update]
+[update.modrinth]
+mod-id = "7tKn1fLd"
+version = "YcFz1tcf"

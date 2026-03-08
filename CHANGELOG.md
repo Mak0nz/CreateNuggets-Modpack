@@ -1,3 +1,7 @@
+## 26.03.08
+- Added Distant Friends 0.5.5
+- Added Mob Captains 3.1.2
+
 ## 26.03.07
 - Updated Create: Steam 'n' Rails 1.7.1
 - Updated Create: LTAB 3.8.0

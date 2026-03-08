@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-forge-1.20.1-0.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/Tl179Gko/DistantFriends-forge-1.20.1-0.5.5.jar"
+hash-format = "sha512"
+hash = "9f0eb50faf9047f0407aa8b11b416562390582dd1bd12a9ea988e7a06cfc936c8e2daef402a61f279177cc7361b83dea2334a60009566ad52b0ddaa987cd8913"
+
+[update]
+[update.modrinth]
+mod-id = "CDaJ8xGu"
+version = "Tl179Gko"

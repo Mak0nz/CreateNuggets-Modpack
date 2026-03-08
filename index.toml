@@ -26,7 +26,7 @@ hash = "a6ae624678902b8bbae69fdd9eeb9f658868890b933d616c5fa86a93c1f8e964"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "f3a317fc2f876ea9a194e71daf6f89d2f773a5b9cb00ff5626dfc5045db48b89"
+hash = "0eb3dbec61b26a6ba3fbfa928efb66183ad3bb7b8491aae6eb24bb834b8d89e2"
 
 [[files]]
 file = "config/estrogen/client.toml"
@@ -588,6 +588,11 @@ hash = "31bec9d75cc9e7e00e3b564c7ad5ff161840a7f5d2a6e39e6ba4672b15ed2040"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "7ca15ce12f8d401fd52401cc645b1f8abeae7a80d07b1c8b29a7776f171a77bd"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "b37c288c1fb4483d43abb03e752cf7a1e2496ec63ebbd9c88e931477aeeb3423"
 metafile = true
@@ -954,6 +959,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "cb6a545e5739fc0e5df919fd60d729cb20634c9febd29b133eca4f172d90aa97"
+metafile = true
+
+[[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "f373b4ce7d061335452c16ae4c13cc613ac747f8faa95c1786f45e23152af253"
 metafile = true
 
 [[files]]
