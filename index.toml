@@ -26,7 +26,7 @@ hash = "a6ae624678902b8bbae69fdd9eeb9f658868890b933d616c5fa86a93c1f8e964"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0eb3dbec61b26a6ba3fbfa928efb66183ad3bb7b8491aae6eb24bb834b8d89e2"
+hash = "c66299b016e5473e8f5b5909575ef6ab2ad1b621f9bcb00ef4a5014efa49325c"
 
 [[files]]
 file = "config/estrogen/client.toml"
@@ -86,7 +86,7 @@ hash = "4670a75edfb14cb4df8872f9211b2f333b27df515cffdd9671ad3de6f056c276"
 
 [[files]]
 file = "config/splashy.json"
-hash = "20d29d146f18f156f9bf7a6379892b34915ed90ccbef34f46a5c7b0966e6160a"
+hash = "43bf733ff015a6d0fca88f044290c02f8e1571c6bbdd89efac1f85cb01c01ebd"
 
 [[files]]
 file = "icon.png"
@@ -160,11 +160,6 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "252e136d5f9f0b672c51d5e04660587df0f691027ccb86be0c64a7bc4e70507a"
-metafile = true
-
-[[files]]
-file = "mods/azurelib.pw.toml"
-hash = "52af8d3df28fb1c16f4f6c9a49a0dda6ddb8725c6690c36d01a6aca94ec5c6ab"
 metafile = true
 
 [[files]]
@@ -838,11 +833,6 @@ hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
 metafile = true
 
 [[files]]
-file = "mods/jurassic-saga.pw.toml"
-hash = "a0aa142589142dc6dbeeeee8c523e3e2cc067bf8a939766b792e6006f2949a5c"
-metafile = true
-
-[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "589b370ffcef405a00daafc5bfa6febaeafef81aa797a3cb63a49555db90fd76"
 metafile = true
@@ -1294,11 +1284,6 @@ metafile = true
 [[files]]
 file = "mods/tramways.pw.toml"
 hash = "025d9db4ad645bd12e9263ac09d2fb70d3f38a8b7fe1a75b88ade3fd430ecfae"
-metafile = true
-
-[[files]]
-file = "mods/travelers-lib.pw.toml"
-hash = "124343c304b5f5de8c835247e1eb77aaab8fc422b85f1b2154931c834462adbc"
 metafile = true
 
 [[files]]

@@ -1,3 +1,9 @@
+## 26.03.09
+- Removed Jurassicsaga
+- Removed TravelersLib
+- Removed AzureLib
+- Added New Splashes
+
 ## 26.03.08
 - Added Distant Friends 0.5.5
 - Added Mob Captains 3.1.2
