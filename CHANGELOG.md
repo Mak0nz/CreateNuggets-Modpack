@@ -1,3 +1,21 @@
+## 26.03.18
+- Updated Forge 47.4.17
+- Updated Create: LTAB 3.8.2
+- Updated Create: Steam 'n' Rails 1.7.2
+- Updated CTL 1.1.1-C6
+- Updated Crash Assistant 1.11.3
+- Updated Colorwheel 1.2.2
+- Updated Particle Rain 4b6
+- Updated Create: Transmission 1.1.0
+- Updated Jamlib 1.3.6
+- Updated Patchouli 85
+- Updated DragonLib 3.0.24
+- Updated Cupboard 3.5.0
+- Updated MineColonies 1.1.1196
+- Updated Domum Ornamentum 1.0.298
+- Added Grim kingdoms 1.20
+- Added New Splashes
+
 ## 26.03.09
 - Removed Jurassicsaga
 - Removed TravelersLib

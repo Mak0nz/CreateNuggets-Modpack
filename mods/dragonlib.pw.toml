@@ -1,13 +1,13 @@
 name = "DragonLib"
-filename = "dragonlib-forge-1.20.1-beta-3.0.21.jar"
+filename = "dragonlib-forge-1.20.1-beta-3.0.24.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/Avd2XMrj/dragonlib-forge-1.20.1-beta-3.0.21.jar"
+url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/rI6RU4Ds/dragonlib-forge-1.20.1-beta-3.0.24.jar"
 hash-format = "sha512"
-hash = "28f0c6d545b805a0d04e1f7f4f1eadb43b77b5c258f7330c05eed080b9e6ad07a06e01c6d4bc40f3f1ff07aeab6de8edc2bbcf5381a1bd02f65e27a903d57ff9"
+hash = "e0b401be31cea3093c53a907540b5793d45d1368315ee2d30f593962031ba08fb42b297c5c1c565815d760901ee48f71dc003544b8706c74000ea03e16ae34d3"
 
 [update]
 [update.modrinth]
 mod-id = "sbIsGaOV"
-version = "Avd2XMrj"
+version = "rI6RU4Ds"
