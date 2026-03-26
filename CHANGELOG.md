@@ -1,3 +1,24 @@
+26.04.01
+- Updated Grim kingdoms 1.0.3
+- Updated LTAB 3.8.3
+- Updated Farmers Delight 1.2.11
+- Updated Wood Good 2.9.18
+- Updated Platform 1.3.0
+- Updated Vanilla Backport 1.1.6.2
+- Updated Entity Culling 1.10.0
+- Updated Mech Trowel 1.3.0
+- Updated Immersive Paintings 0.6.11
+- Updated CTU 3.0.3
+- Updated Traveler's Backpack 9.1.53
+- Updated Simple Discord RPC 4.1.0+h1
+- Updated SuperMartijn642's Core Lib 1.1.21
+- Updated Particle Rain 4b8
+- Updated CraterLib 3.1.0
+- Updated Domum Ornamentum 1.0.300
+- Updated MineColonies 1.1.1205
+- Updated Structorize 1.0.806
+- Added Red Eye Barry 1.0.3
+
 ## 26.03.18
 - Updated Forge 47.4.17
 - Updated Create: LTAB 3.8.2

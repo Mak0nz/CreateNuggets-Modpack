@@ -1,13 +1,13 @@
 name = "Vanilla Backport"
-filename = "VanillaBackport-forge-1.20.1-1.1.5.4.2.jar"
+filename = "VanillaBackport-forge-1.20.1-1.1.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/lXAo1yJs/VanillaBackport-forge-1.20.1-1.1.5.4.2.jar"
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/Pmhh75NY/VanillaBackport-forge-1.20.1-1.1.6.2.jar"
 hash-format = "sha512"
-hash = "cd55249f669defa09f02cd41679119b303db3abdd629646d5aa76b052492edbb2837437eb2b45ee9b60fe3c749ece2a51bc9fa34fd49b5413cd3874a6ddd611e"
+hash = "0c4356442aae63e0e4ff4a8b7568c7d6210474a90d3b014f0295b9e44e1256a9122ada71160817bf5ad011e54f523a945f5593880e1c554dfa3d9c6663648eed"
 
 [update]
 [update.modrinth]
 mod-id = "6xwxDTgf"
-version = "lXAo1yJs"
+version = "Pmhh75NY"

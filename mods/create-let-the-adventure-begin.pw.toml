@@ -1,13 +1,13 @@
 name = "Create: Let The Adventure Begin"
-filename = "create_ltab-3.8.2.jar"
+filename = "create_ltab-3.8.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/DvcjLYIA/create_ltab-3.8.2.jar"
+url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/LbilGOG9/create_ltab-3.8.3.jar"
 hash-format = "sha512"
-hash = "cc754cb0038af5e93a7e4e318ed8ea9db64170baf0f9d0c2171ad8714c7e998501bb7612616f012b44ef2dbcf66c38aa490b332c1207c9767cb1e27457bb2a6c"
+hash = "d5515fe3a9b6542b4924a9fe86a503d110493c7f7637f5a725e612f4acbf12eabf2d79b04dfb77e09e17ee015376cd4090591e1521daa95f9a1d76112b6e613c"
 
 [update]
 [update.modrinth]
 mod-id = "fUa6OtBG"
-version = "DvcjLYIA"
+version = "LbilGOG9"

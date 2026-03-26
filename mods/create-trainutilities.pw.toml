@@ -1,13 +1,13 @@
 name = "Create Train Utilities"
-filename = "trainutilities-forge-3.0.2-C6.jar"
+filename = "trainutilities-forge-3.0.3-C6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kVIxLqso/versions/jCN1it8t/trainutilities-forge-3.0.2-C6.jar"
+url = "https://cdn.modrinth.com/data/kVIxLqso/versions/xTEwzI6m/trainutilities-forge-3.0.3-C6.jar"
 hash-format = "sha512"
-hash = "644997f35275f74edc29818b2ee9923f14d9a117cbb3e67ae65008de7c37fa94d392a68f682cf5962223a58d0504da331c0c6d2d165b96c4aedaed5081d93adc"
+hash = "ac5bf3e307ca169857919bd74817fc0ccad7446e5fb5c8f150891545dd8118780ea1beec9e903e9e75fd5862285378e9b10227267092e8c4a164628534bd1fa7"
 
 [update]
 [update.modrinth]
 mod-id = "kVIxLqso"
-version = "jCN1it8t"
+version = "xTEwzI6m"
