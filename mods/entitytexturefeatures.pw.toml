@@ -1,13 +1,13 @@
 name = "[ETF] Entity Texture Features"
-filename = "entity_texture_features_1.20.1-forge-7.0.9.jar"
+filename = "entity_texture_features_1.20.1-forge-7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/rk8qfZ88/entity_texture_features_1.20.1-forge-7.0.9.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/GQlTHleX/entity_texture_features_1.20.1-forge-7.1.jar"
 hash-format = "sha512"
-hash = "53cfa26a6759e4680d863666cb6ce0d9b1be4aebedceff4d45369a5b8705e5da6739cd13e9bf589d36b909f4f620c05d26d41ded4a76303a18ee28dad6e0a4ec"
+hash = "0857b572a8695148f72eb9edc6218039ceeab8d11068fdfb567a5b1182232d7500ccccd75d6223b96ec5a5a1123910a6ebb1d9e8c8988d3cdb989797b9cc2228"
 
 [update]
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "rk8qfZ88"
+version = "GQlTHleX"

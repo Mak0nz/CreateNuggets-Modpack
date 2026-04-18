@@ -1,0 +1,13 @@
+name = "Strawberry Bushes"
+filename = "Strawberry Bushes 1.20.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c252c1f2699128ad029ddcc2ee42f50af60b2d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4776550
+project-id = 838880

@@ -1,13 +1,13 @@
 name = "Cynosure"
-filename = "cynosure-0.1.15-forge.jar"
+filename = "cynosure-0.1.16-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4JVfdODB/versions/1vIFc2dJ/cynosure-0.1.15-forge.jar"
+url = "https://cdn.modrinth.com/data/4JVfdODB/versions/GLfjiN1q/cynosure-0.1.16-forge.jar"
 hash-format = "sha512"
-hash = "12770bab1b84e7496dce99e456a2163a3711e84de690d474c43415dd2de5883faf69a823f3295f223b606b80fd4923075c9ac70f77f8e4c0a550fad508486d5e"
+hash = "b9a09c5c02aba8d7de205225d9031f3da2b6e38b97053b9f5f94ce9fdb8158307006d47be233186075a496357cfbdc5e151fe47b8087bd38fc61c23b1b36901a"
 
 [update]
 [update.modrinth]
 mod-id = "4JVfdODB"
-version = "1vIFc2dJ"
+version = "GLfjiN1q"

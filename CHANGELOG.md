@@ -1,4 +1,42 @@
-26.04.01
+## 26.04.18
+- Updated C: LTAB 3.8.7
+- Updated Colorwheel patcher 1.0.5
+- Updated Vanilla Backport 1.1.6.3
+- Updated MmmMmmMmmMmm 2.0.11
+- Updated Colorwheel 1.2.3
+- Updated modernfix 5.27.8
+- Updated Particle Rain 4.0.0b9
+- Updated Platform 1.3.2
+- Updated Corpse x Curios API Compat 4.0.1
+- Updated Mech Trowel 1.3.1.1
+- Updated ETF 7.1.0
+- Updated EMF 3.1.1
+- Updated Chat Heads 0.15.1
+- Updated Fast IP Ping 1.0.11
+- Updated Packet Fixer 3.3.2
+- Updated Nature's Compass 1.12.0
+- Updated Crash Assistant 1.11.8
+- Updated Corpse x Cosmetic Armor Reworked Compat 4.0.1
+- Updated Cynosure 0.1.16
+- Updated JEI .130
+- Updated Wood Good 2.9.20
+- Updated Supplementaries 3.1.43
+- Updated Not Enough Animations 1.12.2
+- Updated Entity Culling 1.10.1
+- Updated 3D Skin Layers 1.11.1
+- Updated Collective 8.20
+- Updated Cupboard 3.7
+- Updated Structorize 1.0.811
+- Updated MineColonies .1213
+- Updated SupplyLines 1.4.0
+- Removed Distant Friends
+- Removed Red Eye Barry
+- Added Killer Bunnies 1.2a
+- Added Serene  Seasons 9.1.0.2
+- Added New Splashes
+- Added Strawberry
+
+## 26.04.01
 - Updated Grim kingdoms 1.0.3
 - Updated LTAB 3.8.3
 - Updated Farmers Delight 1.2.11
