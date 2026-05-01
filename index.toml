@@ -26,7 +26,7 @@ hash = "a6ae624678902b8bbae69fdd9eeb9f658868890b933d616c5fa86a93c1f8e964"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "01bca0f2abf92114490f35355c17948d05ad527a7f3b84ebf85c101b75fd2d21"
+hash = "f505de793407af69114b9fe1ebc2b543e4a8b8ad0ab3bf637283eed7979d479b"
 
 [[files]]
 file = "config/estrogen/client.toml"
@@ -50,7 +50,7 @@ hash = "b7a5abb2fe6657713e12c5be208eeab671421bf0084e60e0ba5dde9aa964cefc"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "7057719d3c8b52aab4dc7e88304386a7145033df1b094dbab1f1dec554803aaf"
+hash = "a37c04e439dcefd1ffa53aa6d33eab04eb6b6d35dd28c0d9dadcb4104f8ab541"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -90,7 +90,7 @@ hash = "4670a75edfb14cb4df8872f9211b2f333b27df515cffdd9671ad3de6f056c276"
 
 [[files]]
 file = "config/splashy.json"
-hash = "34d7d2e7e6083c17543e34cfa51c786041a4d2ce997ee7680b23eb43cc0d5d9c"
+hash = "d56c0eb8852a7e68e01e2272de46139a6b653f608dca94cb4a58e1d598a2e995"
 
 [[files]]
 file = "icon.png"
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f96bce116f03cbd4d349cac06c7e4da4976b1cefa4fe14b0427bf867d5ecc578"
+hash = "dbc566b4ae7ea0bc4b947bea4e8dd437f0520edb4065326c3f66e68b45e204f1"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
+hash = "bb3bdc2afe161b29a6f3a207872fea7ee6e7cc21c03590a9477441239236080f"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e6904aff2afd2d2776bd3d21fefba44ebcdce1f8d3bd19819ba39411db419c3f"
+hash = "5a72736e0016bee9e139ec8746e8c3bfa2bf1884275e9ff46f66093248723241"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "ba427b584e4889af9c3de10ac52031cd79cea952f94b6a291f467c644c677365"
+hash = "3851e99d3e3eeeef8f0f7f7a55fe9772453f6c761eef13c52c9090b667ac21a4"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "cc3321e44e34067df02317d3c053d1565c924eefa904a9535f48e9bb9d49c89e"
+hash = "51a2576d6464e69f2f1554ab6993d1c9a27d5e813ef923a83aa4248b4ddb68bb"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "7cbd0fefb8b869ff75fbdf4297d5597429a0fc924ef8de7f741370537796a57f"
+hash = "90f936b5bc3aa77315b35f4475ca529f12487f732c15782c6971e3f91d9905c9"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "11b63148016d37d853c9cc4de936a8fbd90d4d8ca1c27b6af18c213346fab9e2"
+hash = "31ab433b02e4aa2d3dcf628360bd200351b2c0c46d2674b73e5fa4ee3086e4a3"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-transmission!.pw.toml"
-hash = "88734d2cc197a34e49027bd32f8b5e2315ae51151723dba51cb72f74f4fb55a9"
+hash = "9dfa187feb1ab4d9b6d027be41822d3569837633c33933cd70b9ab731b49660b"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "eb725027823ed037a051f59df6bf1b50bd12fb64752637a9819ade16207ef90f"
+hash = "e8d243d28ffc0c970ea2c4049d15d515786b4c92ef5582ffeb9f716686ef9fd3"
 metafile = true
 
 [[files]]
@@ -572,11 +572,6 @@ hash = "8a2734ecec0acfa6809bc0a37466d0d3588b87971859ffc765d90059ab06be13"
 metafile = true
 
 [[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "6ce209c1fb04329eb79b5782b6655f5ae6800b4d0be3d412fff5cd75ae973166"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "dc23ac7c75b3f33b93f5725c9d6cfb2e62575550f2b8b01683397e35ad1a3955"
 metafile = true
@@ -588,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "b37c288c1fb4483d43abb03e752cf7a1e2496ec63ebbd9c88e931477aeeb3423"
+hash = "12f1e6d49e37c4178e57f6064c50e9e992a687e117e6ac0221e78a58b4d7c69e"
 metafile = true
 
 [[files]]
@@ -598,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "e2b921d1a706a7321198966e20dbd4eab47f409f8ab3d80a57a57513e94da1c4"
+hash = "70d9f0737f105bb480d3b445b968ee3c54bf4c260ded2f1268420442e48780b2"
 metafile = true
 
 [[files]]
@@ -648,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d1fd6352951c3a340d371da85289376266e8b95fd3e3ae44d4fa2288f3f8b0d6"
+hash = "4196b19361650ece7914e573719a94e5e81b42b96877c1e00441f3a1ce20f4ab"
 metafile = true
 
 [[files]]
@@ -693,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a02b72ee2511b1b0c34df97c841b4fe1e1c7033d0b411328371a426c97fe5d42"
+hash = "d0073f09430bce838a76b61349eef53640fe8f8f2ce89cacd4e5cf55b96caf6c"
 metafile = true
 
 [[files]]
@@ -938,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "65f1f9e4694d08e47b5b8a1780b447c97258746d6b8e0ebada9c57ddac43561c"
+hash = "e67ce383f5e7230c7d033006eac1dd7330dfe1e12029e6f06715d55cbebe43b5"
 metafile = true
 
 [[files]]
@@ -952,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "cdea810ac5f8af661d05efce85c39451c4bca85440c6dbfa05ca367d3933642b"
+hash = "9a6966a29c97847b774ea2c5e859a0f037d07dc62da6ba46e05de443cfbd7e79"
 metafile = true
 
 [[files]]
@@ -967,12 +962,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
+hash = "716125d65ca673d776e0c792d96ccfa3172066716e8b92b930bf5b56705e0ab6"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
+hash = "e62ad317cabfbe4a6e62a77f391ae95c6e955df496cef5278fb4ed7760908ab3"
 metafile = true
 
 [[files]]
@@ -1222,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "7c9bb766d167c8c586dcc436acf960180b1d79678ffa84e7c13400509ef41424"
+hash = "83b158ad027bfad810280fe443eaa06275d83544ae8b06c0127a0928bded063d"
 metafile = true
 
 [[files]]

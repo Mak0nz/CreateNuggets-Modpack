@@ -1,3 +1,22 @@
+## 26.05.01
+- Updated Collective 8.21
+- Updated Colorwheel 1.2.4
+- Updated AmbientSounds 6.3.7
+- Updated CreativeCore 2.12.37
+- Updated Farmer's Delight 1.3.1
+- Updated CRN 0.9.0-C6
+- Updated Distant Horizons 3.0.2-b
+- Updated CC: Tweaked 1.118.0
+- Updated ModernFix 5.27.15
+- Updated MoonlightLib 2.16.30
+- Updated EMF 3.2.2
+- Updated MmmMmmMmmMmm 2.0.12
+- Updated CraterLib 3.1.1
+- Updated CLTAB 3.9.1
+- Updated C: Transmission 1.1.2
+- Updated DragonLib 3.0.25
+- Removed Dark Mode Everywhere
+
 ## 26.04.18
 - Updated C: LTAB 3.8.7
 - Updated Colorwheel patcher 1.0.5

@@ -1,13 +1,13 @@
 name = "Colorwheel"
-filename = "colorwheel-forge-1.2.3+mc1.20.1.jar"
+filename = "colorwheel-forge-1.2.4+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/D1JEGUGi/colorwheel-forge-1.2.3%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/WPMWOZEv/colorwheel-forge-1.2.4%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "715da3e3ed3a806bf39c3a0a7f1d762adbdb7b1fabec6dc6d1f0ed58334026d70ad4b38e1c8e2693ee82a3f77394e105c80078ecd9ccbe1750a14abdacd25316"
+hash = "cfd12eb9f566d4b40139e82d3d6c46107d92c4f9b7ecbfecd146f4510d760b1667ee32b9c3dc491b65cf5ec7d52867d055d7e174f4a2c18e3a03ee05568275ed"
 
 [update]
 [update.modrinth]
 mod-id = "BzHgFoGz"
-version = "D1JEGUGi"
+version = "WPMWOZEv"
