@@ -1,3 +1,45 @@
+## 26.05.26
+- Updated Particle Rain 4b10
+- Updated DragonLib 3.0.26
+- Updated C: LTAB 4.0.1
+- Updated Entity Culling 1.10.2
+- Updated Stone Zone 2.9.11
+- Updated CreativeCore 2.12.38
+- Updated EMF 3.2.4
+- Updated Crash Assistant 1.11.9
+- Updated Mech Trowel 1.3.2
+- Updated Not Enough Animations 1.12.3
+- Updated Colorwheel 1.2.8
+- Updated AmbientSounds 6.3.8
+- Updated Traveler's Backpack 9.1.54
+- Updated Krypton Reno 26.1.0
+- Updated Platform 1.3.3
+- Updated Immersive Paintings 0.6.13
+- Updated Kiwi 11.10.2
+- Updated Distant Horizons 3.0.3-b
+- Updated AddonsLib 1.8
+- Updated Farmer's Delight 1.3.2
+- Updated Collective 8.22
+- Updated EMI 1.1.24
+- Updated ModernFix 5.27.40
+- Updated Moonlight Lib 6.16.32
+- Updated Vanilla Backport 1.1.7.6
+- Updated Complementary Shaders Reimagined 5.8.1
+- Updated CraterLib 3.1.2
+- Updated C: Connected 1.2.0
+- Updated C: Goggles 6.1.1
+- Updated Particular 1.5.0
+- Updated  CC: Tweaked 1.119.0
+- Updated C: Cobblestone 1.4.10
+- Updated Simple Discord RPC 4.1.2
+- Updated SupplyLines 1.4.1
+- Updated MineColonies 1.1.1214
+- Updated Geophilic 3.5
+- Added Seamless Loading Screen 2.0.3
+- Added Mowzie's Mobs 1.8.2
+- Added Spawn 4.0
+- Added C: Pantographs & Wires 0.2.1
+
 ## 26.05.01
 - Updated Collective 8.21
 - Updated Colorwheel 1.2.4

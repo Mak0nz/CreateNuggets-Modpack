@@ -1,0 +1,13 @@
+name = "Spawn"
+filename = "spawn-4.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rex9wwpz/versions/NQyxlLti/spawn-4.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "0a401022004efab52fdd95b19b3d867e682c375ab16ccce713ae04997395f8a8426d5180a6768923fefbf3fa2ad0666d06c0d0058bfcd6c5dcd495ab8933bff6"
+
+[update]
+[update.modrinth]
+mod-id = "rex9wwpz"
+version = "NQyxlLti"

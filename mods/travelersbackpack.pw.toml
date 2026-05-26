@@ -1,13 +1,13 @@
 name = "Traveler's Backpack"
-filename = "travelersbackpack-forge-1.20.1-9.1.53.jar"
+filename = "travelersbackpack-forge-1.20.1-9.1.54.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rlloIFEV/versions/4Xs90Bq5/travelersbackpack-forge-1.20.1-9.1.53.jar"
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/uEKiccam/travelersbackpack-forge-1.20.1-9.1.54.jar"
 hash-format = "sha512"
-hash = "8cc95d835419664d4042e897842b8d8a06c67ef5bf958a122eed5b007a4499b2ce5cc401875ad0406288d0abcbaa607c1a0ca384fd5f97ddcbf76fd1dd85d2b0"
+hash = "1895f1429b210d85e90badefa14f09c2d2b989464b392cb9f560985cb31438729ba77276c816dab73de32542c0add5eaed8eecb74bceebbd963dca7491c7ba46"
 
 [update]
 [update.modrinth]
 mod-id = "rlloIFEV"
-version = "4Xs90Bq5"
+version = "uEKiccam"
