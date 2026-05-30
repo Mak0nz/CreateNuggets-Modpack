@@ -26,7 +26,7 @@ hash = "a6ae624678902b8bbae69fdd9eeb9f658868890b933d616c5fa86a93c1f8e964"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "df749c96c8938f8c9dfbaa8fecc279086734f6124df69130b613e43c5413a727"
+hash = "2ccb08014e30c843abea5ba0d3d7d7056ab5830c8352d660810e7a83d113715a"
 
 [[files]]
 file = "config/estrogen/client.toml"
@@ -47,10 +47,6 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "b7a5abb2fe6657713e12c5be208eeab671421bf0084e60e0ba5dde9aa964cefc"
-
-[[files]]
-file = "config/resourcepackoverrides.json"
-hash = "a37c04e439dcefd1ffa53aa6d33eab04eb6b6d35dd28c0d9dadcb4104f8ab541"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -90,7 +86,7 @@ hash = "4670a75edfb14cb4df8872f9211b2f333b27df515cffdd9671ad3de6f056c276"
 
 [[files]]
 file = "config/splashy.json"
-hash = "f4b7e95d79d5801282d23b86c0af2027dad1bd90e5e5ce1afbbae1784b92fb5f"
+hash = "eaadb015d4fc74375972d6ca27c90d63ab48f79f98655569a54155ca64edf662"
 
 [[files]]
 file = "icon.png"
@@ -828,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "bf7e17cea437f889b97add88df4cea46ec5158acb7caa849f799383f429e224a"
+hash = "ffbdf92acccc24f374f593369c34595cf6829092d8bf226bc275ee0cd429c84e"
 metafile = true
 
 [[files]]
@@ -927,18 +923,13 @@ hash = "5a1824480033b929f918b7176c70c490f776e3b78f6a00b4ffbc914a573007e8"
 metafile = true
 
 [[files]]
-file = "mods/mech-trowel.pw.toml"
-hash = "8cb662536632642a8bd7266d7724c9220536b873f4cb2bc2cebe68721fe40bf5"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "abc4554ba91c9ad1cfdb984ad6ae9191789aec132d23feb33cd46a0c085a34b9"
+hash = "e9b1339211d2993cf1626c67f04c8404b359ee6829099f4a18dee61430f61a7c"
 metafile = true
 
 [[files]]
@@ -1016,6 +1007,11 @@ hash = "4244ff535252b6fb6a7a26bc874f3fae781c064bf0a1d0e5ce5e46a98e0fc668"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
@@ -1073,6 +1069,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
+metafile = true
+
+[[files]]
+file = "mods/quarkponders.pw.toml"
+hash = "aba59fd89c4085dc61a0106abdb9a673928021a0f8f99467337779bd06d8cceb"
 metafile = true
 
 [[files]]
@@ -1222,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "0be88ede3880742baed8cfa96f01d51bf041b7727056f8d1ab4a09b14c7e2c21"
+hash = "69e2b6b07d4bae89b2d2f8867f8436b5dbe8e86c5529c9162126bb694b9c020b"
 metafile = true
 
 [[files]]
@@ -1257,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplylines.pw.toml"
-hash = "d5c24b245ca98b52418ba1bfa4401109d00e06f69000b48c834c7a9ab212037a"
+hash = "bc30211d0a38d3726e8eaa989fda7518f6b345c4200bb069c7e61af473799243"
 metafile = true
 
 [[files]]
@@ -1312,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "c5bf11e6d7a189f01781f82ec36f315ca4ae560fbbb6cf6a1e4620fa719dfb98"
+hash = "a7c062fb65adaaa0607593b56cc57f6ee080d3e25ffe7fa3169eb7189693c073"
 metafile = true
 
 [[files]]
@@ -1351,8 +1357,18 @@ hash = "210dda53f50e9110782e1f6ecc768a9d8d9d488923110698991085e8acab6c97"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "b5bdaf394989af8710bcd668833c03d6081a2f14cc204a261b113d27e24564a9"
+metafile = true
+
+[[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "18bb666bdf121a9197fd04520c918f6e6882455c1feb0fa3014189314ca3c495"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
 
 [[files]]

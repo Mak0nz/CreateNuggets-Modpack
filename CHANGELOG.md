@@ -1,3 +1,17 @@
+## 26.05.30
+- Updated Jamlib 1.3.6p1
+- Updated Stone zone 2.9.12
+- Updated Travelers Backpack 9.1.55
+- Updated SupplyLines 1.4.2
+- Updated Minecolonies .1231
+- Added Nullscape 1.2.8
+- Added YUNG's Better End Island 2.0.6
+- Added Quark 4.0-462
+- Added Zeta 1.0-31
+- Added QuarkPonders 1.3
+- Removed Mech Trowel
+- Removed Inventory Profiles Next
+
 ## 26.05.26
 - Updated Particle Rain 4b10
 - Updated DragonLib 3.0.26
