@@ -26,7 +26,11 @@ hash = "a6ae624678902b8bbae69fdd9eeb9f658868890b933d616c5fa86a93c1f8e964"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2ccb08014e30c843abea5ba0d3d7d7056ab5830c8352d660810e7a83d113715a"
+hash = "b92b68594bb372c0e8a6e56033ec6fa4ddc40d76a1725de2f9ce3e95751f858f"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "6d81fcaebdcd6e63c7eff8456e442c50cd97a3ae43209a3b7fc70ac1e554765e"
 
 [[files]]
 file = "config/estrogen/client.toml"
@@ -47,6 +51,10 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "b7a5abb2fe6657713e12c5be208eeab671421bf0084e60e0ba5dde9aa964cefc"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "135c8971fa75f048d2c676161081a7849147adf7ea9034b8dfbb8eec97c96c46"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -803,11 +811,6 @@ hash = "e7392b3e863fb770c1e61b25500af723c597d566c211a9610b07f47411bed7c9"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
-metafile = true
-
-[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
 metafile = true
@@ -1152,11 +1155,6 @@ hash = "4b60b5b814559c39e2c60cf63572a8b025362657e0092faf7d640e9086281f2c"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
-metafile = true
-
-[[files]]
 file = "mods/seamless.pw.toml"
 hash = "29f25a469069955140e0dfc82353cbcfab50f3feb87e739543c6dab25635c081"
 metafile = true
@@ -1354,11 +1352,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "210dda53f50e9110782e1f6ecc768a9d8d9d488923110698991085e8acab6c97"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "b5bdaf394989af8710bcd668833c03d6081a2f14cc204a261b113d27e24564a9"
 metafile = true
 
 [[files]]
