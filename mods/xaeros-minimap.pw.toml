@@ -1,13 +1,13 @@
 name = "Xaero's Minimap"
+filename = "xaerominimap-neoforge-1.21.1-26.1.0.jar"
 side = "both"
-filename = "Xaeros_Minimap_25.2.10_Forge_1.20.jar"
-pin = true
-
-[update.modrinth]
-mod-id = "1bokaNcj"
-version = "VfhlV9am"
 
 [download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/w8HSmbC3/xaerominimap-neoforge-1.21.1-26.1.0.jar"
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VfhlV9am/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
-hash = "936d2608d74c9a4d702efce51e0197f19f947997af768cb558f4cc5323ea4c5f12ee11b519df4071bdbc8c2aca8caa1baa18f702ef32c24bc4ea78fdbac483b2"
+hash = "a4ce763f7864b0e14ccb1cad16fcb0f84d510261d55d6ef41caebc05ad2bc67f50d65bbd5ef793bd9578e3543f624ce38f0a7d4c0b51bea1e9c2499e3739b2f5"
+
+[update]
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "w8HSmbC3"

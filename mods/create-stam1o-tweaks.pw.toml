@@ -1,0 +1,13 @@
+name = "Create: Stam1o Tweaks"
+filename = "Stam1oCreateTweaks-1.0.8+1.21.1-Neo.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/46RgF8H2/versions/QxBHdxaK/Stam1oCreateTweaks-1.0.8%2B1.21.1-Neo.jar"
+hash-format = "sha512"
+hash = "a1a52d464a8d0a256f8234d2e8b7a956624af2d23915ee23d9a9e74f6871fd1d9c836a3320c6c80222e3ab126cc3df488d205d8474e3d6c82dff098512355ed5"
+
+[update]
+[update.modrinth]
+mod-id = "46RgF8H2"
+version = "QxBHdxaK"

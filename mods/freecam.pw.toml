@@ -1,13 +1,13 @@
 name = "Freecam"
-filename = "freecam-forge-1.2.1+1.20.jar"
+filename = "freecam-neoforge-1.3.0+mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/bvoDmWip/freecam-forge-1.2.1%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/ROfcbxxe/freecam-neoforge-1.3.0%2Bmc1.21.jar"
 hash-format = "sha512"
-hash = "14d5194c02d6281094efdc857e608b412cdb84ffbf94a06401c8509daa74914273e18224f05d9fe9bcea23fa70d5350c6edaf8bf657e58787f08a4553169c0d2"
+hash = "06cfa2acdde8320ca19edf3f49e7a3860cc079bbad02fda493459109d745da237e19ff6a28d879d4c863ea4cd24d83b193ec82dd351540ad27991e239f1e7a72"
 
 [update]
 [update.modrinth]
 mod-id = "XeEZ3fK2"
-version = "bvoDmWip"
+version = "ROfcbxxe"

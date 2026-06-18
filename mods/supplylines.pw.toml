@@ -1,13 +1,13 @@
 name = "SupplyLines"
-filename = "supplylines-mc1.20.1-1.4.2.jar"
+filename = "supplylines-mc1.21.1-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5b6e6982896c64a329811ec9bcd477d8d52b2bbe"
+hash = "3d1474f5ea38319310a16106e6863f81379fa914"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8161456
+file-id = 8161446
 project-id = 1415669

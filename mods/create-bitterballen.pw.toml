@@ -1,13 +1,13 @@
 name = "Create: Bitterballen"
-filename = "createbicbit-forge-1.20.1-1.0.2B.jar"
+filename = "create_bic_bit-1.0.2C.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/16DuAG4k/versions/bvKUoxNq/createbicbit-forge-1.20.1-1.0.2B.jar"
+url = "https://cdn.modrinth.com/data/16DuAG4k/versions/15wUZ9Rw/create_bic_bit-1.0.2C.jar"
 hash-format = "sha512"
-hash = "3ea610948f51e1828f2ec1f0c385a9bacb7bba3be7fbcc917e8e2b381e339a823ee414b9fd0b5b9a4fd74951e1763633b3e1f6450338e0fcccfce9c043e46dba"
+hash = "58355044261db8e0483037bc42c8661b1487d6077e49d0b2dd5183001977174d1dd23d60761ba1f2dcd746228fb665277ca179bc4dc0f5af8175939a097851c6"
 
 [update]
 [update.modrinth]
 mod-id = "16DuAG4k"
-version = "bvKUoxNq"
+version = "15wUZ9Rw"

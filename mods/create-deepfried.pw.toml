@@ -1,13 +1,13 @@
 name = "Create: Deepfried"
-filename = "create_deepfried-forge-1.20.1-0.1.3C.jar"
+filename = "create_deepfried-forge-1.21.1-0.1.3C.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/76TqKW7O/versions/LxAgHog3/create_deepfried-forge-1.20.1-0.1.3C.jar"
+url = "https://cdn.modrinth.com/data/76TqKW7O/versions/DZHpQMfB/create_deepfried-forge-1.21.1-0.1.3C.jar"
 hash-format = "sha512"
-hash = "f983fcca9e24973df6f41af02b5a23ea32f3a464ba77b2662137cf444387fe89d5012c9b86d9d1f5631cbef3486c05525a4083ffc3f1098fc66fdb8c6d2b4123"
+hash = "cf45bd9e52d64c90c372dae57cc91f5b25a350d4a41db9c28074ae6917a2055e142955865490fa76d90440bde1ad512e2619dead6ff06bf73f8fb50b8f38127c"
 
 [update]
 [update.modrinth]
 mod-id = "76TqKW7O"
-version = "LxAgHog3"
+version = "DZHpQMfB"

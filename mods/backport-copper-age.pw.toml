@@ -1,13 +1,13 @@
 name = "Copper Age Backport"
-filename = "copperagebackport-forge-1.20.1-0.1.4.jar"
+filename = "copperagebackport-neoforge-1.21.1-0.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/a1llHwl4/versions/BeVdLB9R/copperagebackport-forge-1.20.1-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/a1llHwl4/versions/JEPUV1lF/copperagebackport-neoforge-1.21.1-0.1.4.jar"
 hash-format = "sha512"
-hash = "8acb6abf06d2ac7cee4b577c692fdd92bc8e2556f2ac13768908a328b3830f6abf35178855a260ca6ee645673f438f76e7c3f92a5add0735db54d4c27be198f0"
+hash = "16b232857d9319d57ff5f0b739d23507c6f7e576199d4167a933d0505967c854def97c09020c1d9f27deff8c45e063a03e29c001a838fb43518e03562fc5ff95"
 
 [update]
 [update.modrinth]
 mod-id = "a1llHwl4"
-version = "BeVdLB9R"
+version = "JEPUV1lF"

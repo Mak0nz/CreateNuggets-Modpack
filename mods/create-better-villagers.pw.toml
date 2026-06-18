@@ -3,11 +3,11 @@ filename = "create_better_villagers-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kS90mr4y/versions/82P3Yf7d/create_better_villagers-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/kS90mr4y/versions/TXkrwOJQ/create_better_villagers-1.3.2.jar"
 hash-format = "sha512"
-hash = "b60d5188f13531482e67890c6da515ad9448bbe5bbe61c422adb7593cab4fedfcc686070e5c1507fa7312a68efcac19bfaaf090661f600719198f8a69677189b"
+hash = "3655f126663332ab96c2c18760bfed24f73a2419a6967352352078271953ad165227829b76180307675567a53f93a0af47c3dc29180a2321c8cb017ff4287bd1"
 
 [update]
 [update.modrinth]
 mod-id = "kS90mr4y"
-version = "82P3Yf7d"
+version = "TXkrwOJQ"

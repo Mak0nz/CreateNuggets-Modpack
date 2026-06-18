@@ -1,0 +1,13 @@
+name = "Stellarity x Nullscape ~ Compatibility"
+filename = "Stellarity-5.0.0-alpha10-NSC.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bxgn7qmu/versions/ROOCweNa/Stellarity-5.0.0-alpha10-NSC.zip"
+hash-format = "sha512"
+hash = "0c1cb951fbea77e30a4c0962b15b39a8ea406fdf53004ffb389aef1436af856b2087204eacdb9777d6cfca489afa4a9e6c565147e9ed456e718394817ba0c743"
+
+[update]
+[update.modrinth]
+mod-id = "bxgn7qmu"
+version = "ROOCweNa"

@@ -1,13 +1,13 @@
 name = "MixinTrace Reforged"
-filename = "mixintracereforged-forge-1.0.0-1.20.1.jar"
+filename = "mixintracereforged-neoforge-1.0.0-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MdyrQYHR/versions/wqFPcsl1/mixintracereforged-forge-1.0.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/MdyrQYHR/versions/q5i120SG/mixintracereforged-neoforge-1.0.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "a1a6f274226678b5793d9885868cf2dff9324f1c08ecf02949e54b8fd3dde3af6073c59f9bc444344a7c106ffdf3987b60af33bdeee30559f3186634eddcb737"
+hash = "51e5d087dd581451b9777548f607ee0407c1f94d852faf1cbeb894ff968a65522ad61406bccc024f49e264eb3284563379194722e5f11adaf8d2a2881e00a0ff"
 
 [update]
 [update.modrinth]
 mod-id = "MdyrQYHR"
-version = "wqFPcsl1"
+version = "q5i120SG"

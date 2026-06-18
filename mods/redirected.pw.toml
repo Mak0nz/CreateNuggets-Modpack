@@ -1,13 +1,13 @@
 name = "Redirected"
-filename = "redirected-forge-1.0.0-1.20.1.jar"
+filename = "redirected-neoforge-1.0.0-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hhnR8xqU/versions/cJBVuClJ/redirected-forge-1.0.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/hhnR8xqU/versions/B9DLRbbX/redirected-neoforge-1.0.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "4f1362b1c0a4620b4fdb1282ae4fa036df843ffef4b0c1146d887a324f2517b4331691db42de09c7ca6729dad2993ff06ccd38b6f203e9623d25e17951b8fddf"
+hash = "029439eed72acb8501f06fd934da24a4a71290500bf2754cd1d497ed9fff380b0aff7f78b076a6a44fbaae31fa2313101ea622a83c3fafba748db70c8de7a530"
 
 [update]
 [update.modrinth]
 mod-id = "hhnR8xqU"
-version = "cJBVuClJ"
+version = "B9DLRbbX"

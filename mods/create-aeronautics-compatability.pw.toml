@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Compatability"
+filename = "aeronauticscompat-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLVC5usA/versions/QTtIbBua/aeronauticscompat-1.1.2.jar"
+hash-format = "sha512"
+hash = "e4bf1c16e476d47f2b09d3b5bf6c8713bf7d474019dca871a24a6ea1e35f12288e6aed276004c310ddfd53af80c5415927c8bde2abc0b1005531fce918ea7c90"
+
+[update]
+[update.modrinth]
+mod-id = "aLVC5usA"
+version = "QTtIbBua"

@@ -1,13 +1,13 @@
 name = "TLib"
-filename = "tlib-forge-1.4.1-1.20.1.jar"
+filename = "tlib-neoforge-1.5.0-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sBn7rVvc/versions/3vlkMFe7/tlib-forge-1.4.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/sBn7rVvc/versions/hRjgkoz4/tlib-neoforge-1.5.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "392fbc640c195406be8759a1e9a686a6e444f72866de0c9f0e0b63a116dfa0ce386ea62cf667c69783fdebf2cba9551d50c65af80c564f439aa385697abc44b4"
+hash = "d2aa822cbecf05cf34888c8012c7057dd90e5c18b2886996ccd7e7e04f07d7d2aed5908afbe18d6879dc56495cc605bd8649d299ba82840e19d2e3848c292e5b"
 
 [update]
 [update.modrinth]
 mod-id = "sBn7rVvc"
-version = "3vlkMFe7"
+version = "hRjgkoz4"

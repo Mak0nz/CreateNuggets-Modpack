@@ -1,12 +1,13 @@
 name = "Athena"
-side = "both"
-filename = "athena-forge-1.20.1-3.1.2.jar"
-
-[update.modrinth]
-mod-id = "b1ZV3DIJ"
-version = "DULOQFj7"
+filename = "athena-neoforge-1.21.1-4.0.6.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar"
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar"
-hash = "5a71a1c220eafbfbdb570fa204454352b48d55f238db1a5b398a8c40f6b0fbd8c09a2f6c10def330abdf3daadaa24dfa52471f8de931a93fd99dc7d85b60960b"
+hash = "ab40a306a26ce834daae921a1e87768cd2538a4bfe27a4480f97af854084cc334e7416b1bd0b7583834a32a86951283f29fd4b1df7b98a967a6b26a3ec05e2cf"
+
+[update]
+[update.modrinth]
+mod-id = "b1ZV3DIJ"
+version = "dJgL278E"

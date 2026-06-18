@@ -1,13 +1,13 @@
 name = "Cubes Without Borders"
-filename = "cwb-forge-3.0.0+mc1.20.jar"
+filename = "cwb-neoforge-3.0.0+mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/QzVMYIfG/cwb-forge-3.0.0%2Bmc1.20.jar"
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar"
 hash-format = "sha512"
-hash = "0eb5f0d4ec7739c4cd767fbabf37c00b23c7435546072d82431e08b1b72c87cff5f36fd800f85881497ab764b62f15908fbca8f92b25620975d8a0da9c945765"
+hash = "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04"
 
 [update]
 [update.modrinth]
 mod-id = "ETlrkaYF"
-version = "QzVMYIfG"
+version = "epixUL1j"

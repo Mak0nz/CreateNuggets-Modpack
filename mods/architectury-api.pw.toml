@@ -1,13 +1,13 @@
 name = "Architectury API"
-filename = "architectury-9.2.14-forge.jar"
+filename = "architectury-13.0.8-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
 hash-format = "sha512"
-hash = "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
+hash = "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e"
 
 [update]
 [update.modrinth]
 mod-id = "lhGA9TYQ"
-version = "1MKTLiiG"
+version = "ZxYGwlk0"

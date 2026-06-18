@@ -1,0 +1,13 @@
+name = "Wrenching My Tom Till I Create"
+filename = "Wrenching My Tom Till I Create 1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOXxH85K/versions/3sXDDI0b/Wrenching%20My%20Tom%20Till%20I%20Create%201.0.0.zip"
+hash-format = "sha512"
+hash = "d6b88b1e584ec5087a2ef95db970dedb116a80c6814bee22cce1d5b8349f80ac98a4cdc648aec6194ffc65f6fd05e56dd5f28866d540e1e6cea861ab7c522aec"
+
+[update]
+[update.modrinth]
+mod-id = "DOXxH85K"
+version = "3sXDDI0b"

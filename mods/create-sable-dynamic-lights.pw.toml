@@ -1,0 +1,12 @@
+name = "Create Sable Dynamic Lights"
+side = "client"
+filename = "create-dyn-light-2.3.1-sodium-sable.jar"
+
+[update.modrinth]
+mod-id = "eIsyUZG3"
+version = "sKw2ERw2"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/eIsyUZG3/versions/sKw2ERw2/create-dyn-light-2.3.1-sodium-sable.jar"
+hash = "3df01541b913b596d175f8504412ad64d0252d8551a8f68f5481e921365ce5e5e5285a1c21e21adaa014c8b63ab085ae5ae6eb2cb04f76c0d7dbc34d8f58a668"

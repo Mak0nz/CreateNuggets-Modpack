@@ -1,12 +1,13 @@
 name = "YUNG's Bridges"
-side = "both"
-filename = "YungsBridges-1.20-Forge-4.0.3.jar"
-
-[update.modrinth]
-mod-id = "Ht4BfYp6"
-version = "KgO1gfM2"
+filename = "YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/KgO1gfM2/YungsBridges-1.20-Forge-4.0.3.jar"
-hash = "2705fbaeb62115c5604719d68756f723a974ea9a62a4194771ebbea877ee715de72cefe3b01ec0d318d4d6fe2e9de87e6a7122ef21ee54d48153e84cb7bae0c6"
+hash = "20b07ae4c08974980f976bcae32f18ccb885745d6cd50d4a5d0156eb5c51c29e49f8b2bf7dc2ae160d39b62f2332513bd9850efc5cba13697e36a2ac2848bc3b"
+
+[update]
+[update.modrinth]
+mod-id = "Ht4BfYp6"
+version = "urkCzBf6"

@@ -1,0 +1,13 @@
+name = "Name Formatting Station Datapack"
+filename = "name_formatting_station_v2.8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57e499fd71d85fd63cf8dae69eb05b3076ccabf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7100306
+project-id = 689940

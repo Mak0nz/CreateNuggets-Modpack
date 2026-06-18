@@ -1,13 +1,13 @@
 name = "Straw Statues"
-filename = "StrawStatues-v8.0.3-1.20.1-Forge.jar"
+filename = "StrawStatues-v21.1.0-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2fltysAl/versions/1WbJR9ka/StrawStatues-v8.0.3-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/2fltysAl/versions/C7j9WWVp/StrawStatues-v21.1.0-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "5812934c0cd827119ab3955263857b3577eadbdc2bb78a09f978928faa0eafab8b10dc5cdb7896453179705c65bf7593129ae33561b752bbe62177c52b7f3d3a"
+hash = "ee213d7f9a6bc795b293927493e22f07f4bac06ab4cb412815c127cc895a02d286eea4f18973a3e153a27312ea4ebd0bedf5ac5f9247e12756811cdf3085eb85"
 
 [update]
 [update.modrinth]
 mod-id = "2fltysAl"
-version = "1WbJR9ka"
+version = "C7j9WWVp"
