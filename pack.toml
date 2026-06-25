@@ -1,16 +1,17 @@
 name = "CreateNuggets"
 author = "Mak0nz"
-version = "26.05.31"
+version = "26.06.25"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c70233aa2216dfafe3b2cd79feed698562a64b3fd4e25be4625616ef704539f8"
+hash = "99067949d2fc79c5a8624ecf3bfc1e9ef401ab3037673855cc8204fe46b3856d"
 
 [versions]
-forge = "47.4.17"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.1.233"
 
 [options]
-acceptable-game-versions = ["1.20"]
+acceptable-game-versions = []
+datapack-folder = "moonlight-global-datapacks"

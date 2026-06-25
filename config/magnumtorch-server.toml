@@ -1,0 +1,200 @@
+[diamond_torch]
+	#Mobs that should still be allowed to spawn despite being included in "mob_category".
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+	#Default Value: []
+	mob_whitelist = []
+	#Mobs that should not be allowed to spawn despite being absent from "mob_category".
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+	#Default Value: []
+	mob_blacklist = []
+	#Range in chunk sections (16x16x16 blocks) for preventing mob spawns on x-z-plane.
+	#Default Value: 4
+	# Default: 4
+	# Range: 1 ~ 16
+	horizontal_chunk_range = 16
+	#Range in chunk sections (16x16x16 blocks) for preventing mob spawns on y-dimension.
+	#Default Value: 2
+	# Default: 2
+	# Range: 1 ~ 16
+	vertical_chunk_range = 16
+	#Type of shape used for calculating area in which spawns are prevented.
+	#This basically let's you choose between maximum or euclidean metrics.
+	#Default Value: ELLIPSOID
+	#Allowed Values: ELLIPSOID, CYLINDER, CUBOID
+	shape_type = "ELLIPSOID"
+
+	#Types of mob spawns to block.
+	#By default this is configured to only affect natural spawns occurring without player interaction and to not disrupt any game events.
+	[diamond_torch.blocked_spawn_reasons]
+		#Monsters spawned during night time, cats in villages, phantoms in the sky.
+		#Default Value: true
+		natural = true
+		#Iron golems from villagers.
+		#Default Value: false
+		summoned = false
+		#Pillager patrols.
+		#Default Value: true
+		patrol = true
+		#Skeleton horse traps and warden from sculk shriekers.
+		#Default Value: false
+		triggered = false
+		#All kinds of mobs summoned by monster spawners.
+		#Default Value: false
+		spawner = false
+		#Mobs spawned by game events, mainly zombie sieges, raids, wandering trader visits.
+		#Default Value: false
+		event = false
+		#Zombified piglin from nether portals.
+		#Default Value: true
+		structure = true
+		#Zombie reinforcements spawned when a zombie is hurt.
+		#Default Value: false
+		reinforcement = false
+
+	#Mobs of this category are prevented from spawning through natural means (meaning mob spawners and breeding will still work).
+	#For refining affected mobs use blacklist and whitelist options.
+	#If you only want to prevent a few specific mobs from spawning leave all these disabled and include them in the blacklist option.
+	[diamond_torch.blocked_mob_categories]
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: false
+		creature = false
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: true
+		monster = true
+		#Squids, fishes, axolotls, etc.
+		#Default Value: false
+		aquatic = false
+
+[emerald_torch]
+	#Mobs that should still be allowed to spawn despite being included in "mob_category".
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+	#Default Value: []
+	mob_whitelist = []
+	#Mobs that should not be allowed to spawn despite being absent from "mob_category".
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+	#Default Value: []
+	mob_blacklist = []
+	#Range in chunk sections (16x16x16 blocks) for preventing mob spawns on x-z-plane.
+	#Default Value: 8
+	# Default: 8
+	# Range: 1 ~ 16
+	horizontal_chunk_range = 8
+	#Range in chunk sections (16x16x16 blocks) for preventing mob spawns on y-dimension.
+	#Default Value: 4
+	# Default: 4
+	# Range: 1 ~ 16
+	vertical_chunk_range = 4
+	#Type of shape used for calculating area in which spawns are prevented.
+	#This basically let's you choose between maximum or euclidean metrics.
+	#Default Value: CUBOID
+	#Allowed Values: ELLIPSOID, CYLINDER, CUBOID
+	shape_type = "CUBOID"
+
+	#Types of mob spawns to block.
+	#By default this is configured to only affect natural spawns occurring without player interaction and to not disrupt any game events.
+	[emerald_torch.blocked_spawn_reasons]
+		#Monsters spawned during night time, cats in villages, phantoms in the sky.
+		#Default Value: true
+		natural = true
+		#Iron golems from villagers.
+		#Default Value: false
+		summoned = false
+		#Pillager patrols.
+		#Default Value: false
+		patrol = false
+		#Skeleton horse traps and warden from sculk shriekers.
+		#Default Value: false
+		triggered = false
+		#All kinds of mobs summoned by monster spawners.
+		#Default Value: false
+		spawner = false
+		#Mobs spawned by game events, mainly zombie sieges, raids, wandering trader visits.
+		#Default Value: true
+		event = true
+		#Zombified piglin from nether portals.
+		#Default Value: false
+		structure = false
+		#Zombie reinforcements spawned when a zombie is hurt.
+		#Default Value: false
+		reinforcement = false
+
+	#Mobs of this category are prevented from spawning through natural means (meaning mob spawners and breeding will still work).
+	#For refining affected mobs use blacklist and whitelist options.
+	#If you only want to prevent a few specific mobs from spawning leave all these disabled and include them in the blacklist option.
+	[emerald_torch.blocked_mob_categories]
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: true
+		creature = true
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: false
+		monster = false
+		#Squids, fishes, axolotls, etc.
+		#Default Value: false
+		aquatic = false
+
+[amethyst_torch]
+	#Mobs that should still be allowed to spawn despite being included in "mob_category".
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+	#Default Value: []
+	mob_whitelist = []
+	#Mobs that should not be allowed to spawn despite being absent from "mob_category".
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color. Begin an entry with "!" to make sure it is excluded, useful e.g. when it has already been matched by another pattern.
+	#Default Value: []
+	mob_blacklist = []
+	#Range in chunk sections (16x16x16 blocks) for preventing mob spawns on x-z-plane.
+	#Default Value: 4
+	# Default: 4
+	# Range: 1 ~ 16
+	horizontal_chunk_range = 4
+	#Range in chunk sections (16x16x16 blocks) for preventing mob spawns on y-dimension.
+	#Default Value: 2
+	# Default: 2
+	# Range: 1 ~ 16
+	vertical_chunk_range = 2
+	#Type of shape used for calculating area in which spawns are prevented.
+	#This basically let's you choose between maximum or euclidean metrics.
+	#Default Value: ELLIPSOID
+	#Allowed Values: ELLIPSOID, CYLINDER, CUBOID
+	shape_type = "ELLIPSOID"
+
+	#Types of mob spawns to block.
+	#By default this is configured to only affect natural spawns occurring without player interaction and to not disrupt any game events.
+	[amethyst_torch.blocked_spawn_reasons]
+		#Monsters spawned during night time, cats in villages, phantoms in the sky.
+		#Default Value: true
+		natural = true
+		#Iron golems from villagers.
+		#Default Value: false
+		summoned = false
+		#Pillager patrols.
+		#Default Value: false
+		patrol = false
+		#Skeleton horse traps and warden from sculk shriekers.
+		#Default Value: false
+		triggered = false
+		#All kinds of mobs summoned by monster spawners.
+		#Default Value: false
+		spawner = false
+		#Mobs spawned by game events, mainly zombie sieges, raids, wandering trader visits.
+		#Default Value: false
+		event = false
+		#Zombified piglin from nether portals.
+		#Default Value: false
+		structure = false
+		#Zombie reinforcements spawned when a zombie is hurt.
+		#Default Value: false
+		reinforcement = false
+
+	#Mobs of this category are prevented from spawning through natural means (meaning mob spawners and breeding will still work).
+	#For refining affected mobs use blacklist and whitelist options.
+	#If you only want to prevent a few specific mobs from spawning leave all these disabled and include them in the blacklist option.
+	[amethyst_torch.blocked_mob_categories]
+		#Animals, passive mobs, villagers, etc.
+		#Default Value: false
+		creature = false
+		#Night time monsters, illagers, nether creatures, etc.
+		#Default Value: false
+		monster = false
+		#Squids, fishes, axolotls, etc.
+		#Default Value: true
+		aquatic = true

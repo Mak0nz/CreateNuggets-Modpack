@@ -1,0 +1,13 @@
+name = "Better Library"
+filename = "better_lib-neoforge-1.21.1-1.0.109.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/KANB3D2i/better_lib-neoforge-1.21.1-1.0.109.jar"
+hash-format = "sha512"
+hash = "c645fc4915e71540ca8e3edd68fe270dcfc60d554f41529af06a5c499a02c623387feebb1319abd21fdae8146ec777718d870194dcd14ebb56adef66882eac2a"
+
+[update]
+[update.modrinth]
+mod-id = "2x0ULgTj"
+version = "KANB3D2i"

@@ -1,13 +1,13 @@
 name = "Item Highlighter"
-filename = "Highlighter-1.20.1-forge-1.1.9.jar"
+filename = "Highlighter-1.21-neoforge-1.1.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/AsQ0Y2G9/Highlighter-1.21-neoforge-1.1.11.jar"
 hash-format = "sha512"
-hash = "a8b9e114281c1390ecded38a6114516dc0b3ae0e4cb0f041162d54b6cabfacf077c7394075c43c1565a01362cdbf37e45c3bdeac2aa5b8dede93970bafd44c65"
+hash = "41e1d2b3f73cf81b94563f04877528d0076672f95a456e959ca8f72162c8803bb9cf5ad540d1fbd15642a1d974bf11362a6b161003cd0853de050a443458a13b"
 
 [update]
 [update.modrinth]
 mod-id = "cVNW5lr6"
-version = "rcQOLnyI"
+version = "AsQ0Y2G9"

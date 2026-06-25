@@ -1,0 +1,13 @@
+name = "Wrenching My Tom Till I Create"
+filename = "WMTTIC - 1.01 - 1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOXxH85K/versions/oW4rFMKy/WMTTIC%20-%201.01%20-%201.21.1.zip"
+hash-format = "sha512"
+hash = "d97c01497519589eafd3d4128008e90404426ee6f8265a32452b8d2baf6c51ec606b035e74ef6f2e60491b9fb500bc975ec8889075bfb7519d7b94494b50ff70"
+
+[update]
+[update.modrinth]
+mod-id = "DOXxH85K"
+version = "oW4rFMKy"

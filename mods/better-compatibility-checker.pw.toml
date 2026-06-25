@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
+filename = "better-compatability-checker-neoforge-21.1.8.jar"
 side = "both"
-filename = "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"
-pin = true
-
-[update.modrinth]
-mod-id = "KJhXPbHQ"
-version = "YLJKBPTh"
 
 [download]
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/NYkU1ldY/better-compatability-checker-neoforge-21.1.8.jar"
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/YLJKBPTh/BetterCompatibilityChecker-forge-4.0.8%2Bmc1.20.1.jar"
-hash = "9bc033b764d50bf9563a11ebe3cceee6d071bd68b96715ddef23419103d09d1380276975e1e1ea981418bee281af89fadb250ec09a270ffa1c41c1788ce0028a"
+hash = "43f8817abd4c48f2cf2087332a84e9840bde232bc62f838badb241f31bbabaa68ebb0b6403875ea66338cf76c0e394f13fafdee3804a37462c04f0acc7dfcd81"
+
+[update]
+[update.modrinth]
+mod-id = "KJhXPbHQ"
+version = "NYkU1ldY"

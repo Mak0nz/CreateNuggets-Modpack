@@ -1,13 +1,13 @@
 name = "Simple Menu"
-filename = "simplemenu-1.20.1-2.0.jar"
+filename = "simplemenu-1.21.1-2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6pdhya1q/versions/ASTnFWVF/simplemenu-1.20.1-2.0.jar"
+url = "https://cdn.modrinth.com/data/6pdhya1q/versions/FSola96a/simplemenu-1.21.1-2.0.jar"
 hash-format = "sha512"
-hash = "aa0279d44bf481191a2450cdffdcee8cd09827b7bb2c201fb738f6a01ebe8751fd9ebc1552d782caca3ee562548017759487d2b20af38e9c10738ead33a1cf7d"
+hash = "7180cefe45cbb4190ab586f5840d97df31d8e5d29ad264280370788ee0c17d9101be4b95ef90b7d8dd872272c7a207cacf7aaa503d85a2ab4053e1f57dd56ab5"
 
 [update]
 [update.modrinth]
 mod-id = "6pdhya1q"
-version = "ASTnFWVF"
+version = "FSola96a"

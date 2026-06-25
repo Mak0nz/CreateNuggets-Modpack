@@ -1,13 +1,13 @@
 name = "Create Contraption Terminals"
-filename = "createcontraptionterminals-1.20-1.2.0.jar"
+filename = "createcontraptionterminals-1.21-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gOPAFzp0/versions/Rdo5tUmb/createcontraptionterminals-1.20-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/gOPAFzp0/versions/XrNWi3Wo/createcontraptionterminals-1.21-1.3.0.jar"
 hash-format = "sha512"
-hash = "bd3a8ba5498c6c7939271bb03ee8c595e71010847b11dd281833c085a53e24ce8e1a6c79654a1498f8828b5afa672ccb4431d9a906235f810e5df3c2e442c222"
+hash = "ca77062010c4fa09a058d6cc4a0d84be4c1186cad7a4b014a3ef5b2fe82531e483a1252c3945b67acc9b7c4f3805af467da9bddb9e53f8cd0fda9d97923f1877"
 
 [update]
 [update.modrinth]
 mod-id = "gOPAFzp0"
-version = "Rdo5tUmb"
+version = "XrNWi3Wo"

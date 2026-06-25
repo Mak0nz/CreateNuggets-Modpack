@@ -1,13 +1,13 @@
 name = "Create: Numismatics"
-filename = "CreateNumismatics-1.0.15+forge-mc1.20.1.jar"
+filename = "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/wjKJbg4D/CreateNumismatics-1.0.15%2Bforge-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/guON3qvQ/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "775481ce32bc34f580d4e2bd6b9084f003370b0a61a6938549857b4cdf9d483e19e838214ae15fba4b4732cc9a077849851b744a4a1156049ed5e555573b8b83"
+hash = "2b4ccd516865997735e1a3ec323615bd32d9388e15cc04097ac455f2b453423fccd21969782ecfd031b3de6ed85506ba5349da24c32f5e3eaaf558c5163cf203"
 
 [update]
 [update.modrinth]
 mod-id = "Jdbbtt0i"
-version = "wjKJbg4D"
+version = "guON3qvQ"

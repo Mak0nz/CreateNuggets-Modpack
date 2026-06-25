@@ -1,13 +1,13 @@
 name = "Curious Armor Stands"
-filename = "curious_armor_stands-1.20-5.1.0.jar"
+filename = "curious_armor_stands-8.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jR6HKqHv/versions/a1svxw83/curious_armor_stands-1.20-5.1.0.jar"
+url = "https://cdn.modrinth.com/data/jR6HKqHv/versions/rTyE3mkX/curious_armor_stands-8.0.1.jar"
 hash-format = "sha512"
-hash = "749c6b8f70b42a373835e076dbcc1e6e1b87b720af2005b9d6eaedd1136666a8815f944b74d195670e8c63422ad667c4b92a2efc1994b9070046c84f1c5377c0"
+hash = "4c441fddbb69f642d3af91f46c1168552911bfb4e4952b3066737f5308f5e082fd3a88e75251a1027b7096e19943edf3b5908946a48c3717235d921381e497c0"
 
 [update]
 [update.modrinth]
 mod-id = "jR6HKqHv"
-version = "a1svxw83"
+version = "rTyE3mkX"

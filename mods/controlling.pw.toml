@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-forge-1.20.1-12.0.2.jar"
+filename = "Controlling-neoforge-1.21.1-19.0.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar"
 hash-format = "sha512"
-hash = "3945bf3f6d843957f13584dfc70bede253d1e48f0dcb96f647fbcc6fcd3d1748a0dd9c6ca5c882e07a41f98eb84057934f51e43ab6023ed0a19695de2e6fe9f5"
+hash = "bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e"
 
 [update]
 [update.modrinth]
 mod-id = "xv94TkTM"
-version = "LH6Bi6Am"
+version = "FaNppCJJ"

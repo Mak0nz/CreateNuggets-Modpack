@@ -1,0 +1,13 @@
+name = "Alex's Mobs (Unofficial Port)"
+filename = "alexsmobs-1.22.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EmNhnNnt/versions/KSgki4uc/alexsmobs-1.22.17.jar"
+hash-format = "sha512"
+hash = "9f57f20693bb187c54f6d68dc34592b87d0e55a5a4628ad097b0aa39afe165f4a834b83b6590d803e64bac0b1230a8f46369bfe45851a3cc964cf3d88f235277"
+
+[update]
+[update.modrinth]
+mod-id = "EmNhnNnt"
+version = "KSgki4uc"

@@ -1,0 +1,13 @@
+name = "Create: Randomize Filters"
+filename = "createrandomizefilters-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y3R5jiC8/versions/l9hwlpNV/createrandomizefilters-1.0.7.jar"
+hash-format = "sha512"
+hash = "a0cb9e1749e0d2a7c3d5a8647c82c923af454a86d74a928b4fc840fc1b11c049d4e8c4d1ad49575cf7dbb24e0c9cfc1ad314b9ff1d937aef09a99c81be0ffe17"
+
+[update]
+[update.modrinth]
+mod-id = "Y3R5jiC8"
+version = "l9hwlpNV"

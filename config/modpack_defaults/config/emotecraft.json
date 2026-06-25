@@ -1,0 +1,86 @@
+{
+  "config_version": 4,
+  "loadbuiltin": true,
+  "quark": false,
+  "dark": true,
+  "oldChooseWheel": false,
+  "perspective": true,
+  "default3rdPersonFront": true,
+  "showicon": true,
+  "enableNSFW": false,
+  "alwaysOpenScreen": true,
+  "debug": true,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "emotesFolderOnLogicalServer": false,
+  "emotesDirectory": "emotes",
+  "autoFixEmoteStop": true,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.04,
+  "yratio": 0.75,
+  "showHiddenConfig": false,
+  "neverRemoveBadIcon": false,
+  "exportBuiltin": false,
+  "hideWarning": false,
+  "fastmenu": {
+    "0": {
+      "0": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a",
+      "1": "0de63fbe-2f20-44e0-8969-479b76ceeb6b",
+      "2": "a2969c42-520f-4c5c-a024-a7d0a2b7b4d1",
+      "3": "96506a5e-a69c-4a18-9add-d43dfd272fa6",
+      "4": "ebfb1e69-330a-4970-8bca-f5625c90681a",
+      "5": "3045b335-12ca-4ddb-aca5-0aef450a5e4c",
+      "6": "931b2bda-a25e-4e55-957a-88c46f5e9a7b",
+      "7": "33b912f8-0aa0-45e6-a2d4-9b5677e6f35c"
+    },
+    "1": {
+      "0": "96506a5e-a69c-4a18-9add-d43dfd272fa6",
+      "1": "e170e707-6f22-45dd-aee6-f0aa61d95ace",
+      "2": "5c6ea91f-6fca-4a93-8563-911eb15fd980",
+      "3": "8691700c-0000-0000-0000-000000000000",
+      "4": "5f803dd8-6648-4d21-a358-835a47c9f33b",
+      "5": "073efaa6-9991-4f19-868d-bda675c319fe",
+      "6": "a2969c42-520f-4c5c-a024-a7d0a2b7b4d1",
+      "7": "437c79b9-4b32-4f79-a6b0-b81d15dbef7f"
+    },
+    "2": {
+      "0": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a",
+      "1": "7facc82b-c3ba-47e2-bd4f-137a073ad799",
+      "2": "8402986a-ab05-4d7d-bbf6-e77364d1e04f",
+      "3": "0de63fbe-2f20-44e0-8969-479b76ceeb6b",
+      "4": "073efaa6-9991-4f19-868d-bda675c319fe",
+      "5": "53b6b21b-819f-411d-a39a-c5636c7563d0",
+      "6": "02012476-38c1-46d0-ae1c-94bfe4617160",
+      "7": "041e855d-5f85-490b-9f64-4418f7fbe060"
+    },
+    "3": {
+      "0": "364716b5-0000-0000-0000-000000000000",
+      "1": "f9f6669d-f1b3-4170-8bc5-475a9a600439",
+      "2": "1fac5d45-0000-0000-0000-000000000000",
+      "3": "ac90254c-c1b8-47ca-bd20-b42f6575cd6f",
+      "4": "3045b335-12ca-4ddb-aca5-0aef450a5e4c",
+      "5": "c926d2f0-85c9-454f-9aec-fe4a12b884c4",
+      "6": "7701bdc2-6350-42c8-8214-bbdb8c174e84",
+      "7": "7a17c117-e876-4803-b398-33a430b5b116"
+    },
+    "4": {
+      "0": "d824169a-0000-0000-0000-000000000000",
+      "1": "0af80ff3-0000-0000-0000-000000000000",
+      "2": "922dd487-67e6-42bf-85cb-07beabc7df54",
+      "3": "87e8adf4-0000-0000-0000-000000000000",
+      "4": "e45fe66f-0000-0000-0000-000000000000",
+      "5": "02da2b2e-d48e-47fd-a485-aa2c6fb78b6a",
+      "6": "21034947-def0-4e2f-ac8e-c4bc434db4c3",
+      "7": "58171ff8-16f8-4def-ac13-99fdd4d44544"
+    },
+    "5": {
+      "0": "afb46857-0000-0000-0000-000000000000",
+      "1": "49fa4e56-fd29-47ba-8534-1484494eb968",
+      "2": "e1283361-0000-0000-0000-000000000000",
+      "3": "d8dab441-c92d-44cb-ae7f-5c6f5cb2b69d",
+      "4": "aa0f4006-1a88-4cba-8a62-cf6a779c837a"
+    }
+  },
+  "keys": {}
+}

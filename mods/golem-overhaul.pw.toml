@@ -1,13 +1,13 @@
 name = "Golem Overhaul"
-filename = "golemoverhaul-forge-1.20.1-1.1.0.jar"
+filename = "golemoverhaul-neoforge-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qEYs2G9A/versions/cYcN89gd/golemoverhaul-forge-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/qEYs2G9A/versions/lRRw1dZc/golemoverhaul-neoforge-1.21.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "ccbb43782906f5220ba825207840b66530a7f15b04c42b175677d532c432eeeac264a2dfaa884bc172f15a850be0a49a51c052f96e09923bfea57b5037d45622"
+hash = "dae0c7b9ed35bd9c3356dd78505efd080054e5a2fe74117bdbb150ffb94eacd4ecbb02cda80f4c29070db375c09d73fb38bbaf3a8b102bbea6727f6d6a2d851f"
 
 [update]
 [update.modrinth]
 mod-id = "qEYs2G9A"
-version = "cYcN89gd"
+version = "lRRw1dZc"

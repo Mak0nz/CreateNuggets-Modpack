@@ -1,13 +1,13 @@
 name = "Comforts"
-filename = "comforts-forge-6.4.0+1.20.1.jar"
+filename = "comforts-neoforge-9.0.5+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/3kpPjcTc/comforts-neoforge-9.0.5%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "5f8bc01de36814bbea454ad306efd6b7ae9de933117fe8c1197a13454804e4b71ddd0685a24ace45b81527a8489d4081f7e75b6c5d3f7d7c8f791520407fac09"
+hash = "e9de2952545e9e773a6e78fc501e8cd231ea19750c30404355b71df9928eb5bd0921a4429aeca9d0fa10e67717f77fcf7a2aae117ac953b8f7de246b0ad685e4"
 
 [update]
 [update.modrinth]
 mod-id = "SaCpeal4"
-version = "gBDsc134"
+version = "3kpPjcTc"

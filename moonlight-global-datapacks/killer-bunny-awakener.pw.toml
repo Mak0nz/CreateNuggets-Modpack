@@ -1,0 +1,13 @@
+name = "Killer Bunny Awakener"
+filename = "killer-bunny-awakener-v1.2c.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/943wh1c5/versions/NfJY57gc/killer-bunny-awakener-v1.2c.zip"
+hash-format = "sha512"
+hash = "15db2cc6743824888838aeb079e03b0adc458122e97057b95b2880d3bdad33d8a071ed92736c3740c9dc52eec393dfb7f34122f9cf8eae60dcabdc37bcd6077c"
+
+[update]
+[update.modrinth]
+mod-id = "943wh1c5"
+version = "NfJY57gc"

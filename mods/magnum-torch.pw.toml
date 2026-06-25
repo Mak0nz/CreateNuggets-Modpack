@@ -1,13 +1,13 @@
 name = "Magnum Torch"
-filename = "MagnumTorch-v8.0.2-1.20.1-Forge.jar"
+filename = "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jorDmSKv/versions/LrsjuUiA/MagnumTorch-v8.0.2-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/BZAhwo2r/MagnumTorch-v21.1.1-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "2434d5c691e041fc3e3e56238710aecbfc6e9266019f367d7d0716c7328a8125194e7c19d595fe2254718ad89dd4a3936e12137740a6c2ba046e1bb29380fef5"
+hash = "254fe8a667d170b30471b46c83905126c501527efe913cbc939d40a8a7b01a3c1ad7c56b634778ed1599ebf2a99b9443828bc787d8ada4561bd1f8c3c61eecdf"
 
 [update]
 [update.modrinth]
 mod-id = "jorDmSKv"
-version = "LrsjuUiA"
+version = "BZAhwo2r"

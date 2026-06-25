@@ -1,13 +1,13 @@
 name = "Tag Tooltips"
-filename = "tagtooltips-forge-1.20.1-1.1.0.jar"
+filename = "tagtooltips-neoforge-1.21.1-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2MgfuPip/versions/OFBFNuzP/tagtooltips-forge-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/2MgfuPip/versions/6gXB1Kcv/tagtooltips-neoforge-1.21.1-1.2.0.jar"
 hash-format = "sha512"
-hash = "e3b86a689404c329169766cb81a4f8705aa8c86a4acb92d1106e10779e473c346a59fe0ee277ecb06c23753181e195e395e6a759fca58b25ecdc5b6d3051448b"
+hash = "76d079843900825172d633776c82598cc19cc5dbc4f9e74ea497dc52c6fb530f10437b30b781f0a05982e25f59198e813634623664b211c6ba396e22d0bf552d"
 
 [update]
 [update.modrinth]
 mod-id = "2MgfuPip"
-version = "OFBFNuzP"
+version = "6gXB1Kcv"

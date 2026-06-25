@@ -1,13 +1,13 @@
 name = "Ars Creo"
-filename = "ars_creo-1.20.1-4.3.0.jar"
+filename = "ars_creo-1.21.1-5.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fZ324GMc/versions/bLLhDnY2/ars_creo-1.20.1-4.3.0.jar"
+url = "https://cdn.modrinth.com/data/fZ324GMc/versions/LqOllHms/ars_creo-1.21.1-5.4.0.jar"
 hash-format = "sha512"
-hash = "129eb19573d2aadc778c06694a754ff587fc2a519f94296442d327584f4526186730008ee9c4e80dbba6df57a6737f5e5f05f4da3bc76e197e19e395867450b0"
+hash = "55204c30088bdfbb8764a50b0bf61aa80aeb234c5200aa5cc35224d1b58940df3e0fbbddc95df5277a60243f1bb8a3f565a0927e956ced1a2147605318a8631b"
 
 [update]
 [update.modrinth]
 mod-id = "fZ324GMc"
-version = "bLLhDnY2"
+version = "LqOllHms"

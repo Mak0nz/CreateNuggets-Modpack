@@ -1,13 +1,13 @@
 name = "Particular ✨ Reforged"
-filename = "particular-1.20.1-Forge-1.5.0.jar"
-side = "both"
+filename = "particular-1.21.1-NeoForge-1.5.5.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/52thez6Q/particular-1.20.1-Forge-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/gxO1XUMR/particular-1.21.1-NeoForge-1.5.5.jar"
 hash-format = "sha512"
-hash = "0931ccbee5bc868a6ae0e2c282d9c4df73880c8cc6216b12a15879c565eec7a3166302706f7dff91ffe30405beebbad8f771ccc5b72000706439e1d6a4326ecf"
+hash = "60e0a740675cef0b3b18289b62e2fb33662acdc05e5451e977082f4588639fd2d81de33cb619ba88ff0353fd5c16c37403ef7ce233b1d1ce3a5ce6920423597e"
 
 [update]
 [update.modrinth]
 mod-id = "pYFUU6cq"
-version = "52thez6Q"
+version = "gxO1XUMR"
