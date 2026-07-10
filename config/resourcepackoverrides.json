@@ -12,10 +12,9 @@
     "create_aquatic_ambitions:harverstable_corals",
     "create_aquatic_ambitions:silkless_corals",
     "file/Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip",
-    "file/IAFCE - XaeroMap Support V1.zip",
-    "file/CreateNuggetsPack.zip",
     "file/Strawberry Bushes 1.20.zip",
-    "file/Stellarity-5.2.0-Music.zip"
+    "file/Stellarity-5.2.0-Music.zip",
+    "file/CreateNuggetsPack.zip"
   ],
   "pack_overrides": {
     "*": [
@@ -29,10 +28,9 @@
       "create_aquatic_ambitions:harverstable_corals",
       "create_aquatic_ambitions:silkless_corals",
       "file/Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip",
-      "file/IAFCE - XaeroMap Support V1.zip",
-      "file/CreateNuggetsPack.zip",
       "file/Strawberry Bushes 1.20.zip",
-      "file/Stellarity-5.2.0-Music.zip"
+      "file/Stellarity-5.2.0-Music.zip",
+      "file/CreateNuggetsPack.zip"
     ],
     "hidden": [
       "railways:green_signals",

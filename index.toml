@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "621ff28e0158b067aa62ccd049fd8892c814ec455ce108d285ceeb0039843fb5"
+hash = "c3846b6ee2162dc15fe74439f48727c391df844365fad1d8ada90355c3c8160d"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -49,6 +49,10 @@ file = "config/modpack_defaults/config/emotecraft.json"
 hash = "4595445874ecd3aaee49893ea271053146571220da2d7a15865ae3fd6f1adb6d"
 
 [[files]]
+file = "config/modpack_defaults/config/maplink/general.json5"
+hash = "0aa80935a31998046e32df72790a783117e07fc70e31dc8ca93432e2223e1572"
+
+[[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
 hash = "f05df92a01bb689edc0535149234ffafba26bc6194fe9087b767b846fb4c83ff"
 
@@ -57,12 +61,16 @@ file = "config/modpack_defaults/options.txt"
 hash = "03ced393273454788fec5e5cb017a3e651825ca1d70d5b954d620957f2677d60"
 
 [[files]]
+file = "config/modpack_defaults/servers.dat"
+hash = "745a3f0b0b294672f975cb340904aa91e3f8602981c61cba23b081fc375d615d"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "4235108da3505058124a84db3855fd939ad73b210e0d11c5398450f0673f4111"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "294fe89709646744757da09102af2b6ffcb2d79924d5c080c4c367efba55ee2a"
+hash = "a4e0c9a1c4e3c9d628c8f3cf69a1ec4c163d0be79d981dec9a2e61b7ce21e3b6"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -256,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "e0869c143ab321381491c224ca6f3c1f16523badc7973eccaff2fed785d50c9e"
+hash = "eac365c8ec7e5c59649eef8d0fa4ff7d05e3ce284affac9a53ec331624ccf81c"
 metafile = true
 
 [[files]]
@@ -281,12 +289,17 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "8c01fcdc81d675f0dbc3b0388466dfc803e9d28c6486cc17700d44b9471ad819"
+hash = "cdd14e71c41b125f57f01bfdccc750e9397cfd8b4a032f549e6607c29ce94e72"
 metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
 
 [[files]]
@@ -371,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
+hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
 
 [[files]]
@@ -406,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "dd0ae7a4871b143ac99f0c96d4ef600eb06deb0ab15725f607b3bd3194dd6a44"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
@@ -416,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "d32555be5aa4121c092388613439429140333b36f81d6e8aa34d4a23009ee0a5"
+hash = "f96049d210cbb1f4743baea5b5cc4d35932bbfda172eed1a1af8b1b662a6d6d3"
 metafile = true
 
 [[files]]
@@ -500,6 +513,11 @@ hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-mechanical-roller-fix.pw.toml"
+hash = "16c7cc65057f4084cd2cd05c7a82aedf4fe66fe6e820317a06be926c09249764"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
@@ -521,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+hash = "6a1ac120ec1ef42efa9be09d5316b8719294be29c44ed62b00ec2dc508227f5d"
 metafile = true
 
 [[files]]
@@ -536,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
-hash = "d93c570e2e8faa0067a5449a92ed57d4ded7b972a871f2e733d31058a945286b"
+hash = "42c1a422e697288fa65a78fd1aa3c88f9c5246fb61f95ba219fadb600ab18a9e"
 metafile = true
 
 [[files]]
@@ -571,12 +589,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "c3cbea800ad6c0b2442f89f83a40b7bb950c1c3645192348e5ba389dacdc3e55"
+hash = "7d11c93ae8c0b4441b20c7ffde4dcc2655d76b19117f3b713954f3ee2aa52097"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "9632e3a695f69473d879e285e46007fd5037cb5abc8db02a8bec79689864d0fc"
+hash = "c1fceb1474ae6e2c961d97b24987a1376255aadd37fa23384601127bedfb84e0"
 metafile = true
 
 [[files]]
@@ -776,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "11845b676d375dc89cd0d41ae637e51f78c8747c73baaa3f6539a703196eefe1"
+hash = "ca3ef8e60e8ed2d7b82cc8b3ce0188f122125d41744d95d9ef6de3dbf77f8957"
 metafile = true
 
 [[files]]
@@ -871,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "0cd187339cf31500d7ab3ca89e366f91077beb90a9062dbad3ceea02873e38b0"
+hash = "0e79bdc0e20758b00f330867f389e57cd9046496da89fcd37701789443f96d24"
 metafile = true
 
 [[files]]
@@ -1001,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
@@ -1016,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
@@ -1100,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
+hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
 metafile = true
 
 [[files]]
@@ -1141,11 +1159,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
@@ -1200,7 +1213,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorphic-refined-storage.pw.toml"
-hash = "9d9c287c96738d30ba41b33dfa27842231b812dc08e199acefe9815ed72cb39b"
+hash = "00f6f19038a3a5f234598da8b911502a03a01c3570c3cebd6132cd4309f81ac7"
 metafile = true
 
 [[files]]
@@ -1210,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
+hash = "c5f891f486c303cae5fb41223bdc54e8c8c9da259f5c950c23df8b8ebdc40eea"
 metafile = true
 
 [[files]]
@@ -1240,17 +1253,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
+hash = "723e363273ff9fea18f1d2cf0b2d469901f9c4a1f1ffdd8093fa435451deef95"
 metafile = true
 
 [[files]]
 file = "mods/refined-storage-curios-integration.pw.toml"
 hash = "ce6f405d86fa560f11825b1c92ac8ffe27e5d8b5e1e576ca9b464bb35bbe6c7a"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage-emi-integration.pw.toml"
-hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
 metafile = true
 
 [[files]]
@@ -1355,7 +1363,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "b92a20cb98393bafe73d00c338d390f2a1a7dc9f80546a5a3db84b9f3a86fd13"
+hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
 metafile = true
 
 [[files]]
@@ -1406,6 +1414,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "cb38b76111783dcbf07c3de20e65dbb261c2f559bb46a0262e97f0ad9d8eafb7"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
 metafile = true
 
 [[files]]
@@ -1544,7 +1557,7 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/iceandfire_smithing.pw.toml"
-hash = "c7a7746881e006695cf1bf51fd2bc94d47140ef994345a5d38a8f5773c98432c"
+hash = "1220868a150598bd9d16ff5fffcd5e74380a7a512db1fd50364a6bbfe891a957"
 metafile = true
 
 [[files]]
@@ -1554,7 +1567,7 @@ metafile = true
 
 [[files]]
 file = "moonlight-global-datapacks/mob-captains.pw.toml"
-hash = "2f4240383bbdbdfd3e8b98b6b361642472972b66242ad91aa6be6c8150893f38"
+hash = "e468ddc054fed67ff30009c7fd3b73afc3c9481b0b42a2eb3b914d981b8fac71"
 metafile = true
 
 [[files]]
@@ -1563,8 +1576,18 @@ hash = "7f6fe529bde97964551bf35b5200a6f85006d48807bf4acae9091c15f7ab7712"
 metafile = true
 
 [[files]]
+file = "moonlight-global-datapacks/nullscape.pw.toml"
+hash = "e1e276f02307a86e5b73eab681f02e7310dd8c9ecab960f2fbcb3c26b159f411"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/stellarity-x-nullscape.pw.toml"
 hash = "7884337803babcd6ccbfaae85318547dd9e3384f3838191942d00c14ff93ffe0"
+metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/stellarity.pw.toml"
+hash = "e4c8d3de010d89fa97149e3a91fde1a608fb1a85f9d1804041fd101ea47da5f1"
 metafile = true
 
 [[files]]
@@ -1574,16 +1597,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/CreateNuggetsPack.zip"
-hash = "597f76f5a359777089ea349bd5ce036f5ccac817c2ef43180ab1d6a50af3f307"
+hash = "a24a2aad6123c1cdac3c891bb245579ac094e9619974bf306d5557abfe7b3cdc"
 
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "b813f2597b3186c64d29ac596129f49161a2457d43a211f51b5f2daedaf6bd3d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/iafce-xaeromap-support.pw.toml"
-hash = "d81dee7b60ae255e9cfb829c2f578dccc34bb8bf1f5bdbde3a5b0659d565c43d"
 metafile = true
 
 [[files]]

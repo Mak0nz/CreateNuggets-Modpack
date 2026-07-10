@@ -1,13 +1,13 @@
 name = "Polymorphic Refined Storage"
-filename = "rspolymorph-neoforge-1.21.1-1.2.1.jar"
+filename = "rspolymorph-neoforge-1.21.1-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x9SSMbo6/versions/6HhRdfci/rspolymorph-neoforge-1.21.1-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/x9SSMbo6/versions/OYFQ6UZp/rspolymorph-neoforge-1.21.1-1.2.2.jar"
 hash-format = "sha512"
-hash = "0d394aae507acb2f99ce002d857bc2717e31fdc4d1de07434d946a22e178ed35e744283268885f349e2ef863f9d50c585e9b062b1388b6d8a6f313772df5a973"
+hash = "4b4d55bcbcf16098e47f4e34296a795204d3ded6ed43982da6150c991d9aeba09896c04b0f189ddbfdad1bda998097081ec25a969e20c8b60287c9e6b869593f"
 
 [update]
 [update.modrinth]
 mod-id = "x9SSMbo6"
-version = "6HhRdfci"
+version = "OYFQ6UZp"
