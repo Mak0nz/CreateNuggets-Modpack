@@ -1,13 +1,13 @@
 name = "Reese's Sodium Options"
-filename = "reeses-sodium-options-neoforge-2.2.0+mc1.21.1.jar"
+filename = "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/trc55l6y/reeses-sodium-options-neoforge-2.2.0%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/KYgu9tXl/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "4bd23cccc91e812482d5095a815b96e0de73a788ad6f8f85ee72ce173fcbe0cdbcdd7da3749657e4660bc0f5b868310656aab5f000985b011b07a907655070ed"
+hash = "db858f48d74258ba460234219038d75eee660bb537711f0da89fd26383533d09b9ccc2e736c02c606a9dcfd7bba04a2e7febf87b89fcee45e0817e84f3827d98"
 
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"
-version = "trc55l6y"
+version = "KYgu9tXl"

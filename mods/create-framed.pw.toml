@@ -1,13 +1,13 @@
 name = "Create: Framed"
-filename = "createframed-1.21.1-1.7.3.jar"
+filename = "createframed-1.21.1-1.8.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/15fFZ3f4/versions/1BtGyIVR/createframed-1.21.1-1.7.3.jar"
+url = "https://cdn.modrinth.com/data/15fFZ3f4/versions/yioQUGiO/createframed-1.21.1-1.8.2.jar"
 hash-format = "sha512"
-hash = "b28dee6b5c49f20d070aede979e4f1b7598f1119321195a31395d71e640479314fbf5776374b8e1c1df50139b3e91132aca8f2151cae22ff05203f1c630c52ac"
+hash = "38a3ad408a563543ebee89da2e3dd624188864d42d2d208ac695f2fc2240f6a3c26746ec516aa4b1e0ff45ced8de97317328dbae594bb18f914003680bceaf00"
 
 [update]
 [update.modrinth]
 mod-id = "15fFZ3f4"
-version = "1BtGyIVR"
+version = "yioQUGiO"

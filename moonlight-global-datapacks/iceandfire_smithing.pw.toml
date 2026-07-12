@@ -1,13 +1,13 @@
 name = "Ice And Fire Smithing"
-filename = "IceAndFire_Smithing_1.21.1.zip"
 side = "both"
+filename = "IceAndFire_Smithing_1.21.1.zip"
+pin = true
 
-[download]
-url = "https://cdn.modrinth.com/data/xGg3Zcsk/versions/QPkEHg6s/IceAndFire_Smithing_1.21.1.zip"
-hash-format = "sha512"
-hash = "1cf14a913505218ab13b378ae2639bdcebcf9dd0bdcc609dcda781eb8867e7964f52a255af0fb3d931ae08250265e0bd853d189e84091b224acf42cb3522285a"
-
-[update]
 [update.modrinth]
 mod-id = "xGg3Zcsk"
 version = "QPkEHg6s"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/xGg3Zcsk/versions/QPkEHg6s/IceAndFire_Smithing_1.21.1.zip"
+hash = "1cf14a913505218ab13b378ae2639bdcebcf9dd0bdcc609dcda781eb8867e7964f52a255af0fb3d931ae08250265e0bd853d189e84091b224acf42cb3522285a"
