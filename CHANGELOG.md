@@ -1,3 +1,59 @@
+## 26.08.06
+
+**Updated:**
+
+- Effectual
+- More Culling
+- Visuality: Reforged
+- Crash Assistant
+- Create: Encased
+- Create: Slice & Dice
+- MmmMmmMmmMmm
+- Fusion
+- Architectury API
+- Traveler's Backpack
+- Forgified Fabric API
+- Create: Jetpack
+- Supplementaries
+- Create: Cobblestone
+- Kiwi
+- Create: Mobile Packages
+- Quark
+- Sodium
+- Better Library
+- Grim kingdoms: structures & ruins
+- Create: Aquatic Ambitions
+- Azimuth API
+- Better Combat
+- Create: Bits 'n' Bobs
+- Carry On
+- Spawn
+- Climbable Ropes for Create Aeronatics
+- Create: Avionics
+- Ice and Fire
+- Ars Nouveau
+- M.R.U
+- SuperMartijn642's Core Lib
+- Horseman
+- Steam 'n' Rails
+- Moonlight Lib
+- ModernFix
+- Simple Discord RPC
+- Tom's Simple Storage
+- Chunk Loaders
+- Create: Dragons Plus
+- Golem Overhaul
+- Strut Your Stuff
+- Minecolonies
+
+**Added:**
+
+- Tea Lib
+- Immersive Vehicles
+- The Sign Pack
+- Immersive Vehicles - OCP
+- Create: Coasters Simulated
+
 ## 26.07.12
 
 **Removed:**

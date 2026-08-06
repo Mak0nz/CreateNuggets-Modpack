@@ -1,0 +1,13 @@
+name = "Teal Lib"
+filename = "teallib-1.3.teal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rLJ1qF79/versions/lZTBRemW/teallib-1.3.teal.jar"
+hash-format = "sha512"
+hash = "11060adb8aae151879e8e4db4ad5409df1044784fe9e6d6a5f4750ea778317bd37ca9129f39d23e18988b912ab036a9fb3a128761726f927ac23797dd02ed381"
+
+[update]
+[update.modrinth]
+mod-id = "rLJ1qF79"
+version = "lZTBRemW"

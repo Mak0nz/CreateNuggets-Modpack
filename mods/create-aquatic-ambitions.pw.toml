@@ -1,13 +1,13 @@
 name = "Create: Aquatic Ambitions"
-filename = "create_aquatic_ambitions-1.21.1-2.0.2.jar"
+filename = "create_aquatic_ambitions-1.21.1-2.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9SyaPzp7/versions/cgOQIktB/create_aquatic_ambitions-1.21.1-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/9SyaPzp7/versions/DoI3PpXj/create_aquatic_ambitions-1.21.1-2.0.4.jar"
 hash-format = "sha512"
-hash = "0abb46b82f323055c9579feda4d6e63a0f3d0905e31a349bd19f9e4b843f6e6ba6a25c98ea76154fe060f975ace49b3a0fdc3d609eec91384b9550de99977745"
+hash = "2150402262c8aefed2e4ce2dbf193fddcac61837983ebb7fe0a78d035c33229015033a63ff568fc1cfcf3914b4c5a3b511ebd8b1a8dc6e824a7a1d1639166c12"
 
 [update]
 [update.modrinth]
 mod-id = "9SyaPzp7"
-version = "cgOQIktB"
+version = "DoI3PpXj"

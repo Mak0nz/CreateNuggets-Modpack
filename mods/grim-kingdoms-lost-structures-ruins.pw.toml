@@ -1,13 +1,13 @@
 name = "Grim kingdoms: Lost structures & ruins"
-filename = "grim-kingdoms-lost-structures-ruins-2.0.jar"
+filename = "grim-kingdoms-lost-structures-ruins-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/f4d4E9De/versions/laV8fs9S/grim-kingdoms-lost-structures-ruins-2.0.jar"
+url = "https://cdn.modrinth.com/data/f4d4E9De/versions/2HwCrjkl/grim-kingdoms-lost-structures-ruins-2.0.3.jar"
 hash-format = "sha512"
-hash = "f4bd430234daec67eb835400f48efc3bf7b6411d11fda32224c5387ad32c99526f3a90d16e7749937f75a868a6821479abf745378fc624f278be312fdb4afaf2"
+hash = "441e23bac567a6af3051bb97029c775646bf7c1f3b31741975bb4e25abfa488a6271e3036d6d0f3921ce7c92461e2cfd9afc74a0d9fd1a93d86d816b326e2f00"
 
 [update]
 [update.modrinth]
 mod-id = "f4d4E9De"
-version = "laV8fs9S"
+version = "2HwCrjkl"

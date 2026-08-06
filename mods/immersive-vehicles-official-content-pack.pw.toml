@@ -1,0 +1,13 @@
+name = "Immersive Vehicles - Official Content Pack [OCP] - Planes & Cars"
+filename = "MTS Official Pack-1.21.1-V29.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7TiPPJz/versions/f4rn8RAt/MTS%20Official%20Pack-1.21.1-V29.jar"
+hash-format = "sha512"
+hash = "b7c3ced28a8a13a78c0a02a583cb92839b89f0565160fa1ce5943d40efd10c74cb5bee4bc4026cf42e66541320b4e53c360c49087bdab821887dd712a156734e"
+
+[update]
+[update.modrinth]
+mod-id = "C7TiPPJz"
+version = "f4rn8RAt"

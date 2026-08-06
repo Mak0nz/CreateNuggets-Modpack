@@ -1,13 +1,13 @@
 name = "Spawn"
-filename = "spawn-4.0.4-1.21.1.jar"
+filename = "spawn-4.0.7-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rex9wwpz/versions/kmNDEibJ/spawn-4.0.4-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/rex9wwpz/versions/gMPsUePI/spawn-4.0.7-1.21.1.jar"
 hash-format = "sha512"
-hash = "45e113e60a8b43548105d47393d51553511621ebf80735b9d612396b01c1b2e5e2be8037de2354940946c25348ff72dbf39b4cd7bb254e63c4c676e5b5613c55"
+hash = "dd5b43c613e44e1e387e665e75e505439c082dcf959bc7b0ad3ce45818a9e8597bcbb86d6d0fbdc481f2614a935ef04d2144841c983e1ab17dec1bac12f7f529"
 
 [update]
 [update.modrinth]
 mod-id = "rex9wwpz"
-version = "kmNDEibJ"
+version = "gMPsUePI"

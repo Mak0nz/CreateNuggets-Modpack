@@ -1,13 +1,13 @@
 name = "Visuality: Reforged"
-filename = "visuality-forge-2.1.0.jar"
+filename = "visuality-forge-3.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/z13R7Et1/versions/ZBidwV02/visuality-forge-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/z13R7Et1/versions/kOdevgPm/visuality-forge-3.0.0.jar"
 hash-format = "sha512"
-hash = "7ec2beefea92d32e27abf83da7791fbf2d14cc12341ad96672976c119b475e8b376d663e8b42970a3f12cdeb68ec31f976b05c6c749a29dbd3bed8744288aabf"
+hash = "f90754b93efff9fc466351446e916b1aac314e8834985f97725fff9a4978bc5519e3497303c7136a2e8b0aedda36ae674858ddfe3f01b63d1886fa906440e373"
 
 [update]
 [update.modrinth]
 mod-id = "z13R7Et1"
-version = "ZBidwV02"
+version = "kOdevgPm"
