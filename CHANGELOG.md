@@ -1,3 +1,14 @@
+## 26.08.7
+
+**Removed:**
+
+- Immersive Vehicles
+- The Sign Pack
+- Immersive Vehicles - OCP
+
+**Updated:**
+-
+
 ## 26.08.06
 
 **Updated:**

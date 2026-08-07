@@ -22,7 +22,7 @@ hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "69ddc91f8553d17acfa5ac4b74955910ecf8f19ef44da41485381fe73e8bca41"
+hash = "b33fe69ed9090c53f6d02d97249e34847588245b124b3f201642a5d4f5ad9b8d"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
@@ -958,16 +958,6 @@ hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
 
 [[files]]
-file = "mods/immersive-vehicles-official-content-pack.pw.toml"
-hash = "3dd8cb8ebd8db5946da9bb635ab1e427000435fcf712f1385214e88d9ebd9ae1"
-metafile = true
-
-[[files]]
-file = "mods/immersive-vehicles.pw.toml"
-hash = "e54cb242884e03c1b2e5971fe010adedbf2e1ae5dc161cf428d82301c6b4b38f"
-metafile = true
-
-[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
@@ -1470,11 +1460,6 @@ metafile = true
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
-metafile = true
-
-[[files]]
-file = "mods/the-sign-pack.pw.toml"
-hash = "5ff088331d325049a945d430df8c544c34a7b5d1f796d8be7364d19cd8947427"
 metafile = true
 
 [[files]]
