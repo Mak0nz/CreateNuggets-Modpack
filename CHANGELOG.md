@@ -1,13 +1,71 @@
-## 26.08.7
+## 26.08.21
+
+**Updated:**
+
+- AddonsLib 1.14
+- Macaw's Biomes O' PLenty 1.6
+- Stone Zone 2.11.17
+- Wood Good 2.11.50
+- CC: Tweaked 1.20.2
+- C: Transmission! 1.2.2
+- Towns and Towers 1.13.11
+- Sable 2.0.5
+- C: Aeronautics 1.3.1
+- Sodium 0.8.13b2
+- C: Train Utilities (Doors) 3.1.0
+- M.R.U 1.0.33
+- Azimuth API 1.4.7
+- C: Let The Adventure Begin 4.1.0
+- Construction Wand - KOTS 2.16.12
+- Supplementaries 3.8.9
+- Crash Assistant 1.11.12
+- C: Coasters Simulated 0.1.5
+- C: Train Lights 1.2.0
+- ImmediatelyFast 1.6.12
+- SuperMartijn642's Core Lib 1.1.24
+- Chat Heads 0.15.7
+- MoonlightLib 3.3.4
+- C: Contraption Terminals 1.4.0
+- CreativeCore 2.13.44
+- Jade 15.10.6
+- C: Dragons Plus 1.11.7b
+- Particular 1.5.7
+- Forgified Fabric API 0.116.15+2.3.4
+- Map Link 4.5.1
+- Xaero's Minimap 26.4.2
+- Xaero's World Map 1.45.0
+- C: Mechanical Roller Fix 1.0.4
+- Cupboard 4.0.0
+- Structorize 1.0.832
+- MineColonies 1.1.1374b
+- Yung's API 5.1.7
+- C: Escalated 1.3.2
+- Fusion 1.3.13
+- Farmer's Delight 1.3.3
+- C: Copycats+ 3.0.7
+
+**Added:**
+
+- C2ME 0.4.0a0.120
+- Banner Text 1.4.2
+- C: Maintenance Control 1.2.0
+- C: Canvas Contraptions 0.2.0
+- C: Compatible Storage 2.13.0
+- TrafficCraft 1.2.0+3b
+- IA: Better Engines 3.0.2
+- Compressed Fuel 1.0.0
+- Ping Wheel 1.12.2
+- Ping to map Xaeros 1.1.0
+- Compass to map 0.1.1
+- Elytra Tuning 0.3.0
+
+## 26.08.07
 
 **Removed:**
 
 - Immersive Vehicles
 - The Sign Pack
 - Immersive Vehicles - OCP
-
-**Updated:**
--
 
 ## 26.08.06
 

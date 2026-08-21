@@ -1,13 +1,13 @@
 name = "Create: Coasters Simulated"
-filename = "simulatedcoasters-0.1.4.jar"
+filename = "simulatedcoasters-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W1ZUfWdr/versions/RIBBfVi3/simulatedcoasters-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/W1ZUfWdr/versions/PGhQoSBq/simulatedcoasters-0.1.5.jar"
 hash-format = "sha512"
-hash = "b0432abef09615d0f15e4105e2113c97b88e45b18a305834e6db80a29c5951e8603a80830ef44de1427e43460283284eb58f03bba572d45c52b30fadec205a56"
+hash = "1fd31aaac63755e7cdf76de1498c9e0b38973977e66aaf49e380774ec30a1b09834f1c44e3e9ccc965403d440e4cafc46bce42f83307979bf790b6689d3cfb1f"
 
 [update]
 [update.modrinth]
 mod-id = "W1ZUfWdr"
-version = "RIBBfVi3"
+version = "PGhQoSBq"

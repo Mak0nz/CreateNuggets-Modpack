@@ -1,13 +1,13 @@
 name = "Create/Aeronautics Mechanical Roller Fix"
-filename = "create_aeronautics_roller_fix-1.0.1-neoforge-1.21.1.jar"
+filename = "create_aeronautics_roller_fix-1.0.4-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "28ec958e544b8dfc6a1a70cc2a588dbd8b402e4c"
+hash = "4213b881e0b1f425a0188bc7ca76f3e7cdd5f28e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8186973
+file-id = 8621510
 project-id = 1557241

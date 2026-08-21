@@ -1,13 +1,13 @@
 name = "Create: Escalated"
-filename = "escalated-1.3.1-mc.1.21.1.jar"
+filename = "escalated-1.3.2+mc.1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/kEo89EkW/escalated-1.3.1-mc.1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/vJ49zRJl/escalated-1.3.2%2Bmc.1.21.1.jar"
 hash-format = "sha512"
-hash = "ab25ede6d8887e3d36cf6a65011207a0ca5435dbd7e5cc00e0274891effd9adbee3f44db7feafaaf2992b4030b93b3c600e98384d435e0f75e1344b4c12a8e4d"
+hash = "6989262104ab83d79c14fef15a19c7bcdbfb46ef7659f3c41a8421df57c6754e3bd8ce20de37b9200bfb7cb84da0977001385cfa489803efc02273419f248429"
 
 [update]
 [update.modrinth]
 mod-id = "LyOBYG8Q"
-version = "kEo89EkW"
+version = "vJ49zRJl"

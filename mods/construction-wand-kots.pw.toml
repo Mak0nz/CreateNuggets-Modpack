@@ -1,13 +1,13 @@
 name = "Construction Wand - KOTS"
-filename = "constructionwand-kots-1.21.1-2.16.9.jar"
+filename = "constructionwand-kots-1.21.1-2.16.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/76H3XX6b/versions/x58bnANF/constructionwand-kots-1.21.1-2.16.9.jar"
+url = "https://cdn.modrinth.com/data/76H3XX6b/versions/cFpoCw3t/constructionwand-kots-1.21.1-2.16.12.jar"
 hash-format = "sha512"
-hash = "c20edbde1db6a4f5ba3bd7f184a29854c7a11c929529c4325494ae524308591be3517770c8055c1fc5077fa56d3c061348aeff73c2e8d4619125a1372d5918bd"
+hash = "37a21a3ab8662400a508e2319a21a344976d7f6698b86eac9f6a648619f605626d3e3aca3e65820e35ed8aa73894a463b2cd22d6b94a51cda7b377dc4437522e"
 
 [update]
 [update.modrinth]
 mod-id = "76H3XX6b"
-version = "x58bnANF"
+version = "cFpoCw3t"

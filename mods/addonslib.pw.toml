@@ -1,13 +1,13 @@
 name = "AddonsLib"
+filename = "addonslib-neoforge-1.21.1-1.14.jar"
 side = "both"
-filename = "addonslib-neoforge-1.21.1-1.10.jar"
-pin = true
-
-[update.modrinth]
-mod-id = "cl5ec0Qm"
-version = "rRKPlFV5"
 
 [download]
+url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/7SEGJEQj/addonslib-neoforge-1.21.1-1.14.jar"
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/rRKPlFV5/addonslib-neoforge-1.21.1-1.10.jar"
-hash = "72155a40cbc0f6ceb22b5b1d84f826eb06d6dccf8052307cd69f1f1688ca7eead0d7beaca467730ed78b534de57828150fc04ae0f464810c81a6ad83b8c493b5"
+hash = "6c5b08e0cfaa4f7e6902f6f937a955850db14fc6e09bf99881ea8ff19149644972878375a5e5dd57861d990ebf4908b03e8cd070dd166a96c2f2b8c3c72bea7f"
+
+[update]
+[update.modrinth]
+mod-id = "cl5ec0Qm"
+version = "7SEGJEQj"

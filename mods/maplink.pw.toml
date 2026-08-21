@@ -1,13 +1,13 @@
 name = "Map Link  (formerly Remote Player Waypoints for Xaero's Map)"
-filename = "maplink-neoforge-4.4.0-1.21-1.21.1.jar"
+filename = "maplink-neoforge-4.5.1-1.21-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/p09gqXUA/maplink-neoforge-4.4.0-1.21-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/MPk9p7zF/maplink-neoforge-4.5.1-1.21-1.21.1.jar"
 hash-format = "sha512"
-hash = "66aa31cc193894e3b93c30bb99c6293284f1c47ce42093bb42540c3563a6172f73a8a173fa9e63070a244d5d381dc93b670abd4bf192b88ba7124d62c604213f"
+hash = "e55098582d6738365be2117a2bd57b0961716be5537c563558b482517276897d2d059a2f736318f9b4a8532df758486aae9c53b35103223eeb03fbf034ee2411"
 
 [update]
 [update.modrinth]
 mod-id = "kiByZ6gx"
-version = "p09gqXUA"
+version = "MPk9p7zF"
