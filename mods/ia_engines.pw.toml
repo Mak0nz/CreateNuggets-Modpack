@@ -1,0 +1,13 @@
+name = "Immersive Aircraft: Better Engines"
+filename = "more_engines-neoforge-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNsl999k/versions/Mv5berrR/more_engines-neoforge-3.0.2.jar"
+hash-format = "sha512"
+hash = "cb591360be0f70ab7b18e7889c1035770f201e10985c92b932739e0b49c9a5dd329302bf5e0f8279920ee6f86f3d152a8decae260beebf0a2054317ed421f8e8"
+
+[update]
+[update.modrinth]
+mod-id = "kNsl999k"
+version = "Mv5berrR"

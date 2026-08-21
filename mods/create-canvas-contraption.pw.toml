@@ -1,0 +1,13 @@
+name = "Create: Canvas Contraptions"
+filename = "canvascontraptions-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X4qZJCqH/versions/GVUFSt91/canvascontraptions-0.2.0.jar"
+hash-format = "sha512"
+hash = "56a3ec0f60005207983523ebdb3e9448b4e3510be6207b50cf5ca72a83b0fb8db6443f5998a8757901df8bbbd709018a49e244e8ba768466d743852d979c5f4d"
+
+[update]
+[update.modrinth]
+mod-id = "X4qZJCqH"
+version = "GVUFSt91"

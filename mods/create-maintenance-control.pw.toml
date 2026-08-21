@@ -1,0 +1,13 @@
+name = "Create: Maintenance Control"
+filename = "create_maintenance_control-1.2.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IDahC9ql/versions/OCbE2pkD/create_maintenance_control-1.2.0-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "d676fb8b02bd32bc83fe92fc984b2ba722943d23608296c295b0468a669e194c6538ec26829760dc339b8c4c3b6aefd38df6b0a74f055d78f30b947cb3309f15"
+
+[update]
+[update.modrinth]
+mod-id = "IDahC9ql"
+version = "OCbE2pkD"

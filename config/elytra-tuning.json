@@ -1,0 +1,10 @@
+{
+  "speed": {
+    "max": 40.0,
+    "calculation": "ABSOLUTE"
+  },
+  "rocket": {
+    "strength": 0.6,
+    "duration": 1.0
+  }
+}

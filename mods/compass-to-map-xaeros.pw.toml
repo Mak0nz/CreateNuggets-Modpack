@@ -1,0 +1,13 @@
+name = "Compass to Map: Xaero's Minimap"
+filename = "compasstomapxaeros-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7BPfphg/versions/1IWubHUM/compasstomapxaeros-0.1.1.jar"
+hash-format = "sha512"
+hash = "c555a55d5af98a8fba44b6c7226f911961f1ac842911e3a1e1c7177783a1cd6c248253354da8524c052c4dde5549de4f9f8675615b6c3f93a714c75b22be44c3"
+
+[update]
+[update.modrinth]
+mod-id = "V7BPfphg"
+version = "1IWubHUM"
