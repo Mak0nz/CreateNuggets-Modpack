@@ -1,0 +1,11 @@
+#ON (true): In creative mode, opening the inventory shows the full vanilla creative screen (tabs, search bar).
+#OFF (false): In creative mode, opening the inventory shows only the survival-style inventory (no creative item grid; less loading).
+#This does not change survival or adventure mode.
+vanillaCreativeMenuEnabled = false
+#If true, the Show/Hide Creative Menu button is drawn on the inventory screens.
+#If false, the button is hidden (you can still change behavior in this config file).
+showToggleButton = false
+#Corner preset for the Show/Hide Creative Menu button in-game.
+#In the mod config screen this is edited with a button (not the raw text).
+#Valid values: top_left, top_center, top_right, middle_left, middle_right, bottom_left, bottom_center, bottom_right
+toggleButtonPlacement = "top_center"

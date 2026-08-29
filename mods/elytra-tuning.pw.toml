@@ -1,13 +1,13 @@
 name = "Elytra Tuning"
-filename = "elytra-tuning-0.3.0+1.21.1-neoforge.jar"
+filename = "elytra-tuning-0.3.1+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tkz5oxRZ/versions/2mB803NW/elytra-tuning-0.3.0%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/tkz5oxRZ/versions/fEcorkbR/elytra-tuning-0.3.1%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "c49d87c28b7329610ec10d30be5c181080a981c7223549558dc00d272b543154e83d4125fbdec770246ba940f0fd4baa0f997fdff69e6bb0ff91a222306b2599"
+hash = "d409d086d5f174044d36cfa51197d17624a362b535a1479c3fbd687001f002e511ad8381d5b0309fbe982321947b5a44d0d28a79d8016762c0608f9acb170bdf"
 
 [update]
 [update.modrinth]
 mod-id = "tkz5oxRZ"
-version = "2mB803NW"
+version = "fEcorkbR"

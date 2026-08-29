@@ -1,0 +1,13 @@
+name = "Additional Additions: Vanilla+ QoL, Sniffers, Music, Food"
+filename = "additionaladditions-neoforge-10.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/7J1iQo6E/additionaladditions-neoforge-10.0.5.jar"
+hash-format = "sha512"
+hash = "ed6d69af4e5d42ff239ce240259b74965b2beb6fa21f015f025d7eb0637264bfa705b90391d195d4f38ebae6cfa3fb104a9fcd64266ea5a251c5c1f49b162eea"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "7J1iQo6E"

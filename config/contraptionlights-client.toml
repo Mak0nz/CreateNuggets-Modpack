@@ -1,0 +1,60 @@
+[general]
+	#Which backend renders the light. LAMB uses LambDynamicLights and works with shaders. VEIL uses Veil's deferred lights and is experimental. OFF disables client lighting.
+	#Allowed Values: OFF, LAMB, VEIL
+	mode = "LAMB"
+	#Overall brightness of the dynamic light. 1.0 is normal.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	luminanceMultiplier = 1.0
+	#Minimum time in milliseconds between updates of the light a structure casts into the world. 0 updates every tick.
+	# Default: 0
+	# Range: 0 ~ 500
+	updateInterval = 0
+	#Minimum time in milliseconds between updates of the world light cast onto a structure. 0 updates every tick.
+	# Default: 0
+	# Range: 0 ~ 500
+	worldUpdateInterval = 0
+	#Show a short message in the bottom-right corner when something needs attention.
+	showStatusOverlay = true
+
+#Light cast into the world by a moving structure's own blocks.
+[lightFromStructures]
+	#Cast light from the blocks a moving Create contraption carries.
+	enableContraptionDynamicLight = true
+	#Cast light from the blocks a moving Sable sub-level carries, including a carried beacon's beam.
+	enableSubLevelDynamicLight = true
+	#Seal off closed rooms inside a Sable sub-level. Light does not cross the walls in either direction, so a lantern outside leaves the room dark and a lamp inside does not shine out.
+	enableSubLevelOcclusion = true
+
+#Light cast onto a moving structure by nearby world sources.
+[lightOntoStructures]
+	#Light Create contraptions from nearby moving light, such as held torches and glowing mobs.
+	enableWorldToContraptionLambLight = true
+	#Light Sable sub-levels from nearby world light, both moving sources and static blocks like torches and lava.
+	enableWorldToSubLevelLambLight = true
+	#Light blocks and entities drawn by Flywheel, such as Create kinetics, from nearby moving light.
+	enableWorldToFlywheelLight = true
+	#Light contraptions and sub-levels from nearby world light.
+	enableWorldToStructureVeilLight = true
+
+#Light takes the colour of the block it comes from.
+[coloredLight]
+	#Give every light-emitting block a colour, and blend those colours where lights overlap.
+	enableColoredLight = true
+	#How far a light's colour departs from white. 1.0 is the block's own colour, lower washes towards white, higher deepens it.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	colorIntensity = 1.0
+	#Dyed candles glow the colour of their wax. Off gives every candle a warm flame.
+	colorfulCandles = true
+	#Take the colour of a modded light from its texture. Off gives every light the mod has no colour for a warm torch glow.
+	deriveColorFromTexture = true
+
+#Fixes for how Sable sub-levels look under Iris. Need Sable, Iris and Veil installed.
+[sableIrisFixes]
+	#Shade the faces of a Sable sub-level by their direction, so it is not flat and too bright.
+	fixSubLevelShading = true
+	#Match a Sable sub-level's sky light to the world's at its position, so a build goes dark underground.
+	fixSubLevelSkyLight = true
+	#Shade the corners and recesses of a Sable sub-level the way the shaderpack shades the world's. Needs a shaderpack.
+	fixSubLevelAmbientOcclusion = true

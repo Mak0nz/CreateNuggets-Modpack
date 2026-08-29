@@ -1,0 +1,13 @@
+name = "Create More Seats"
+filename = "cms-neoforge-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gtZU3dD5/versions/MuYDrSFE/cms-neoforge-1.2.0.jar"
+hash-format = "sha512"
+hash = "1c5a04002289991f139964869bf4e48b48d7f2cc4e2ae6901b5c7ae1f0369eba7ddd21ec01304a9adf08229a8d328a7bc29e1d847fe6c43cbc6a834c4b13876c"
+
+[update]
+[update.modrinth]
+mod-id = "gtZU3dD5"
+version = "MuYDrSFE"

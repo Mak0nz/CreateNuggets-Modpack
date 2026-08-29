@@ -1,0 +1,13 @@
+name = "MoreJS: KubeJS Addon"
+filename = "morejs-neoforge-1.21.1-0.16.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mo64mR1W/versions/kyNrtsUY/morejs-neoforge-1.21.1-0.16.0.jar"
+hash-format = "sha512"
+hash = "3fbbe82b5b827e03518f7e515978af4e9fc0736b5385f80b5b86ef562a51e53fe32e815d416a6a0fe1ba752f835fbf641b42b59b5ffd5bb6469abb8b74ab29a2"
+
+[update]
+[update.modrinth]
+mod-id = "mo64mR1W"
+version = "kyNrtsUY"

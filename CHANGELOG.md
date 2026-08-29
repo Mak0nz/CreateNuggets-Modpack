@@ -1,3 +1,60 @@
+## 26.08.29
+
+**Removed:**
+
+- Iris Flywheel Compat
+
+**Updated:**
+
+- Ars Nouveau 5.13.1
+- Yung's API 5.1.8
+- Horseman 1.5.13
+- Copycats+ 3.0.8
+- Amendments 2.1.9
+- C: Numismatics 1.1.0
+- Simply Swords 1.70.2
+- Simply Tooltips 0.1.5
+- Fusion 1.3.14a
+- Particle Rain 4.0.0b11
+- Elytra tuning 0.3.1
+- Immediately Fast 1.6.13
+- Sodium 0.8.13
+
+**Added:**
+
+- Yung's Bridges 5.1.1
+- C: More Seats 1.2.0
+- BetterDays 3.3.6.3
+- Additional Additions: 10.0.5
+- C: Marketplace 0.5.0
+- Xaero Map regions 1.0.8
+- Aquamirae 7.2.3
+- Fragmentum 2.4.4
+- Accents 2.0.2
+- AlmostUnifiedDrops 1.0.1
+- Chunksmith 3.15.0
+- No Creative Menu 1.0.1
+- Snad 21.1.1
+- Ars Elemental 0.7.10.1
+- Ars Elemancy 1.17
+- Ars NumericHUD 1.0.2
+- CreateBetterFPS 1.1.4
+- Flerovium 1.1.2
+- BiomeSpy 1.3.3
+- GeckoLibBetterFPS 1.0.2
+- Contraption Lights 1.3.0b3
+- LambDynamicLights 4.8.10
+- Colorwheel 1.2.9
+- KubeJS 2101.7.2-374
+- Bettter Advanced Tooltips 2101.1.0-5
+- Rhino 2101.2.7-85
+- KubeJS Create 2101.3.1-18
+- KubeJS Ars Nouveau 1.3.2
+- MoreJS 0.16.0
+- Estrogen 6.0.3
+- C: Estrogen 2.0.0
+- Cynosure 1.0.0
+
 ## 26.08.21
 
 **Updated:**

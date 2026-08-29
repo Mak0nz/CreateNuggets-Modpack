@@ -1,0 +1,13 @@
+name = "No Creative Menu"
+filename = "nocreativemenu-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6UFKi81i/versions/g6gAXgxW/nocreativemenu-1.0.1.jar"
+hash-format = "sha512"
+hash = "9c79ca2c2b9b624f82b2b8f85c81dc2029524ad1a9003e11e66d3d0140485a3e70353f2beb5671c27a63d4058e2dd5fe148ac991831ad8cbbd86e73597a12ca8"
+
+[update]
+[update.modrinth]
+mod-id = "6UFKi81i"
+version = "g6gAXgxW"

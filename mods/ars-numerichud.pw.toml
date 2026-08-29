@@ -1,0 +1,13 @@
+name = "Ars NumericHUD"
+filename = "arsnumerichud-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qIZhQXKM/versions/sqXEwItv/arsnumerichud-1.0.2.jar"
+hash-format = "sha512"
+hash = "90498da9cd5070bf7da76396c765cb4c6b01d5d5e147f561cfbb45270a537745a87e26628674469688ecc53581f82d7090994e70ae2e1608bded13043edca4ef"
+
+[update]
+[update.modrinth]
+mod-id = "qIZhQXKM"
+version = "sqXEwItv"

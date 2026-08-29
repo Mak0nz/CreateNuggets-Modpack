@@ -1,0 +1,13 @@
+name = "Better Advanced Tooltips"
+filename = "better-advanced-tooltips-2101.1.0-build.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iHLDc0eo/versions/uPFbnD32/better-advanced-tooltips-2101.1.0-build.5.jar"
+hash-format = "sha512"
+hash = "05b5cdad948d1735eab7a67a16aaf32814678c392014ec2ada61b8341c0ed1c1ac181cab1de9da3f2c4632592f4a1a5db254bd0543e6778897c8ccd260894142"
+
+[update]
+[update.modrinth]
+mod-id = "iHLDc0eo"
+version = "uPFbnD32"

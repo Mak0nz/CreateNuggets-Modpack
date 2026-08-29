@@ -1,0 +1,30 @@
+#Settings for Create: Marketplace
+[general]
+	#Waypoint symbol display mode (Xaero's Minimap)
+	#ICON - Uses a shopping cart icon (🛒)
+	#FIRST_LETTER - Uses the first letter of the shop name
+	#CUSTOM - Uses a custom symbol defined below
+	#Allowed Values: ICON, FIRST_LETTER, CUSTOM
+	waypointSymbolMode = "ICON"
+	#Custom waypoint symbol (used only if waypointSymbolMode is set to CUSTOM)
+	customWaypointSymbol = "S"
+	#Should the Registration Card lose durability on use?
+	#If false, the card has infinite uses.
+	useCardDurability = true
+	#Maximum number of marketplace offers a single player can have.
+	#Set to a high value to effectively disable the limit.
+	# Default: 100
+	# Range: 1 ~ 10000
+	maxOffersPerPlayer = 10000
+	#How often (in seconds) the server refreshes shop stock levels.
+	#Only shops in currently loaded chunks are checked - shops elsewhere
+	#keep their last known reading, which the GUI labels with its age.
+	#Lower values mean fresher data at a slightly higher cost.
+	# Default: 30
+	# Range: 5 ~ 600
+	stockCheckIntervalSeconds = 30
+	#Automatically delete listings whose shop block no longer exists.
+	#Detected during the stock check, so it only ever triggers for blocks
+	#in loaded chunks - a shop in an unloaded chunk is never touched.
+	#When false, such listings stay on the market but are shown as empty.
+	removeDeadOffers = false

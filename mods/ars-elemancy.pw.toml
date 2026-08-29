@@ -1,0 +1,13 @@
+name = "Ars Elemancy"
+filename = "ars_elemancy-1.21.1-1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mR4yp7HM/versions/LMOUcsOQ/ars_elemancy-1.21.1-1.17.jar"
+hash-format = "sha512"
+hash = "c271007a8c40e67b184f6f4fd8801e5d9cc070346a30d674f6c3cdefc48a9d8e5d3f9a4d3fc20e66fbce4e11d2e1072d13ec36c99d0db2fe71e35e661d493db8"
+
+[update]
+[update.modrinth]
+mod-id = "mR4yp7HM"
+version = "LMOUcsOQ"
