@@ -1,0 +1,13 @@
+name = "Create: Testosterone"
+filename = "testosterone-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pIwmV2xi/versions/jFrdpOKV/testosterone-2.1.0.jar"
+hash-format = "sha512"
+hash = "ea139c7210f2c987d440b606f947049e6aeda04b0a2685c92c421a891bb00e69ef07bda73d7ba4f007ee159a09a97114bb36c152ce5acdf48ccf61211c85d958"
+
+[update]
+[update.modrinth]
+mod-id = "pIwmV2xi"
+version = "jFrdpOKV"

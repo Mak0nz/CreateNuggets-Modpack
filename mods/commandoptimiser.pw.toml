@@ -1,0 +1,12 @@
+name = "Command Optimiser"
+side = "client"
+filename = "commandoptimiser-neoforge-1.0.jar"
+
+[update.modrinth]
+mod-id = "aP9wKOkW"
+version = "fydAdOi9"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/aP9wKOkW/versions/fydAdOi9/commandoptimiser-neoforge-1.0.jar"
+hash = "6c947d0d9ddff5b6b022fa1e36eff247c3c25d60be5aa48e5ec4474ca3b2525799ec975c434df1b3f863cd8de0b68760856faf2e516bd128f7dbe75f165daab5"

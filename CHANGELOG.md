@@ -1,3 +1,45 @@
+## 26.09.02
+
+**Removed:**
+
+- Chunksmith
+
+**Updated:**
+
+- C: Enchantment Industry 2.5.3b
+- Additional Additions 10.0.6
+- Jade Addons 6.1.1
+- Traveler's Backpack 10.1.39
+- Puzzles Lib 21.1.56
+- Tom's Simpple Storage 2.4.2
+- Azimuth API 1.4.8
+- LambDynamicLights 4.8.11
+- Climbable Ropes 2.1.3
+- EMF 3.3.3
+- ETF 7.2.1
+- Aquamirae 7.2.4
+- ModernFix 5.27.24
+- C: Connected 1.3.3
+- Serene Seasons 10.1.0.8
+- Estrogen 6.0.7
+- Cynosure 1.0.2
+- C: Aeronatics 1.3.2
+- C: Cobblestone 1.5.0-153
+- C: Avionics 0.6.0
+- Farmer's Delight 1.3.4
+- Cupboard 4.1
+- Domum Ornamentum 1.0.236
+- Minecolonies 1.1.1376
+
+**Added:**
+
+- Chunky 1.4.23
+- ChunkyBorder 1.2.18
+- Command Optimizer 1.0.0
+- C: Testosterone 2.1.0
+- VoteKick 3.0.0
+- Pool and Billiards 1.3.5
+
 ## 26.08.29
 
 **Removed:**

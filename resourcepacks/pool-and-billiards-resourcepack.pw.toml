@@ -1,0 +1,13 @@
+name = "Pool and Billiards Resourcepack"
+filename = "Pool-Resourcepack-v1.3.5-mc1.21plus.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mdBvgTLC/versions/oPHaeEct/Pool-Resourcepack-v1.3.5-mc1.21plus.zip"
+hash-format = "sha512"
+hash = "3731a560cf793302b79d1ab229340d524d5079e0ea4e58a893074e3ca29f2ba455f76e806932f122dd0dd24250121f74a5e7c652d4893cca70129fb5ee4b635f"
+
+[update]
+[update.modrinth]
+mod-id = "mdBvgTLC"
+version = "oPHaeEct"

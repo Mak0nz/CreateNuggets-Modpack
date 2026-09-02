@@ -1,13 +1,13 @@
 name = "Tom's Simple Storage Mod"
-filename = "toms_storage-1.21-2.4.1.jar"
+filename = "toms_storage-1.21-2.4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/QQqFyS6K/toms_storage-1.21-2.4.1.jar"
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/WQAMoIMC/toms_storage-1.21-2.4.2.jar"
 hash-format = "sha512"
-hash = "a8acbdc51801a010bbf62dc95a209b4ebfbfb1f489f97f5d8f060c9d652850fa53aa3daa60b131b69069865658feb415c862d426164f9d1baf4d053f4674e687"
+hash = "53db61b4486616b3a78dfff83b58f9424dd9bf525ea3db4e444ff0403fb70aa9ab7fc097dff2f49665e480bce936b32be76b3051a5aff217898b2b94d846d30b"
 
 [update]
 [update.modrinth]
 mod-id = "XZNI4Cpy"
-version = "QQqFyS6K"
+version = "WQAMoIMC"

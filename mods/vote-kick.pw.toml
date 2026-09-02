@@ -1,0 +1,13 @@
+name = "VoteKick"
+filename = "votekick-3.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGKAkDhO/versions/aGFwlqlB/votekick-3.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "d878bf6af97c6e7b629d65b14d96faae622d97c7c40fcb5fad9443647e2186e3ca1086b7a9335d41d53b071fd8050135210968c4b3eaf5e30859dfc4a2bb2234"
+
+[update]
+[update.modrinth]
+mod-id = "oGKAkDhO"
+version = "aGFwlqlB"
