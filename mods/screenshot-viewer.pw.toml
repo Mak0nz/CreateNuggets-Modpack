@@ -1,0 +1,13 @@
+name = "Screenshot Viewer"
+filename = "screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/laNoi025/versions/efjk3jeu/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "3aa3959a518a0a5eeede72ba699d9b1974486736b8c0c6c5a624ca286f4f73dce5cea80a3e207b7e96dfe22a65a803aa5e240beb535f343459757cc474836029"
+
+[update]
+[update.modrinth]
+mod-id = "laNoi025"
+version = "efjk3jeu"

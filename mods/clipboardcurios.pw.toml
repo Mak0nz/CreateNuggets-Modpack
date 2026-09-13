@@ -1,0 +1,13 @@
+name = "Create: Clipboard Curios"
+filename = "clipboardcurios-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hQ4IDaI2/versions/uBmPvTRI/clipboardcurios-1.0.0.jar"
+hash-format = "sha512"
+hash = "1a62251b2795e0cb19850a66fb59ed73eb7bbd266dfabadc114cfdee5e6c82fc2092b2b0859753fb69fe961e8b2458455f296561101f41743d1f2a73a9e413fc"
+
+[update]
+[update.modrinth]
+mod-id = "hQ4IDaI2"
+version = "uBmPvTRI"

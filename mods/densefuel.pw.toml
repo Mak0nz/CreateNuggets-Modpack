@@ -3,11 +3,11 @@ filename = "densefuel-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MtxycBD6/versions/oAbVq0o4/densefuel-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/MtxycBD6/versions/hvSKJ5np/densefuel-1.0.0.jar"
 hash-format = "sha512"
-hash = "3fd55911c4fe05e58da8efa1219900558aabd3dc96dd17d7d383a5a99f0664d08987fc020ee19c5cf1876a716681c5d3bd33de8ce21cb7e6cbd5349b895d51c0"
+hash = "b3ad451781c84fb6c400e7fc38d39e2adcc5e9f60f9a155ebeb1eaf997c6df2f7dba740ffaf0d13ca766a14b18973bfb36300aafd1e2b0926a61b4dc04b1281d"
 
 [update]
 [update.modrinth]
 mod-id = "MtxycBD6"
-version = "oAbVq0o4"
+version = "hvSKJ5np"

@@ -1,13 +1,13 @@
 name = "Create: Bits 'n' Bobs"
-filename = "bits_n_bobs-2.1.15-beta.jar"
+filename = "bits_n_bobs-2.3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T8bvmqVZ/versions/qJ2wZ6WX/bits_n_bobs-2.1.15-beta.jar"
+url = "https://cdn.modrinth.com/data/T8bvmqVZ/versions/DRKQse4Z/bits_n_bobs-2.3.4.jar"
 hash-format = "sha512"
-hash = "65f803bae922c17f83e4227c1f811508044adf826fb1bfb09c78abb40c036424546356c502ea80083de527bb0ead4aeae7069d8b938d84ec518647fb0c69b313"
+hash = "edc7487da3f26d21ef43de77a3779bf8c85790052682b1a645046ab0b56f17d8f86fa7561dfc46f1d70f86a6156fae9169a194ae4f0baccf89e508a104e5ad4b"
 
 [update]
 [update.modrinth]
 mod-id = "T8bvmqVZ"
-version = "qJ2wZ6WX"
+version = "DRKQse4Z"

@@ -1,13 +1,13 @@
 name = "Aquamirae"
-filename = "aquamirae-neoforge-1.21.1-7.2.4.jar"
+filename = "aquamirae-neoforge-1.21.1-7.2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/pkkHhFpg/aquamirae-neoforge-1.21.1-7.2.4.jar"
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/muWVnCSg/aquamirae-neoforge-1.21.1-7.2.7.jar"
 hash-format = "sha512"
-hash = "c24080b0f5f3f53f56cceab7617ff03b480ca931827a786d8e7c5c76a8360fd310436a1cdcd8b66c238caf09a316925bf6facc6fd32f2a3507b9ba377d2993f9"
+hash = "7408bacea9afe4721d030caabc5195accc472141922c14afa4fc9b7d5ac12321f5c2b0882aae0e80993e03412776f0669f06d05929fc3eea0fdc02475e23eed1"
 
 [update]
 [update.modrinth]
 mod-id = "k23mNPhZ"
-version = "pkkHhFpg"
+version = "muWVnCSg"

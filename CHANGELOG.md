@@ -1,3 +1,68 @@
+## 26.09.13
+
+**Removed:**
+
+- Better Clouds
+
+**Updated:**
+
+- Neoforge 21.1.250
+- Compressed Fuel 1.0.0-1
+- Copper Age 0.1.5
+- TrafficCraft 1.2.0-4
+- Durability Tooltip 1.2.0
+- Strut Your Stuff 1.3.1
+- C: Bits 'n' Bobs 2.3.4
+- Serene Seasons 10.1.0.9
+- Compass To Map 0.1.2
+- Polymorph 1.2.0
+- JEI 19.56.0.438
+- C: Dragons Plus 1.11.8b
+- Companion 6.3.0
+- Contraption Lights 1.5.1
+- C: Copycats+ 3.0.9
+- EMF 3.3.5
+- KubeJS 2101.7.2-377
+- Quark 4.1-484
+- MRU 1.0.40
+- Aquamirae 7.2.7
+- Amendmments 2.1.10
+- CreativeCore 2.13.46
+- Xaero's Minimap 26.5.0
+- Xaero's World Map 1.46.0
+- Ping to Map 1.1.1
+- C: Crafts & Additions 1.7.0
+- Colorwheel 1.3.0b3
+- Puzzles Lib 21.1.60
+- C: Bitterballen 1.0.4
+- Complementary Shaders - Reimagined 5.9.1
+- Moonlight Lib 3.6.4
+- Euphoria Patches 1.10.1-r5.9.1
+- MmmMmmMmmMmm 2.1.1
+- Fusion 1.3.15a
+- Forgified Fabric API 0.116.15+2.3.5
+- BaguetteLib 2.0.6
+- More Culling 1.0.10
+- Supplementaries 3.9.9
+- Estrogen 6.0.8
+- MineColonies 1.1.1387b
+- Structorize 1.0.833b
+- Flerovium 1.1.3
+- Immersive Aircraft 1.5.0
+- Immersive Paintings 0.7.9
+
+**Added:**
+
+- Apothic Attributes 2.10.1
+- C: Clipboard Curios 1.0.0
+- Screenshot Viewer 1.3.4
+- Screenshot to Clipboard 1.0.10
+- C: Tracks 1.0.1
+
+## 26.09.02-fix1
+
+Rollback Serene Seasons 10.1.0.3
+
 ## 26.09.02
 
 **Removed:**
