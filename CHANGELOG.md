@@ -1,3 +1,50 @@
+## 26.09.18
+
+**Removed:**
+
+- Aquamirae
+- Screenshot to Clipboard
+- C: Tracks
+
+**Updated:**
+
+- Wood Good 2.11.52
+- Quark 4.1-485
+- Fast IP Ping 1.0.12
+- C: Testosterone 2.1.1
+- C2ME 0.4.0-a0.122
+- Fzzy Config 0.7.7
+- 3D Skin Layers 1.11.3
+- JEI 19.56.0.441
+- Pool n Billiards RP & DP 1.3.6
+- Elytra Tuning 0.3.2
+- C: Bits 'n' Bobs 2.3.5
+- Euphoria Patches 5.9.3
+- Complementary Reimagined 5.9.3
+- Yung's API 5.1.9
+- Azimuth API 1.4.8
+- Rechiseled 1.2.6
+- ImmediatelyFast 1.6.14
+- MmmMmmMmmMmm 2.1.2
+- EMF 3.3.9
+- ETF 7.2.4
+- Moonlight Lib 3.6.5
+- Distant Horizons 3.3.1
+- Reese's Sodium Options 2.2.4
+- C: Enchantment Industry 2.5.4
+- Geckolib 4.9.3
+- C: Crafts & Additions 1.7.1
+- C: Dragons Plus 1.11.9
+- Spawn 4.0.8
+- CraterLib 3.1.3
+- MineColonies 1.1.1392
+- BlockUI 1.0.212
+- Cupboard 4.2
+- Simple Discord Link 3.4.5
+- Balm 21.0.65
+- ATi Structures 1.4.6
+- INV View 4.2.0
+
 ## 26.09.13
 
 **Removed:**

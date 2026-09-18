@@ -1,13 +1,13 @@
 name = "Pool and Billiards"
-filename = "pool-and-billiards-v1.3.5-mc1.21plus.jar"
+filename = "pool-and-billiards-v1.3.6-mc1.21plus.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mksguUIH/versions/bvFk8ucc/pool-and-billiards-v1.3.5-mc1.21plus.jar"
+url = "https://cdn.modrinth.com/data/mksguUIH/versions/P2b3Aoy2/pool-and-billiards-v1.3.6-mc1.21plus.jar"
 hash-format = "sha512"
-hash = "cdf9bcbd1f0020efb890782b33e36f7c3a328c971a0b52a67d482aa4af212b93d3772fc5538d4a1bcf9728237f7fa63cb6eddbcf0258380b82c55bde820ce622"
+hash = "a598f583d9f7e5482c1731e1af2dd35643a504f290ae96b8141998b8a71db2575c9cdb3d85ca00771d78cac099cd35a09154ecc9df60e06afe063749167426c0"
 
 [update]
 [update.modrinth]
 mod-id = "mksguUIH"
-version = "bvFk8ucc"
+version = "P2b3Aoy2"
