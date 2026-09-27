@@ -15,4 +15,4 @@ jobs:
         uses: JFWenisch/discord-releasenotes-action@v1
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
