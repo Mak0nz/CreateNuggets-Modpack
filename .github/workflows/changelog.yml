@@ -1,5 +1,26 @@
-- name: Private GitHub Release Notes to Discord
-  uses: JFWenisch/discord-releasenotes-action@v1
-  with:
-    webhook: ${{ secrets.DISCORD_WEBHOOK }}
-    github_token: ${{ secrets.GITHUBTOKEN }}
+name: Send Release Notes to Discord
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      release_id:
+        description: 'Optional: release id to use for manual run'
+        required: false
+      tag:
+        description: 'Optional: release tag (e.g. v1.2.0) to use for manual run'
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  discord-release-notes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send GitHub Release Notes to Discord
+        uses: JFWenisch/discord-releasenotes-action@v1
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
