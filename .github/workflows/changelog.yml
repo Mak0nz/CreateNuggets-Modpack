@@ -1,2 +1,5 @@
 - name: Private GitHub Release Notes to Discord
   uses: JFWenisch/discord-releasenotes-action@v1
+  with:
+    webhook: ${{ secrets.DISCORD_WEBHOOK }}
+    github_token: ${{ secrets.GITHUBTOKEN }}
