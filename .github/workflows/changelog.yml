@@ -17,3 +17,4 @@ jobs:
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           github_token: ${{ secrets.GH_TOKEN }}
+          avatar_url: ${{ secrets.AVATAR_URL }}
