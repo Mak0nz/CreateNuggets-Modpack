@@ -1,6 +1,7 @@
 name: Send Release Notes to Discord
 
 on:
+  workflow_dispatch:
   release:
     types: [published]
 
