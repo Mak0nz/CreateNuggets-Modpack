@@ -1,13 +1,13 @@
 name = "Estrogen"
-filename = "estrogen-6.0.8+1.21.1-neoforge.jar"
+filename = "estrogen-6.0.10+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/sB9ZotMl/estrogen-6.0.8%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/jLNES5cw/estrogen-6.0.10%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "44c10020fa3a05094d17a24bfbf86af19b744781eab15ec5638dfbdb23cd79acdcd0eefd47fda91e286f7de47d3489ebf4142dd075b96e974187b9579b4ef81f"
+hash = "47477936cf51fb1cd55f3603ecd36c14c3295284fdccc5f6587581bfd49abff7f4ff7c45dcadf0e4f3eb5d966ac8e2a41fdcf4722e3540d189cd4ecdc244dfe3"
 
 [update]
 [update.modrinth]
 mod-id = "HhIJW8n1"
-version = "sB9ZotMl"
+version = "jLNES5cw"

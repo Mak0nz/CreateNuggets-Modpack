@@ -1,13 +1,13 @@
 name = "Cynosure"
-filename = "cynosure-1.0.2-neoforge-1.21.1.jar"
+filename = "cynosure-1.0.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4JVfdODB/versions/8BIOFCX6/cynosure-1.0.2-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/4JVfdODB/versions/lpFSq579/cynosure-1.0.3-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "efb0f53568ee1503a148191a22fc0c874bfac153ab3b2e0766dcc545b06f67fb25d12031ee558c1018798751ef7cd180c50f200553d4fcd465b5b4ce585a1364"
+hash = "4a00a8031a47fd1ab76f04fbc6cda4a512c87571e7adf80d548f1733952ae8df172dba0ab88af3395bcb0772283b766b5d639386279cb2fbd3519beeefca8f04"
 
 [update]
 [update.modrinth]
 mod-id = "4JVfdODB"
-version = "8BIOFCX6"
+version = "lpFSq579"

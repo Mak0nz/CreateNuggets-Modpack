@@ -1,13 +1,13 @@
 name = "Scarecrows' Territory"
-filename = "scarecrowsterritory-1.1.11a-neoforge-mc1.21.jar"
+filename = "scarecrowsterritory-1.1.12-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1RaTTUPz/versions/ItAjFaTb/scarecrowsterritory-1.1.11a-neoforge-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/1RaTTUPz/versions/iWswMfgf/scarecrowsterritory-1.1.12-neoforge-mc1.21.jar"
 hash-format = "sha512"
-hash = "64d47942e2d2241f62126e0db5c400b50606ed1f88363238c43cca6500f3092ae92cafc44644d9b8e3626d40e6b64cb0cb0d9dbbf5764901cc2c2e864a0d414e"
+hash = "0ea53db62b56b997db5f15181e9adb3d3d4f4970c254afbc048f5a6481d36186de48fedb7536b2e8cde74f3f8bc7d939339853e05e2c365a32d8f19794cbcd87"
 
 [update]
 [update.modrinth]
 mod-id = "1RaTTUPz"
-version = "ItAjFaTb"
+version = "iWswMfgf"

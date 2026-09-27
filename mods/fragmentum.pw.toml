@@ -1,13 +1,13 @@
 name = "Fragmentum"
-filename = "fragmentum-neoforge-1.21.1-2.4.4.jar"
+filename = "fragmentum-5.0.0+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/49C5QgTK/versions/A7zWreFf/fragmentum-neoforge-1.21.1-2.4.4.jar"
+url = "https://cdn.modrinth.com/data/49C5QgTK/versions/fbGohly4/fragmentum-5.0.0%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "d86d4e2386f853e768659f0beb8debee6d9b0b17d081ec8ab8dcb171edbfa819bcdb49f5572734e680a73ab641de053d7bc103c742b0e487854506052b704cac"
+hash = "db7f71f4deb5dfec7141a86803bc38af9e21ee7c831ac56b3e9b1a73300e7fdcd37ebb7d836a6ed1b7219479d552a68427d318373bd534e0419faa8cc1e702af"
 
 [update]
 [update.modrinth]
 mod-id = "49C5QgTK"
-version = "A7zWreFf"
+version = "fbGohly4"

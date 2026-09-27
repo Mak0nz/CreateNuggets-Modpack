@@ -1,3 +1,38 @@
+## 26.09.27
+
+**Updated:**
+
+- Sable: Floaters 1.0.1
+- Entity Culling 1.11.2
+- C: Railway Navigator 0.10.0
+- Trade Cycling 1.0.22
+- Accents 2.0.3
+- Fragmentum 5.0.0
+- Contraption Lights 1.5.2
+- Not Enough Animations 1.12.6
+- Estrogen 6.0.10
+- JEI 19.57.0.449
+- Azimuth API 1.4.9
+- Moonlight Lib 3.7.0
+- Immersive Aircraft 1.5.2
+- C: Slice & Dice 4.3.4
+- Cynosure 1.0.3
+- Scarecrows' Territory 1.1.12
+- Distant Horizons 3.3.2
+- SuperMartijn642's Core Lib 1.1.24a
+- Fusion 1.1.15b
+- Map Link 4.6.0
+- Let's Do Vinery 1.5.4
+- C: Better FPS 1.1.5
+- Climbable Ropes for Aero 2.1.4
+- Effectual 1.4.2
+- Collective 8.40
+- C: Canvas Contraptions 0.2.1
+- CreativeCore 2.13.49
+- Flerovium 1.2.0
+- MineColonies 1.1.1399
+- Colorwheel 1.3.0
+
 ## 26.09.18
 
 **Removed:**
