@@ -1,3 +1,43 @@
+## 26.10.04
+
+**Removed:**
+
+- Chunky
+- Chunky Border
+
+**Updated:**
+
+- Quark 4.1.486
+- AmbientSounds 6.3.9
+- Inventory Mending 1.3
+- Sable 2.0.6
+- PuzzlesLib 21.1.62
+- Fragmentum 5.1.1
+- CreativeCore 2.13.50
+- JEI 19.57.0.450
+- Jade Addons 6.1.2
+- C: Marketplace 0.5.2
+- Apothic Attrributes 2.11.0
+- Ars Nouveau 5.13.3
+- Simple Menu 2.3
+- Collective 8.41
+- Minecolonies 1.1.1403
+- Structorize 1.0.835
+- Connectivity 7.7
+- Ars Elemental 0.7.10.4
+- Distant Horizons 3.3.3
+- EMF 3.3.10
+- ETF 7.2.5
+- Just Zoom 3.0.0
+- Azimuth 1.4.10
+
+**Added:**
+
+- C: Tracks 1.0.1
+- Ars Technica 2.7.6
+- Ars zero 2.0.2
+- Not Enough Glyphs 4.6.2
+
 ## 26.09.27
 
 **Updated:**

@@ -1,12 +1,13 @@
 name = "CreateNuggets"
 author = "Mak0nz"
-version = "26.09.27"
+version = "26.10.04"
+description = "A Create transport-first oriented modpack"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "84a30aec62280f5c59f98a4d7a284bb38a1e59d0fc9245bdae628599482d6a53"
+hash = "4bcc65a1582924c8240776aece208a4aefbfc0e1bb58aac44d4fd4a0af3a4cc8"
 
 [versions]
 minecraft = "1.21.1"

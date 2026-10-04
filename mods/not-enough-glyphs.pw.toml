@@ -1,0 +1,13 @@
+name = "Not Enough Glyphs"
+filename = "not_enough_glyphs-1.21.1-4.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WgAFDDv0/versions/PECvNoZU/not_enough_glyphs-1.21.1-4.6.2.jar"
+hash-format = "sha512"
+hash = "5e91115ba3144f90b5e7d55d75d6fc175d0d6c3a9cc36a53b8989a48fa13532d0efa60952edecb52d5fac3f7b5f1d183cba13f56a2b35cef453b68bd116d021b"
+
+[update]
+[update.modrinth]
+mod-id = "WgAFDDv0"
+version = "PECvNoZU"

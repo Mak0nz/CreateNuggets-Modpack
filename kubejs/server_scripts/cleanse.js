@@ -10,7 +10,7 @@ ServerEvents.commandRegistry((event) => {
         .getCommands()
         .performPrefixedCommand(
           player.server.createCommandSourceStack(),
-          `effect clear ${player.username} slowness`,
+          `effect clear ${player.username}`,
         );
 
       player.tell(Text.green("Slowness cleared!"));

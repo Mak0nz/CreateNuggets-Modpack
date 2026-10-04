@@ -1,13 +1,13 @@
 name = "Ars Nouveau"
-filename = "ars_nouveau-1.21.1-5.13.1.jar"
+filename = "ars_nouveau-1.21.1-5.13.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TKB6INcv/versions/qEFs5RRw/ars_nouveau-1.21.1-5.13.1.jar"
+url = "https://cdn.modrinth.com/data/TKB6INcv/versions/yWDnir1o/ars_nouveau-1.21.1-5.13.3.jar"
 hash-format = "sha512"
-hash = "5c7f36345faf4a16a183f3d7839c0c22a0d21638410598b23049867c87acc2e673974e2eb1d0bee1b616aca14c9642f7c97e2c28a17259cddc84b731ca95684f"
+hash = "30f188cfc932bd58c95740488732df7e92d98e7345e271b1a223e41a43fc3dd52284d0ff07fc3e8a95e914082f899394eff3a0f37c174d317e6e37fb68b083df"
 
 [update]
 [update.modrinth]
 mod-id = "TKB6INcv"
-version = "qEFs5RRw"
+version = "yWDnir1o"

@@ -1,13 +1,13 @@
 name = "Jade Addons (Neo/Forge)"
-filename = "JadeAddons-1.21.1-NeoForge-6.1.1.jar"
+filename = "JadeAddons-1.21.1-NeoForge-6.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/ZHjXkd1n/JadeAddons-1.21.1-NeoForge-6.1.1.jar"
+url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar"
 hash-format = "sha512"
-hash = "febdc3d503da6901ae5b4ed4f12b75abc3cb8b96556964acc2587f5809a7d20cff363f4ec4c0ccee6782d5b4c6dff8791e874a7865c93216484039cc103be362"
+hash = "7fc0f413a73e11af6463cc246d9390e0cbe14ff46d0778d9893be59bb1dbbf300a745cc50731412ab4a940f7fe06e5433fa61a423a38ff64b6c6742c5ee62c7b"
 
 [update]
 [update.modrinth]
 mod-id = "xuDOzCLy"
-version = "ZHjXkd1n"
+version = "O3F6Dkle"

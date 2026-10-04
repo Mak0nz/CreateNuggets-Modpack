@@ -1,13 +1,13 @@
 name = "Just Zoom"
-filename = "justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+filename = "justzoom_neoforge_3.0.0_MC_1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iAiqcykM/versions/mnCUZfmm/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+url = "https://cdn.modrinth.com/data/iAiqcykM/versions/EbPMuLEe/justzoom_neoforge_3.0.0_MC_1.21.1.jar"
 hash-format = "sha512"
-hash = "6b4df108238ff54a4cee55517908fef96e2382458c9f13eac2443dab1148fa5538f33505a66f3ea24f646c9be7300e6c6185a077d709c85405cbe61c24e58f38"
+hash = "a4be3ea669816d72f0fdf4135bf4c61c681810d77ca3f0061c78e2d033e90612b6530075bb672a973713af5af4a5fdb51989126ae94fcb32a5bd8f881eca9e06"
 
 [update]
 [update.modrinth]
 mod-id = "iAiqcykM"
-version = "mnCUZfmm"
+version = "EbPMuLEe"
