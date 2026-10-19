@@ -146,7 +146,11 @@ hash = "94215102d989eb694a11145a48fb2722e0120bbf97b1882d28386bab310bbba4"
 
 [[files]]
 file = "config/simplemenu.json5"
-hash = "0ef2ed5de8d923622d5bb05fc11689009000bcda74f255e917e7bbf48be8bcc1"
+hash = "33a28e95ad340ef47339dc4656fade5b1f2facf15f5fa7a0a6d3250653bba436"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "8216f97f63b6d24661a57cde69b811426156fcc80a432452e1d7d0ff12ddb180"
 
 [[files]]
 file = "config/simplemenu/icon/icon_16x16.png"
@@ -350,7 +354,7 @@ hash = "4aa283d5f23b10dfd7fada5a9d1edb07d402b4f06c63f0ce862322e4f81ae8c3"
 
 [[files]]
 file = "kubejs/server_scripts/npc_spawning.js"
-hash = "aceb27c66736f76f1e82022cfe1552c3a4da44fef24cc1174b4941800cf2f03b"
+hash = "0ace93de68a84eb2b71b19c2063ca55abec2541354361cce5d0914034699fb7f"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -362,7 +366,7 @@ hash = "991402a7cf69ab4ab9118e7fa8e39a916cc1a945d6dc86c956667785d3afdd2a"
 
 [[files]]
 file = "kubejs/startup_scripts/mission_npc.js"
-hash = "281887840d5f2fe10170381222df3ac98649e2e21ae7d491ee0b804b3e1c4eff"
+hash = "bf3c325495d6971e332d6a84f4b588dc9ba207aec5c1d5a52955d6d3f7b4e397"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
