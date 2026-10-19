@@ -1,0 +1,13 @@
+name = "EntityJS"
+filename = "entityjs-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvPZ16yX/versions/RGmpSVAm/entityjs-1.5.2.jar"
+hash-format = "sha512"
+hash = "9c82392cd201da8a261107f0fcfe2d58a179f791715d501575df8ec01d7224fed318bad7c9cfed65dae649c9878590152b23dbe80dbdffabb029c4e125c2ccde"
+
+[update]
+[update.modrinth]
+mod-id = "OvPZ16yX"
+version = "RGmpSVAm"

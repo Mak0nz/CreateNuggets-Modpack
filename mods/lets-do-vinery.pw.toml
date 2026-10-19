@@ -1,13 +1,13 @@
 name = "[Let's Do] Vinery"
-filename = "letsdo-vinery-neoforge-1.5.4.jar"
+filename = "letsdo-vinery-neoforge-1.5.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/lbCQKzNt/letsdo-vinery-neoforge-1.5.4.jar"
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/NmoLFrhq/letsdo-vinery-neoforge-1.5.6.jar"
 hash-format = "sha512"
-hash = "9abcd2dc17da92aea108d865ca51cbf256683a1130c4dc2f16de8903725d30216b5a8d040191263a1ede0aa2742b292e82f8dc8812b906acd1f850de095253d0"
+hash = "51c31c756de0f54a91f28c4d072925e0793ae70aefde2d23ea7ca3c5b7050ce04cc1885531ea459d1ea6adefb05d7c37616e3c9102f0fea50234f04043f6b970"
 
 [update]
 [update.modrinth]
 mod-id = "1DWmBJVA"
-version = "lbCQKzNt"
+version = "NmoLFrhq"

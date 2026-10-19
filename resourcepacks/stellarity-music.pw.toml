@@ -1,13 +1,13 @@
 name = "Stellarity Music Addon"
-filename = "Stellarity-5.2.0-Music.zip"
+filename = "Stellarity-3.1.0-Music.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IJHcrsas/versions/KlL5P1FZ/Stellarity-5.2.0-Music.zip"
+url = "https://cdn.modrinth.com/data/IJHcrsas/versions/JvkAfxb4/Stellarity-3.1.0-Music.zip"
 hash-format = "sha512"
-hash = "076a752b791f96fa431df22ac3b1e87c24d9daeb873f21d04257ad51cc4ca61ffdec80a97a132f0261cdaba6b41324e6139ced8fba534d84d59d179a44739f94"
+hash = "fa8cd310b368fe6a2f31f75e6fac84d6b4e5626b56d1126195c4645f32bb2245efd73d12d06aabac0aa8e4c729a0dbd9bdd714862415e4bf4ca05244295ebd05"
 
 [update]
 [update.modrinth]
 mod-id = "IJHcrsas"
-version = "KlL5P1FZ"
+version = "JvkAfxb4"

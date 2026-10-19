@@ -1,0 +1,13 @@
+name = "Create Cobblestone deepslate generators"
+side = "both"
+filename = "CreateCobblestone_deepslate_generators_1.0.zip"
+pin = true
+
+[update.modrinth]
+mod-id = "F2XXc3ws"
+version = "32o6qJ9q"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/F2XXc3ws/versions/32o6qJ9q/CreateCobblestone_deepslate_generators_1.0.zip"
+hash = "4ba1ee18d64fe9d94b3f15dbd3d661d0d135b88b8ccc551ce6f05355ce8e69e1892ad33dcb32387fc7d573dd44063bbffcd4311dd9bccd9aa8ee02fe5abad7ca"

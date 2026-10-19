@@ -1,0 +1,45 @@
+["Mission Reset"]
+	#A list of days of the week (in English, uppercase) on which to reset missions.
+	#Example: ["SUNDAY", "WEDNESDAY"]
+	missionResetDays = ["MONDAY"]
+	#The hour (0-23) in UTC to reset missions on the specified days.
+	# Default: 0
+	# Range: 0 ~ 23
+	missionResetHour = 0
+
+["Mission Assignment"]
+	#Number of active mission slots per player.
+	#Changes apply only when category 1 is reset or reassigned.
+	# Default: 6
+	# Range: 1 ~ 12
+	missionSlotCount = 6
+	#Display name of the existing mission category.
+	categoryOneName = "Available Missions"
+
+["Optional Mission Category"]
+	#Enable a second independently resetting mission category.
+	#A missing category 2 is initialized when a player joins.
+	#Disabling it applies when category 2 or all missions are reassigned.
+	enabled = false
+	#Display name of the second mission category.
+	name = "Weekly Missions"
+	#Number of active slots in the second mission category.
+	#Changes apply only when category 2 is reset or reassigned.
+	# Default: 6
+	# Range: 1 ~ 12
+	slotCount = 6
+	#Days on which the second mission category resets.
+	resetDays = ["MONDAY"]
+	#The hour (0-23) UTC at which the second category resets.
+	# Default: 0
+	# Range: 0 ~ 23
+	resetHour = 0
+
+["Mission Rewards"]
+	#Registry name of the item awarded by missions.
+	rewardItem = "numismatics:cog"
+
+["Mission Management"]
+	#Automatically reload missions.json after file changes.
+	#When disabled, use /missions manage reload. Applied on server start.
+	liveReload = true

@@ -1,13 +1,13 @@
 name = "Create: Broken Bad"
-filename = "createbb-4.0.1.jar"
+filename = "createbb-4.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b74612ae3325fb5bdf75c74fe13e16d86fbaa1a8"
+hash = "fb58de37d691804907167096eaca47caf9bdc91f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7241012
+file-id = 9086287
 project-id = 635620

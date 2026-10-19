@@ -26,6 +26,7 @@ You can get it one of two ways:
 ## Notable Highlights
 
 - **Create**, plus a wide range of addons/extensions
+- **Immersive Engineering**
 - **Ars Nouveau**
 - **Biomes O' Plenty**
 - **Immersive Aircraft**
@@ -45,11 +46,12 @@ Cause we love 'em. Also it's also a backronym for **N**etworks of **U**nified **
 </details>
 
 <details>
-<summary><strong>Why no custom quests?</strong></summary>
+<summary><strong>Why no quest book?</strong></summary>
 
 <br>
 
-Custom quests have not been added as we believe they limit freedom & creativity, by locking you into certain gameplay paths. While we wanted to keep the sandbox truly free to explore.
+A quest book has not been added as we believe they limit freedom & creativity, by locking you into certain gameplay paths. While we wanted to keep the sandbox truly free to explore.
+Also they don't fit the "forever world with friends" concept of the pack, as they are usually designed for a single playthrough.
 
 </details>
 

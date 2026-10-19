@@ -1,13 +1,13 @@
 name = "Stellarity"
 side = "both"
-filename = "Stellarity-3.0.6.1.zip"
+filename = "Stellarity-3.1.0.zip"
 pin = true
 
 [update.modrinth]
 mod-id = "bZgeDzN8"
-version = "yuv7KdED"
+version = "VQEYV2HX"
 
 [download]
 hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/yuv7KdED/Stellarity-3.0.6.1.zip"
-hash = "3249eb0397e1fe4e6fe01c263305e6e140d29916d227671151c89d5e901b7a59901c64dd5fcfe35e9856175119137c6ed50f6f0ffdc30cafeff2d004b86086ba"
+url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/VQEYV2HX/Stellarity-3.1.0.zip"
+hash = "0099348c7976557fdf9ef80443a787c6b1dc5f5137e47601640e5c18f20a3ed752ad16b72f9d0d17b3230d9de6a5438ddbddc881369a9e9a453907b8145e42da"

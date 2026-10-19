@@ -10,7 +10,7 @@
 	// If a custom main menu 'edition' logo should be rendered. This will replace the 'Java Edition' text. An 'edition.png' file is needed. Located in './config/simplemenu/logo'. By default the image dimensions are 512x64. To remove it completely, use an empty .png file.
 	"replaceMainMenuEditionLogo": true,
 	// If a custom background should be rendered. A 'background.png' file is needed. Located in './config/simplemenu/background/'.
-	"setCustomBackground": false,
+	"setCustomBackground": true,
 	// If the Minecraft Realms button should be hidden from the main menu. Enabled by default, since modded Minecraft is incompatible with it.
 	"hideMinecraftRealmsButton": true,
 	// Whether the Mods button's widtg should be expanded to match the singleplayer button width. Can be useful with 'hideMinecraftRealmsButton' disabled. Only applicable for Forge and NeoForge.

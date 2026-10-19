@@ -1,3 +1,68 @@
+## 26.10.
+
+**Removed:**
+
+- Removed C2ME
+- Copper Age Backport
+
+**Updated:**
+
+- Neoforge 21.1.252
+- Collective 8.58
+- Xaero's World Map 1.47.0
+- Xaero's Minimap 26.6.0
+- Ping to Map: Xaero's Minimap 1.1.2
+- Moonlight Lib 3.7.2
+- Immersive Aircraft 1.7.0
+- Entity Culling 1.11.3
+- JEI 19.64.0.456
+- Puzzles Lib 21.1.64
+- Let's Do Vinery 1.5.6
+- C: Mobile Packages 0.7.8
+- C: Broken Bad 4.1.0
+- C: Enchantment Industry 2.5.4b
+- C: Compatible Storage 2.14.0
+- EMF 3.3.12
+- ETF 7.2.6
+- Fusion 1.3.16
+- SuperMartijn642's Core Lib 1.1.25
+- Placebo 9.9.4
+- AmbientSounds 6.3.11
+- Just Zoom 3.0.1
+- Fragmentum 5.4.0
+- Particle Rain 4.0.2
+- Quark 4.1-487
+- ModernFix 5.27.26
+- Every Compat (Wood Good) 2.11.54
+- Every Compat (Stone Zone) 2.11.20
+- CreativeCore 2.13.51
+- Stellarity Music Addon 3.1.0
+- Drip Sounds 0.6.3
+- DragonLib 3.0.29
+- Amendments 2.1.11
+- Corpse 1.1.21
+- Corpse x Curios API Compat 4.2.0
+- Contraption Lights 1.5.4
+- ImmediatelyFast 1.6.15
+- Trade Cycling 1.0.23
+- Supplementaries 4.0.2
+- BlockUI 1.0.212
+- Falling Leaves 2.6.0
+- Simple Menu 2.4
+- Platform 1.4.0
+- Climbable Ropes for Aero 2.2.0
+- Vanilla Backport 1.2
+- 3D Skin Layers 1.11.4
+
+**Added:**
+
+- C: Blueprinted 2.2.4
+- ArrBrants' Custom Splash Texts 2.0.0
+- C: Cobblestone deepslate generators 1.4.6
+- C: Brassworks Missions 2.1.0
+- EntityJs 1.5.2
+- BaguetteLib 2.0.7
+
 ## 26.10.04
 
 **Removed:**
@@ -30,6 +95,7 @@
 - ETF 7.2.5
 - Just Zoom 3.0.0
 - Azimuth 1.4.10
+- C: Crafts & Additions 1.7.2
 
 **Added:**
 

@@ -9,12 +9,14 @@
     "builtin/towntalk",
     "Moonlight Mods Dynamic Assets",
     "default_seamless",
+    "vanillabackport:backported_ost",
     "create_aquatic_ambitions:harverstable_corals",
     "create_aquatic_ambitions:silkless_corals",
     "file/Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip",
     "file/Strawberry Bushes 1.20.zip",
-    "file/Stellarity-5.2.0-Music.zip",
+    "file/Stellarity-3.1.0-Music.zip",
     "file/Pool-Resourcepack-v1.3.6-mc1.21plus.zip",
+    "generated/fragmentum_layer",
     "file/CreateNuggetsPack.zip"
   ],
   "pack_overrides": {
@@ -26,12 +28,14 @@
       "builtin/spawn/respawned_eggs",
       "moonlight:merged_pack",
       "mod/seamless:resourcepacks/default_seamless",
+      "vanillabackport:backported_ost",
       "create_aquatic_ambitions:harverstable_corals",
       "create_aquatic_ambitions:silkless_corals",
       "file/Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip",
       "file/Strawberry Bushes 1.20.zip",
-      "file/Stellarity-5.2.0-Music.zip",
+      "file/Stellarity-3.1.0-Music.zip",
       "file/Pool-Resourcepack-v1.3.6-mc1.21plus.zip",
+      "generated/fragmentum_layer",
       "file/CreateNuggetsPack.zip"
     ],
     "hidden": [
