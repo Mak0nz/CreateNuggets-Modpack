@@ -1,3 +1,19 @@
+## 26.10.21
+
+**Removed:**
+
+- ArrBrants' Custom Splash Texts
+  _(crashes game on Windows devices)_
+
+**Updated:**
+
+- fixes crash on Windows - removed unused rps from resourcepackoverrides.json
+- carryon config to not pick up sable stuff
+
+**Added:**
+
+- Fast Noise 1.0.13
+
 ## 26.10.19
 
 **Removed:**
@@ -62,6 +78,7 @@
 - C: Brassworks Missions 2.1.0
 - EntityJs 1.5.2
 - BaguetteLib 2.0.7
+- _custom npc at spawn to handle weekly quests_
 
 ## 26.10.04
 

@@ -34,7 +34,7 @@ hash = "74e43c97096cc80ba8d8a1966ecc63b1cf57ee0116fb32f8821f777e4c78fc60"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "234e3c03961a783b88a77aec99d8fdaa4508a9a6aebf6852a5a2ba58c197c85f"
+hash = "0961eada2a688a7f64fac893bd73947348af52fc9aeb5180a785d8315eab34bf"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -42,7 +42,7 @@ hash = "21da06c5e90f1c63b6b9a44de1543c9e5abdb7f66b622130159816dec0e7a874"
 
 [[files]]
 file = "config/brassworksmissions-server.toml"
-hash = "df93a20003b18d9f2af669fc5e8aab489745491e15764d62144b44d7f4a066e5"
+hash = "4a2462425f2301e4bb382060cdb00a427446d53d9fe9a2da1eabfbb64811d006"
 
 [[files]]
 file = "config/brassworksmissions/missions.json"
@@ -50,7 +50,7 @@ hash = "0ce8487fdb108114f4668a35a2bdd96ec5d7cd5612956e31e8a33daa8bdb8b45"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "f8fbaec832be0ac616cf129f4ea604ccd0898b3c722e578cb852d6a913ccbece"
+hash = "f8bc65f5009b6c443348cef1ce336f30aa66cc32bc3563934c66229300855e6c"
 
 [[files]]
 file = "config/contraptionlights-client.toml"
@@ -67,10 +67,6 @@ hash = "5df05a3af2a7e62ed1cce80823b4905c014ae2c3d8c3ba8ef07c04d1181353c2"
 [[files]]
 file = "config/create_marketplace-common.toml"
 hash = "60ee90b33ad78ed5a66c43162df51353f8bfa2fe7870a7b854feb6498ab65426"
-
-[[files]]
-file = "config/customsplash.json"
-hash = "d2418bce030a8b4a709aefabb3516d1994ec28485b8a77f3c2dfda6cf36070e7"
 
 [[files]]
 file = "config/elytra-tuning.json"
@@ -134,7 +130,7 @@ hash = "0625e99ff86e7a7d42f8b92904609488310259857f60f8a8bbeb33ff1c65ac15"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "4a97f827a99f7be1fb3442ac6951492a9f20ddeab66b8c99855f4f2a5a492fe9"
+hash = "1118f416c046e74e51049b4b7d9408ddba2147dcfc35477837af5c2dac5e8450"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -431,11 +427,6 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "d6c17b9756d8b9491b1813a3a999f78918e268809f904e4739719a7eed82719b"
-metafile = true
-
-[[files]]
-file = "mods/arrbrants-custom-splash-texts.pw.toml"
-hash = "ef3fb9dabc79d4f22f17e37b5986f6c3758ba6ab84ff376c841ecf47f589680c"
 metafile = true
 
 [[files]]
@@ -1949,6 +1940,11 @@ hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "5c81ddfdbd9893968387fb81a5ebe38fc471a2876adf05791bd921ae8fda55a4"
+metafile = true
+
+[[files]]
 file = "moonlight-global-datapacks/anti enderman grief v1.1.15 (MC 1.21-1.21.11).zip"
 hash = "14cfcab51ea5a46e1b7a9aa64d42f5b2e94188ea18818e9207b8325e0f66d9e3"
 
@@ -2016,7 +2012,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/CreateNuggetsPack.zip"
-hash = "c6020faaa64e3fc7a5a63268f6bc74852447b783cbc25fdaa57f9b2386b16f98"
+hash = "fc294021e6efaeed9bbbddc30eb4628628eadfa70d40332875f0b29040810381"
 
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"

@@ -12,7 +12,7 @@
 	#Changes apply only when category 1 is reset or reassigned.
 	# Default: 6
 	# Range: 1 ~ 12
-	missionSlotCount = 6
+	missionSlotCount = 4
 	#Display name of the existing mission category.
 	categoryOneName = "Available Missions"
 
